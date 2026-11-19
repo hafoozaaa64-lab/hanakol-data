@@ -1,9 +1,9 @@
 {
  "version": 1,
- "updated_at": "2026-11-20T00:49:19+02:00",
+ "updated_at": "2026-11-20T01:09:58+02:00",
  "currency": "EGP",
  "default": {
-  "rice": 35.19,
+  "rice": 35.2,
   "pasta": 27.02,
   "orzo": 58.28,
   "vermicelli": 49.14,
@@ -463,8 +463,8 @@
    "id": "almasry_cabinet",
    "name": "المصري اليوم — السلع الأساسية (بوابة الأسعار - مجلس الوزراء، متوسط تجزئة)",
    "kind": "retail",
-   "url": "https://www.almasryalyoum.com/news/details/4414279",
-   "date": "2026-11-19",
+   "url": "https://www.almasryalyoum.com/news/details/4415180",
+   "date": "2026-11-20",
    "ids_priced": 7
   },
   {
@@ -721,17 +721,17 @@
    "observations": [
     {
      "source": "almasry_cabinet",
-     "price": 35.19,
-     "date": "2026-11-19"
+     "price": 35.2,
+     "date": "2026-11-20"
     }
    ],
-   "candidate": 35.19,
-   "date": "2026-11-19",
+   "candidate": 35.2,
+   "date": "2026-11-20",
    "source": "المصري اليوم",
    "source_ids": [
     "almasry_cabinet"
    ],
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-20"
   },
   "pasta": {
    "status": "fresh",
@@ -744,16 +744,16 @@
     {
      "source": "almasry_cabinet",
      "price": 27.02,
-     "date": "2026-11-19"
+     "date": "2026-11-20"
     }
    ],
    "candidate": 27.02,
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "source": "المصري اليوم",
    "source_ids": [
     "almasry_cabinet"
    ],
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-20"
   },
   "orzo": {
    "status": "fresh",
@@ -927,16 +927,16 @@
     {
      "source": "almasry_cabinet",
      "price": 61.81,
-     "date": "2026-11-19"
+     "date": "2026-11-20"
     }
    ],
    "candidate": 61.81,
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "source": "المصري اليوم",
    "source_ids": [
     "almasry_cabinet"
    ],
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-20"
   },
   "fava_split": {
    "status": "fresh",
@@ -949,16 +949,16 @@
     {
      "source": "almasry_cabinet",
      "price": 61.59,
-     "date": "2026-11-19"
+     "date": "2026-11-20"
     }
    ],
    "candidate": 61.59,
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "source": "المصري اليوم",
    "source_ids": [
     "almasry_cabinet"
    ],
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-20"
   },
   "whitebeans": {
    "status": "fresh",
@@ -1087,16 +1087,16 @@
     {
      "source": "almasry_cabinet",
      "price": 27.53,
-     "date": "2026-11-19"
+     "date": "2026-11-20"
     }
    ],
    "candidate": 27.53,
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "source": "المصري اليوم",
    "source_ids": [
     "almasry_cabinet"
    ],
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-20"
   },
   "semolina": {
    "status": "held",
@@ -1173,16 +1173,16 @@
     {
      "source": "almasry_cabinet",
      "price": 35.68,
-     "date": "2026-11-19"
+     "date": "2026-11-20"
     }
    ],
    "candidate": 35.68,
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "source": "المصري اليوم",
    "source_ids": [
     "almasry_cabinet"
    ],
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-20"
   },
   "bread": {
    "status": "held",
@@ -1931,7 +1931,7 @@
     {
      "source": "almasry_cabinet",
      "price": 4.17,
-     "date": "2026-11-19"
+     "date": "2026-11-20"
     },
     {
      "source": "elwatan_eggs",
@@ -1945,14 +1945,14 @@
     }
    ],
    "candidate": 4.17,
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "source": "المصري اليوم + الوطن + بانكير",
    "source_ids": [
     "almasry_cabinet",
     "elwatan_eggs",
     "banker_poultry"
    ],
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-20"
   },
   "tomato": {
    "status": "fresh",
@@ -4687,12 +4687,6 @@
     "date": "2026-11-20",
     "products": [
      {
-      "sku": "6221022110216",
-      "name": "Regina Linguini Pasta",
-      "unit_price": 87.5,
-      "calc": "35 EGP / 400g"
-     },
-     {
       "sku": "6221022110520",
       "name": "Regina Shells Pasta",
       "unit_price": 87.5,
@@ -4711,6 +4705,18 @@
       "calc": "35 EGP / 400g"
      },
      {
+      "sku": "6221022110216",
+      "name": "Regina Linguini Pasta",
+      "unit_price": 87.5,
+      "calc": "35 EGP / 400g"
+     },
+     {
+      "sku": "6221022110414",
+      "name": "Regina Macaroni Pasta",
+      "unit_price": 87.5,
+      "calc": "35 EGP / 400g"
+     },
+     {
       "sku": "6221022110025",
       "name": "Regina Spaghetti Pasta",
       "unit_price": 87.5,
@@ -4719,12 +4725,6 @@
      {
       "sku": "6221022110421",
       "name": "Regina Big Rings Pasta 400g",
-      "unit_price": 87.5,
-      "calc": "35 EGP / 400g"
-     },
-     {
-      "sku": "6221022110414",
-      "name": "Regina Macaroni Pasta",
       "unit_price": 87.5,
       "calc": "35 EGP / 400g"
      },
@@ -5151,16 +5151,16 @@
       "calc": "70 EGP / 250ml"
      },
      {
-      "sku": "6224002142016",
-      "name": "Lamar Cooking Cream",
-      "unit_price": 300.0,
-      "calc": "75 EGP / 250ml"
-     },
-     {
       "sku": "6222014300134",
       "name": "Juhayna Cooking Cream - Medium",
       "unit_price": 320.0,
       "calc": "160 EGP / 500ml"
+     },
+     {
+      "sku": "6224002142016",
+      "name": "Lamar Cooking Cream",
+      "unit_price": 300.0,
+      "calc": "75 EGP / 250ml"
      },
      {
       "sku": "6224008637196",
@@ -5404,18 +5404,6 @@
     "date": "2026-11-20",
     "products": [
      {
-      "sku": "6772504684157",
-      "name": "Al Alamya Red Eggs 30 Eggs",
-      "unit_price": 8.13,
-      "calc": "244 EGP / 30 pcs × 1"
-     },
-     {
-      "sku": "6772504684140",
-      "name": "Al Alamya White Eggs 30 Eggs",
-      "unit_price": 7.87,
-      "calc": "236 EGP / 30 pcs × 1"
-     },
-     {
       "sku": "6225000439474",
       "name": "Zanaty White Eggs - 24 Pieces",
       "unit_price": 7.88,
@@ -5426,6 +5414,18 @@
       "name": "Zanaty Red Eggs - 6 Pieces",
       "unit_price": 11.17,
       "calc": "67 EGP / 6 pcs × 1"
+     },
+     {
+      "sku": "6772504684157",
+      "name": "Al Alamya Red Eggs 30 Eggs",
+      "unit_price": 8.13,
+      "calc": "244 EGP / 30 pcs × 1"
+     },
+     {
+      "sku": "6772504684140",
+      "name": "Al Alamya White Eggs 30 Eggs",
+      "unit_price": 7.87,
+      "calc": "236 EGP / 30 pcs × 1"
      },
      {
       "sku": "6225000000193",
@@ -5464,6 +5464,12 @@
       "calc": "191 EGP / 24 pcs × 1"
      },
      {
+      "sku": "6225000000162",
+      "name": "Egyptian Growers White Eggs 15 Pieces",
+      "unit_price": 7.13,
+      "calc": "107 EGP / 15 pcs × 1"
+     },
+     {
       "sku": "6225000000155",
       "name": "Egyptian Growers White Eggs - 10 Pieces",
       "unit_price": 7.8,
@@ -5474,12 +5480,6 @@
       "name": "Al Alamya White Eggs - 6 Pieces",
       "unit_price": 11.83,
       "calc": "71 EGP / 6 pcs × 1"
-     },
-     {
-      "sku": "6225000000162",
-      "name": "Egyptian Growers White Eggs 15 Pieces",
-      "unit_price": 7.13,
-      "calc": "107 EGP / 15 pcs × 1"
      },
      {
       "sku": "6224002013255",
@@ -5960,16 +5960,16 @@
       "calc": "745 EGP / 200g"
      },
      {
-      "sku": "7027627777774",
-      "name": "California Roasted & Salted Pistachios",
-      "unit_price": 1800.0,
-      "calc": "360 EGP / 200g"
-     },
-     {
       "sku": "7026556672471",
       "name": "Gourmet Salted Roasted Peeled Pistachios",
       "unit_price": 3733.33,
       "calc": "560 EGP / 150g"
+     },
+     {
+      "sku": "7027627777774",
+      "name": "California Roasted & Salted Pistachios",
+      "unit_price": 1800.0,
+      "calc": "360 EGP / 200g"
      },
      {
       "sku": "7026550666674",
@@ -19355,42 +19355,42 @@
    {
     "url": "https://www.banker.news/rss.aspx",
     "ok": true,
-    "bytes": 21468
+    "bytes": 21627
    },
    {
     "url": "https://www.banker.news/category/43",
     "ok": true,
-    "bytes": 54083
+    "bytes": 54071
    },
    {
     "url": "https://www.banker.news/category/43?page=2",
     "ok": true,
-    "bytes": 54528
+    "bytes": 54516
    },
    {
     "url": "https://www.banker.news/156861",
     "ok": true,
-    "bytes": 74156
+    "bytes": 74144
    },
    {
     "url": "https://www.banker.news/156856",
     "ok": true,
-    "bytes": 72046
+    "bytes": 72034
    },
    {
     "url": "https://www.banker.news/161727",
     "ok": true,
-    "bytes": 75100
+    "bytes": 75088
    },
    {
     "url": "https://www.almasryalyoum.com/sitemapxmls/news/news-2026-11.xml",
     "ok": true,
-    "bytes": 8543818
+    "bytes": 8551208
    },
    {
-    "url": "https://www.almasryalyoum.com/news/details/4414279",
+    "url": "https://www.almasryalyoum.com/news/details/4415180",
     "ok": true,
-    "bytes": 336571
+    "bytes": 336411
    },
    {
     "url": "https://www.elwatannews.com/news-sitemap.xml",
@@ -19415,7 +19415,7 @@
    {
     "url": "https://www.almasryalyoum.com/sitemapxmls/news/news-2026-11.xml",
     "ok": true,
-    "bytes": 8543818
+    "bytes": 8551208
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4414602",
@@ -19425,12 +19425,12 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4414399",
     "ok": true,
-    "bytes": 327272
+    "bytes": 327290
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4414274",
     "ok": true,
-    "bytes": 333291
+    "bytes": 333297
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4414273",
@@ -19450,7 +19450,7 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4412738",
     "ok": true,
-    "bytes": 316559
+    "bytes": 316565
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4412660",
@@ -19480,7 +19480,7 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4411690",
     "ok": true,
-    "bytes": 318603
+    "bytes": 318604
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4411541",
@@ -19490,7 +19490,7 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4411512",
     "ok": true,
-    "bytes": 331319
+    "bytes": 331321
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4411164",
@@ -19500,7 +19500,7 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4414604",
     "ok": true,
-    "bytes": 315876
+    "bytes": 315893
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4412719",
@@ -19515,7 +19515,7 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4412656",
     "ok": true,
-    "bytes": 315840
+    "bytes": 315845
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4411785",
@@ -19590,12 +19590,12 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4414519",
     "ok": true,
-    "bytes": 325751
+    "bytes": 325770
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4414277",
     "ok": true,
-    "bytes": 328051
+    "bytes": 328068
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4413716",
@@ -19605,12 +19605,12 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4413332",
     "ok": true,
-    "bytes": 328072
+    "bytes": 328079
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4412750",
     "ok": true,
-    "bytes": 319864
+    "bytes": 319870
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4412480",
@@ -19665,7 +19665,7 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4408565",
     "ok": true,
-    "bytes": 325998
+    "bytes": 325996
    },
    {
     "source": "gourmet",
