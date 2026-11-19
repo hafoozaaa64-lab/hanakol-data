@@ -1,0 +1,3992 @@
+{
+ "version": 1,
+ "updated_at": "2026-11-19T23:41:32+02:00",
+ "currency": "EGP",
+ "default": {
+  "rice": 35.19,
+  "pasta": 27.02,
+  "orzo": 50.0,
+  "vermicelli": 60.0,
+  "freekeh": 150.0,
+  "lentil_b": 75.0,
+  "lentil_y": 62.0,
+  "chickpea": 90.0,
+  "fava": 61.81,
+  "fava_split": 61.59,
+  "whitebeans": 110.0,
+  "chickpea_can": 22.0,
+  "fava_can": 27.5,
+  "beans_can": 30.0,
+  "flour": 27.53,
+  "semolina": 40.0,
+  "starch": 60.0,
+  "sugar": 35.68,
+  "bread": 2.0,
+  "shami": 4.0,
+  "fino": 3.0,
+  "buns": 6.0,
+  "breadcrumbs": 100.0,
+  "roqaq": 100.0,
+  "goulash": 100.0,
+  "kunafa": 70.0,
+  "yeast": 6.0,
+  "oil": 107.78,
+  "ghee": 180.0,
+  "butter": 187.0,
+  "milk": 63.53,
+  "cream": 300.0,
+  "yogurt": 12.0,
+  "wcheese": 150.0,
+  "rumi": 297.0,
+  "cheddar": 387.0,
+  "mozz": 400.65,
+  "bghee": 480.0,
+  "oliveoil": 420.0,
+  "parm": 1100.0,
+  "gouda": 420.0,
+  "kiri": 67.5,
+  "whipcream": 300.0,
+  "milkpowder": 400.0,
+  "eggs": 4.17,
+  "tomato": 14.0,
+  "onion": 25.0,
+  "potato": 25.0,
+  "garlic": 50.0,
+  "pepper": 20.0,
+  "colpepper": 42.0,
+  "hotpepper": 15.0,
+  "zucchini": 16.75,
+  "eggplant": 9.0,
+  "carrot": 15.0,
+  "okra": 42.0,
+  "molokhia": 9.0,
+  "cucumber": 20.0,
+  "vine": 50.0,
+  "greenbeans": 44.0,
+  "peas": 80.0,
+  "cabbage": 10.0,
+  "cauliflower": 15.0,
+  "spinach": 25.0,
+  "chard": 15.0,
+  "taro": 25.0,
+  "mushroom": 200.0,
+  "mango": 60.0,
+  "arugula": 3.0,
+  "lettuce": 10.0,
+  "lemon": 1.5,
+  "herbs": 5.0,
+  "paste": 65.0,
+  "vinegar": 25.0,
+  "tahini": 200.0,
+  "mayo": 55.0,
+  "soy": 60.0,
+  "olives": 80.0,
+  "tuna": 65.0,
+  "molasses": 70.0,
+  "nuts": 600.0,
+  "raisins": 200.0,
+  "coconut": 250.0,
+  "cocoa": 300.0,
+  "tomsauce": 30.0,
+  "puree": 45,
+  "pommolasses": 70.0,
+  "pistachio": 1500.0,
+  "sesame": 160.0,
+  "puff": 190.0,
+  "spices": 10.0,
+  "flav": 10.0,
+  "chicken": 78.25,
+  "breast": 210.0,
+  "thighs": 100.0,
+  "chliver": 140.0,
+  "pigeon": 93.0,
+  "duck": 135.0,
+  "rabbit": 160.0,
+  "beef": 425.0,
+  "lamb": 430.0,
+  "veal": 399.0,
+  "fillet": 650.0,
+  "baladi": 150.0,
+  "chops": 700.0,
+  "tender": 900.0,
+  "mince_p": 450.0,
+  "vliver": 425.0,
+  "mince": 430.0,
+  "sausage": 260.0,
+  "liver": 160.0,
+  "kaware": 160.0,
+  "mombar": 150.0,
+  "pastrami": 600.0,
+  "tilapia": 85.0,
+  "mullet": 180.0,
+  "bream": 395.0,
+  "fishfillet": 190.0,
+  "shrimp": 550.0,
+  "calamari": 240.0,
+  "jumbo": 950.0,
+  "burger_frz": 30.0,
+  "hotdog": 13.0,
+  "sambousek_frz": 10.0,
+  "kobeiba_frz": 17.0,
+  "kofta_frz": 400.0,
+  "panee_frz": 406.25,
+  "nuggets": 337.5,
+  "strips": 412.5,
+  "shish_mar": 300.0,
+  "fish_frz": 210.0,
+  "shrimp_frz": 500.0,
+  "fries_frz": 113.33,
+  "molokhia_frz": 68.75,
+  "mixveg_frz": 95.0,
+  "hawawshi_frz": 40.0,
+  "pizza_frz": 170.0,
+  "crepe_ready": 8.0,
+  "luncheon": 320.0,
+  "turkey_smoked": 520.0,
+  "beef_bacon": 700.0,
+  "grape_juice": 60.0,
+  "ketchup": 130.0,
+  "mustard": 234.04
+ },
+ "stores": {
+  "gourmet": {
+   "rice": 45.0,
+   "pasta": 87.5,
+   "orzo": 87.5,
+   "vermicelli": 87.5,
+   "freekeh": 150.0,
+   "lentil_b": 140.0,
+   "lentil_y": 140.0,
+   "fava": 140.0,
+   "fava_split": 130.0,
+   "whitebeans": 200.0,
+   "chickpea_can": 37.5,
+   "fava_can": 27.5,
+   "semolina": 80.0,
+   "starch": 104.17,
+   "sugar": 52.66,
+   "breadcrumbs": 100.0,
+   "yeast": 6.0,
+   "oil": 125.0,
+   "bghee": 740.0,
+   "butter": 1250.0,
+   "milk": 63.53,
+   "cream": 300.0,
+   "yogurt": 17,
+   "wcheese": 322.23,
+   "mozz": 400.65,
+   "oliveoil": 1050.0,
+   "kiri": 67.5,
+   "whipcream": 300.0,
+   "eggs": 8.32,
+   "tomato": 84.0,
+   "onion": 73.5,
+   "potato": 63.0,
+   "garlic": 276.67,
+   "zucchini": 73.5,
+   "carrot": 68.5,
+   "okra": 245.0,
+   "molokhia_frz": 68.75,
+   "cucumber": 79.5,
+   "greenbeans": 122.5,
+   "peas": 175.0,
+   "mushroom": 485.0,
+   "mango": 365.0,
+   "lettuce": 24.5,
+   "paste": 129.17,
+   "vinegar": 25.0,
+   "tahini": 343.75,
+   "tuna": 65.0,
+   "molasses": 123.84,
+   "nuts": 1391.66,
+   "raisins": 440.0,
+   "puree": 45,
+   "pommolasses": 160,
+   "pistachio": 3000.0,
+   "sesame": 907.69,
+   "puff": 362.5,
+   "ketchup": 230.77,
+   "mustard": 234.04,
+   "chliver": 200.0,
+   "mince": 683.33,
+   "vliver": 612.5,
+   "panee_frz": 406.25,
+   "nuggets": 337.5,
+   "strips": 412.5,
+   "fries_frz": 113.33
+  }
+ },
+ "sources": [
+  {
+   "id": "obour",
+   "name": "سوق العبور للجملة — أسعار اليوم (رسمي، جملة)",
+   "kind": "wholesale",
+   "url": "http://www.oboormarket.org.eg/prices_today.aspx",
+   "date": "2026-11-19",
+   "ids_priced": 15
+  },
+  {
+   "id": "banker_veg",
+   "name": "بانكير — أسعار الخضار في سوق العبور (جملة)",
+   "kind": "wholesale",
+   "url": "https://www.banker.news/156861",
+   "date": "2026-10-20",
+   "ids_priced": 0
+  },
+  {
+   "id": "banker_meat",
+   "name": "بانكير — أسعار اللحوم (بوابة الأسعار - مجلس الوزراء، متوسط تجزئة)",
+   "kind": "retail",
+   "url": "https://www.banker.news/156856",
+   "date": "2026-10-20",
+   "ids_priced": 0
+  },
+  {
+   "id": "banker_poultry",
+   "name": "بانكير — أسعار الفراخ (بوابة الأسعار - مجلس الوزراء، تجزئة)",
+   "kind": "retail",
+   "url": "https://www.banker.news/161727",
+   "date": "2026-11-19",
+   "ids_priced": 2
+  },
+  {
+   "id": "almasry_cabinet",
+   "name": "المصري اليوم — السلع الأساسية (بوابة الأسعار - مجلس الوزراء، متوسط تجزئة)",
+   "kind": "retail",
+   "url": "https://www.almasryalyoum.com/news/details/4414279",
+   "date": "2026-11-19",
+   "ids_priced": 8
+  },
+  {
+   "id": "elwatan_poultry",
+   "name": "الوطن — أسعار الفراخ في الأسواق (تجزئة)",
+   "kind": "retail",
+   "url": "https://www.elwatannews.com/news/details/8399636",
+   "date": "2026-11-19",
+   "ids_priced": 2
+  },
+  {
+   "id": "elwatan_eggs",
+   "name": "الوطن — أسعار البيض في الأسواق (تجزئة)",
+   "kind": "retail",
+   "url": "https://www.elwatannews.com/news/details/8399677",
+   "date": "2026-11-19",
+   "ids_priced": 1
+  },
+  {
+   "id": "almasry_veg",
+   "name": "المصري اليوم — أسعار الخضروات في أسواق المحافظات (تجزئة)",
+   "kind": "retail",
+   "url": "https://www.almasryalyoum.com/news/details/4414602",
+   "date": "2026-11-19",
+   "ids_priced": 14
+  },
+  {
+   "id": "almasry_veg",
+   "name": "المصري اليوم — أسعار الخضروات في أسواق المحافظات (تجزئة)",
+   "kind": "retail",
+   "url": "https://www.almasryalyoum.com/news/details/4412660",
+   "date": "2026-11-17",
+   "ids_priced": 14
+  },
+  {
+   "id": "almasry_meat",
+   "name": "المصري اليوم — أسعار اللحوم في أسواق المحافظات (تجزئة)",
+   "kind": "retail",
+   "url": "https://www.almasryalyoum.com/news/details/4414604",
+   "date": "2026-11-19",
+   "ids_priced": 6
+  },
+  {
+   "id": "gourmet",
+   "name": "جورميه إيجيبت — أسعار المتجر الأونلاين (سوبر ماركت راقي)",
+   "kind": "store",
+   "url": "https://gourmetegypt.com/",
+   "date": "2026-11-19",
+   "ids_priced": 66
+  }
+ ],
+ "units": {
+  "rice": "kg",
+  "pasta": "kg",
+  "orzo": "kg",
+  "vermicelli": "kg",
+  "freekeh": "kg",
+  "lentil_b": "kg",
+  "lentil_y": "kg",
+  "chickpea": "kg",
+  "fava": "kg",
+  "fava_split": "kg",
+  "whitebeans": "kg",
+  "chickpea_can": "pc",
+  "fava_can": "pc",
+  "beans_can": "pc",
+  "flour": "kg",
+  "semolina": "kg",
+  "starch": "kg",
+  "sugar": "kg",
+  "bread": "pc",
+  "shami": "pc",
+  "fino": "pc",
+  "buns": "pc",
+  "breadcrumbs": "kg",
+  "roqaq": "kg",
+  "goulash": "kg",
+  "kunafa": "kg",
+  "yeast": "pc",
+  "oil": "l",
+  "ghee": "kg",
+  "butter": "kg",
+  "milk": "l",
+  "cream": "kg",
+  "yogurt": "pc",
+  "wcheese": "kg",
+  "rumi": "kg",
+  "cheddar": "kg",
+  "mozz": "kg",
+  "bghee": "kg",
+  "oliveoil": "l",
+  "parm": "kg",
+  "gouda": "kg",
+  "kiri": "pc",
+  "whipcream": "l",
+  "milkpowder": "kg",
+  "eggs": "pc",
+  "tomato": "kg",
+  "onion": "kg",
+  "potato": "kg",
+  "garlic": "kg",
+  "pepper": "kg",
+  "colpepper": "kg",
+  "hotpepper": "kg",
+  "zucchini": "kg",
+  "eggplant": "kg",
+  "carrot": "kg",
+  "okra": "kg",
+  "molokhia": "kg",
+  "cucumber": "kg",
+  "vine": "kg",
+  "greenbeans": "kg",
+  "peas": "kg",
+  "cabbage": "kg",
+  "cauliflower": "kg",
+  "spinach": "kg",
+  "chard": "kg",
+  "taro": "kg",
+  "mushroom": "kg",
+  "mango": "kg",
+  "arugula": "pc",
+  "lettuce": "pc",
+  "lemon": "pc",
+  "herbs": "pc",
+  "paste": "kg",
+  "vinegar": "l",
+  "tahini": "kg",
+  "mayo": "pc",
+  "soy": "pc",
+  "olives": "kg",
+  "tuna": "pc",
+  "molasses": "kg",
+  "nuts": "kg",
+  "raisins": "kg",
+  "coconut": "kg",
+  "cocoa": "kg",
+  "tomsauce": "pc",
+  "puree": "pc",
+  "pommolasses": "pc",
+  "pistachio": "kg",
+  "sesame": "kg",
+  "puff": "kg",
+  "spices": "pk",
+  "flav": "pk",
+  "chicken": "kg",
+  "breast": "kg",
+  "thighs": "kg",
+  "chliver": "kg",
+  "pigeon": "pc",
+  "duck": "kg",
+  "rabbit": "kg",
+  "beef": "kg",
+  "lamb": "kg",
+  "veal": "kg",
+  "fillet": "kg",
+  "baladi": "kg",
+  "chops": "kg",
+  "tender": "kg",
+  "mince_p": "kg",
+  "vliver": "kg",
+  "mince": "kg",
+  "sausage": "kg",
+  "liver": "kg",
+  "kaware": "kg",
+  "mombar": "kg",
+  "pastrami": "kg",
+  "tilapia": "kg",
+  "mullet": "kg",
+  "bream": "kg",
+  "fishfillet": "kg",
+  "shrimp": "kg",
+  "calamari": "kg",
+  "jumbo": "kg",
+  "burger_frz": "pc",
+  "hotdog": "pc",
+  "sambousek_frz": "pc",
+  "kobeiba_frz": "pc",
+  "kofta_frz": "kg",
+  "panee_frz": "kg",
+  "nuggets": "kg",
+  "strips": "kg",
+  "shish_mar": "kg",
+  "fish_frz": "kg",
+  "shrimp_frz": "kg",
+  "fries_frz": "kg",
+  "molokhia_frz": "kg",
+  "mixveg_frz": "kg",
+  "hawawshi_frz": "pc",
+  "pizza_frz": "pc",
+  "crepe_ready": "pc",
+  "luncheon": "kg",
+  "turkey_smoked": "kg",
+  "beef_bacon": "kg",
+  "grape_juice": "l",
+  "ketchup": "kg",
+  "mustard": "kg"
+ },
+ "detail": {
+  "rice": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "almasry_cabinet"
+   ],
+   "candidate": 35.19,
+   "date": "2026-11-19"
+  },
+  "pasta": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "almasry_cabinet"
+   ],
+   "candidate": 27.02,
+   "date": "2026-11-19"
+  },
+  "orzo": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 87.5,
+   "held": {
+    "candidate": 87.5,
+    "since": "2026-11-19",
+    "reason": "change +75% > ±40% vs 50",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "vermicelli": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 87.5,
+   "held": {
+    "candidate": 87.5,
+    "since": "2026-11-19",
+    "reason": "change +46% > ±40% vs 60",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "freekeh": {
+   "status": "fresh",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 150.0,
+   "date": "2026-11-19"
+  },
+  "lentil_b": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 140.0,
+   "held": {
+    "candidate": 140.0,
+    "since": "2026-11-19",
+    "reason": "change +87% > ±40% vs 75",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "lentil_y": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 140.0,
+   "held": {
+    "candidate": 140.0,
+    "since": "2026-11-19",
+    "reason": "change +126% > ±40% vs 62",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "chickpea": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "fava": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "almasry_cabinet"
+   ],
+   "candidate": 61.81,
+   "date": "2026-11-19"
+  },
+  "fava_split": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "almasry_cabinet"
+   ],
+   "candidate": 61.59,
+   "date": "2026-11-19"
+  },
+  "whitebeans": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 200.0,
+   "held": {
+    "candidate": 200.0,
+    "since": "2026-11-19",
+    "reason": "change +82% > ±40% vs 110",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "chickpea_can": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "pc",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 37.5,
+   "held": {
+    "candidate": 37.5,
+    "since": "2026-11-19",
+    "reason": "change +70% > ±40% vs 22",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "fava_can": {
+   "status": "fresh",
+   "origin": "gourmet",
+   "unit": "pc",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 27.5,
+   "date": "2026-11-19"
+  },
+  "beans_can": {
+   "status": "builtin",
+   "unit": "pc"
+  },
+  "flour": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "almasry_cabinet"
+   ],
+   "candidate": 27.53,
+   "date": "2026-11-19"
+  },
+  "semolina": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 80.0,
+   "held": {
+    "candidate": 80.0,
+    "since": "2026-11-19",
+    "reason": "change +100% > ±40% vs 40",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "starch": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 104.17,
+   "held": {
+    "candidate": 104.17,
+    "since": "2026-11-19",
+    "reason": "change +74% > ±40% vs 60",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "sugar": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "almasry_cabinet"
+   ],
+   "candidate": 35.68,
+   "date": "2026-11-19"
+  },
+  "bread": {
+   "status": "builtin",
+   "unit": "pc"
+  },
+  "shami": {
+   "status": "builtin",
+   "unit": "pc"
+  },
+  "fino": {
+   "status": "builtin",
+   "unit": "pc"
+  },
+  "buns": {
+   "status": "builtin",
+   "unit": "pc"
+  },
+  "breadcrumbs": {
+   "status": "fresh",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 100.0,
+   "date": "2026-11-19"
+  },
+  "roqaq": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "goulash": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "kunafa": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "yeast": {
+   "status": "fresh",
+   "origin": "gourmet",
+   "unit": "pc",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 6.0,
+   "date": "2026-11-19"
+  },
+  "oil": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "l",
+   "sources": [
+    "almasry_cabinet"
+   ],
+   "candidate": 107.78,
+   "date": "2026-11-19"
+  },
+  "ghee": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "butter": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 1250.0,
+   "held": {
+    "candidate": 1250.0,
+    "since": "2026-11-19",
+    "reason": "change +568% > ±40% vs 187",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "milk": {
+   "status": "fresh",
+   "origin": "gourmet",
+   "unit": "l",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 63.53,
+   "date": "2026-11-19"
+  },
+  "cream": {
+   "status": "fresh",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 300.0,
+   "date": "2026-11-19"
+  },
+  "yogurt": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "pc",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 17,
+   "held": {
+    "candidate": 17,
+    "since": "2026-11-19",
+    "reason": "change +42% > ±40% vs 12",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "wcheese": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 322.23,
+   "held": {
+    "candidate": 322.23,
+    "since": "2026-11-19",
+    "reason": "change +115% > ±40% vs 150",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "rumi": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "cheddar": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "mozz": {
+   "status": "fresh",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 400.65,
+   "date": "2026-11-19"
+  },
+  "bghee": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 740.0,
+   "held": {
+    "candidate": 740.0,
+    "since": "2026-11-19",
+    "reason": "change +54% > ±40% vs 480",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "oliveoil": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "l",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 1050.0,
+   "held": {
+    "candidate": 1050.0,
+    "since": "2026-11-19",
+    "reason": "change +150% > ±40% vs 420",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "parm": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "gouda": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "kiri": {
+   "status": "fresh",
+   "origin": "gourmet",
+   "unit": "pc",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 67.5,
+   "date": "2026-11-19"
+  },
+  "whipcream": {
+   "status": "fresh",
+   "origin": "gourmet",
+   "unit": "l",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 300.0,
+   "date": "2026-11-19"
+  },
+  "milkpowder": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "eggs": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "pc",
+   "sources": [
+    "almasry_cabinet",
+    "elwatan_eggs",
+    "banker_poultry"
+   ],
+   "candidate": 4.17,
+   "date": "2026-11-19"
+  },
+  "tomato": {
+   "status": "held",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "obour",
+    "almasry_veg",
+    "almasry_veg"
+   ],
+   "candidate": 20.25,
+   "held": {
+    "candidate": 20.25,
+    "since": "2026-11-19",
+    "reason": "change +45% > ±40% vs 14",
+    "origin": "market"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "onion": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "obour",
+    "almasry_veg",
+    "almasry_veg"
+   ],
+   "candidate": 25.0,
+   "date": "2026-11-19"
+  },
+  "potato": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "obour",
+    "almasry_veg",
+    "almasry_veg"
+   ],
+   "candidate": 25.0,
+   "date": "2026-11-19"
+  },
+  "garlic": {
+   "status": "held",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "obour",
+    "almasry_veg"
+   ],
+   "candidate": 26.75,
+   "held": {
+    "candidate": 26.75,
+    "since": "2026-11-19",
+    "reason": "change -46% > ±40% vs 50",
+    "origin": "market"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "pepper": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "obour",
+    "almasry_veg",
+    "almasry_veg"
+   ],
+   "candidate": 20.0,
+   "date": "2026-11-19"
+  },
+  "colpepper": {
+   "status": "held",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "obour",
+    "almasry_veg",
+    "almasry_veg"
+   ],
+   "candidate": 60.0,
+   "held": {
+    "candidate": 60.0,
+    "since": "2026-11-19",
+    "reason": "change +43% > ±40% vs 42",
+    "origin": "market"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "hotpepper": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "obour",
+    "almasry_veg",
+    "almasry_veg"
+   ],
+   "candidate": 15.0,
+   "date": "2026-11-19"
+  },
+  "zucchini": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "obour",
+    "almasry_veg",
+    "almasry_veg"
+   ],
+   "candidate": 16.75,
+   "date": "2026-11-19"
+  },
+  "eggplant": {
+   "status": "held",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "obour",
+    "almasry_veg",
+    "almasry_veg"
+   ],
+   "candidate": 15.0,
+   "held": {
+    "candidate": 15.0,
+    "since": "2026-11-19",
+    "reason": "change +67% > ±40% vs 9",
+    "origin": "market"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "carrot": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "obour",
+    "almasry_veg",
+    "almasry_veg"
+   ],
+   "candidate": 15.0,
+   "date": "2026-11-19"
+  },
+  "okra": {
+   "status": "held",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "obour",
+    "almasry_veg"
+   ],
+   "candidate": 66.5,
+   "held": {
+    "candidate": 66.5,
+    "since": "2026-11-19",
+    "reason": "change +58% > ±40% vs 42",
+    "origin": "market"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "molokhia": {
+   "status": "held",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "obour",
+    "almasry_veg"
+   ],
+   "candidate": 22.75,
+   "held": {
+    "candidate": 22.75,
+    "since": "2026-11-19",
+    "reason": "change +153% > ±40% vs 9",
+    "origin": "market"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "cucumber": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "obour",
+    "almasry_veg",
+    "almasry_veg"
+   ],
+   "candidate": 20.0,
+   "date": "2026-11-19"
+  },
+  "vine": {
+   "status": "held",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "almasry_veg",
+    "almasry_veg"
+   ],
+   "candidate": 75.0,
+   "held": {
+    "candidate": 75.0,
+    "since": "2026-11-19",
+    "reason": "change +50% > ±40% vs 50",
+    "origin": "market"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "greenbeans": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "obour",
+    "almasry_veg"
+   ],
+   "candidate": 44.0,
+   "date": "2026-11-19"
+  },
+  "peas": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 175.0,
+   "held": {
+    "candidate": 175.0,
+    "since": "2026-11-19",
+    "reason": "change +119% > ±40% vs 80",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "cabbage": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "cauliflower": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 190.0,
+   "held": {
+    "candidate": 190.0,
+    "since": "2026-11-19",
+    "reason": "implausible (>8× away from built-in 15)",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "spinach": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "chard": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "taro": {
+   "status": "held",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "obour"
+   ],
+   "candidate": 14.75,
+   "held": {
+    "candidate": 14.75,
+    "since": "2026-11-19",
+    "reason": "change -41% > ±40% vs 25",
+    "origin": "market"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "mushroom": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 485.0,
+   "held": {
+    "candidate": 485.0,
+    "since": "2026-11-19",
+    "reason": "change +142% > ±40% vs 200",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "mango": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "almasry_veg",
+    "almasry_veg"
+   ],
+   "candidate": 60.0,
+   "date": "2026-11-19"
+  },
+  "arugula": {
+   "status": "builtin",
+   "unit": "pc"
+  },
+  "lettuce": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "pc",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 24.5,
+   "held": {
+    "candidate": 24.5,
+    "since": "2026-11-19",
+    "reason": "change +145% > ±40% vs 10",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "lemon": {
+   "status": "builtin",
+   "unit": "pc"
+  },
+  "herbs": {
+   "status": "builtin",
+   "unit": "pc"
+  },
+  "paste": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 129.17,
+   "held": {
+    "candidate": 129.17,
+    "since": "2026-11-19",
+    "reason": "change +99% > ±40% vs 65",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "vinegar": {
+   "status": "fresh",
+   "origin": "gourmet",
+   "unit": "l",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 25.0,
+   "date": "2026-11-19"
+  },
+  "tahini": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 343.75,
+   "held": {
+    "candidate": 343.75,
+    "since": "2026-11-19",
+    "reason": "change +72% > ±40% vs 200",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "mayo": {
+   "status": "builtin",
+   "unit": "pc"
+  },
+  "soy": {
+   "status": "builtin",
+   "unit": "pc"
+  },
+  "olives": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "tuna": {
+   "status": "fresh",
+   "origin": "gourmet",
+   "unit": "pc",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 65.0,
+   "date": "2026-11-19"
+  },
+  "molasses": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 123.84,
+   "held": {
+    "candidate": 123.84,
+    "since": "2026-11-19",
+    "reason": "change +77% > ±40% vs 70",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "nuts": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 1391.66,
+   "held": {
+    "candidate": 1391.66,
+    "since": "2026-11-19",
+    "reason": "change +132% > ±40% vs 600",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "raisins": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 440.0,
+   "held": {
+    "candidate": 440.0,
+    "since": "2026-11-19",
+    "reason": "change +120% > ±40% vs 200",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "coconut": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "cocoa": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "tomsauce": {
+   "status": "builtin",
+   "unit": "pc"
+  },
+  "puree": {
+   "status": "fresh",
+   "origin": "gourmet",
+   "unit": "pc",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 45,
+   "date": "2026-11-19"
+  },
+  "pommolasses": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "pc",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 160,
+   "held": {
+    "candidate": 160,
+    "since": "2026-11-19",
+    "reason": "change +129% > ±40% vs 70",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "pistachio": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 3000.0,
+   "held": {
+    "candidate": 3000.0,
+    "since": "2026-11-19",
+    "reason": "change +100% > ±40% vs 1500",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "sesame": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 907.69,
+   "held": {
+    "candidate": 907.69,
+    "since": "2026-11-19",
+    "reason": "change +467% > ±40% vs 160",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "puff": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 362.5,
+   "held": {
+    "candidate": 362.5,
+    "since": "2026-11-19",
+    "reason": "change +91% > ±40% vs 190",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "spices": {
+   "status": "builtin",
+   "unit": "pk"
+  },
+  "flav": {
+   "status": "builtin",
+   "unit": "pk"
+  },
+  "chicken": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "elwatan_poultry",
+    "banker_poultry"
+   ],
+   "candidate": 78.25,
+   "date": "2026-11-19"
+  },
+  "breast": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "elwatan_poultry"
+   ],
+   "candidate": 210.0,
+   "date": "2026-11-19"
+  },
+  "thighs": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "chliver": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 200.0,
+   "held": {
+    "candidate": 200.0,
+    "since": "2026-11-19",
+    "reason": "change +43% > ±40% vs 140",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "pigeon": {
+   "status": "builtin",
+   "unit": "pc"
+  },
+  "duck": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "rabbit": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "beef": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "almasry_meat"
+   ],
+   "candidate": 425.0,
+   "date": "2026-11-19"
+  },
+  "lamb": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "almasry_meat"
+   ],
+   "candidate": 430.0,
+   "date": "2026-11-19"
+  },
+  "veal": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "fillet": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "baladi": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "chops": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "tender": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "mince_p": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "vliver": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "almasry_meat"
+   ],
+   "candidate": 425.0,
+   "date": "2026-11-19"
+  },
+  "mince": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "almasry_meat"
+   ],
+   "candidate": 430.0,
+   "date": "2026-11-19"
+  },
+  "sausage": {
+   "status": "held",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "almasry_meat"
+   ],
+   "candidate": 375.0,
+   "held": {
+    "candidate": 375.0,
+    "since": "2026-11-19",
+    "reason": "change +44% > ±40% vs 260",
+    "origin": "market"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "liver": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "almasry_meat"
+   ],
+   "candidate": 160.0,
+   "date": "2026-11-19"
+  },
+  "kaware": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "mombar": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "pastrami": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "tilapia": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "mullet": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "bream": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "fishfillet": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "shrimp": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "calamari": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "jumbo": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "burger_frz": {
+   "status": "builtin",
+   "unit": "pc"
+  },
+  "hotdog": {
+   "status": "builtin",
+   "unit": "pc"
+  },
+  "sambousek_frz": {
+   "status": "builtin",
+   "unit": "pc"
+  },
+  "kobeiba_frz": {
+   "status": "builtin",
+   "unit": "pc"
+  },
+  "kofta_frz": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "panee_frz": {
+   "status": "fresh",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 406.25,
+   "date": "2026-11-19"
+  },
+  "nuggets": {
+   "status": "fresh",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 337.5,
+   "date": "2026-11-19"
+  },
+  "strips": {
+   "status": "fresh",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 412.5,
+   "date": "2026-11-19"
+  },
+  "shish_mar": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "fish_frz": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "shrimp_frz": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "fries_frz": {
+   "status": "fresh",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 113.33,
+   "date": "2026-11-19"
+  },
+  "molokhia_frz": {
+   "status": "fresh",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 68.75,
+   "date": "2026-11-19"
+  },
+  "mixveg_frz": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "hawawshi_frz": {
+   "status": "builtin",
+   "unit": "pc"
+  },
+  "pizza_frz": {
+   "status": "builtin",
+   "unit": "pc"
+  },
+  "crepe_ready": {
+   "status": "builtin",
+   "unit": "pc"
+  },
+  "luncheon": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "turkey_smoked": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "beef_bacon": {
+   "status": "builtin",
+   "unit": "kg"
+  },
+  "grape_juice": {
+   "status": "builtin",
+   "unit": "l"
+  },
+  "ketchup": {
+   "status": "held",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 230.77,
+   "held": {
+    "candidate": 230.77,
+    "since": "2026-11-19",
+    "reason": "change +78% > ±40% vs 130",
+    "origin": "gourmet"
+   },
+   "date": null,
+   "kept": "builtin"
+  },
+  "mustard": {
+   "status": "fresh",
+   "origin": "gourmet",
+   "unit": "kg",
+   "sources": [
+    "gourmet"
+   ],
+   "candidate": 234.04,
+   "date": "2026-11-19"
+  }
+ },
+ "stores_detail": {
+  "gourmet": {
+   "rice": {
+    "status": "fresh",
+    "candidate": 45.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6223000660010",
+      "name": "El Doha Egyptian Rice",
+      "unit_price": 45.0,
+      "calc": "45 EGP / 1000g"
+     }
+    ]
+   },
+   "pasta": {
+    "status": "fresh",
+    "candidate": 87.5,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6221022110520",
+      "name": "Regina Shells Pasta",
+      "unit_price": 87.5,
+      "calc": "35 EGP / 400g"
+     },
+     {
+      "sku": "6221022110612",
+      "name": "Regina Fusilli Pasta",
+      "unit_price": 87.5,
+      "calc": "35 EGP / 400g"
+     },
+     {
+      "sku": "6221022110513",
+      "name": "Regina Elbow Pasta",
+      "unit_price": 87.5,
+      "calc": "35 EGP / 400g"
+     },
+     {
+      "sku": "6221022110216",
+      "name": "Regina Linguini Pasta",
+      "unit_price": 87.5,
+      "calc": "35 EGP / 400g"
+     },
+     {
+      "sku": "6221022110025",
+      "name": "Regina Spaghetti Pasta",
+      "unit_price": 87.5,
+      "calc": "35 EGP / 400g"
+     },
+     {
+      "sku": "6221022110414",
+      "name": "Regina Macaroni Pasta",
+      "unit_price": 87.5,
+      "calc": "35 EGP / 400g"
+     },
+     {
+      "sku": "6221022110421",
+      "name": "Regina Big Rings Pasta 400g",
+      "unit_price": 87.5,
+      "calc": "35 EGP / 400g"
+     },
+     {
+      "sku": "6223000663905",
+      "name": "El Doha Fusilli Pasta",
+      "unit_price": 75.0,
+      "calc": "30 EGP / 400g"
+     },
+     {
+      "sku": "6223000663837",
+      "name": "El Doha Elbow Pasta",
+      "unit_price": 75.0,
+      "calc": "30 EGP / 400g"
+     },
+     {
+      "sku": "6223000663844",
+      "name": "El Doha Spaghetti Pasta",
+      "unit_price": 75.0,
+      "calc": "30 EGP / 400g"
+     },
+     {
+      "sku": "6223000663806",
+      "name": "El Doha Penne Rigata Pasta",
+      "unit_price": 75.0,
+      "calc": "30 EGP / 400g"
+     }
+    ]
+   },
+   "orzo": {
+    "status": "fresh",
+    "candidate": 87.5,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6221022110339",
+      "name": "Regina Orzo",
+      "unit_price": 87.5,
+      "calc": "35 EGP / 400g"
+     }
+    ]
+   },
+   "vermicelli": {
+    "status": "fresh",
+    "candidate": 87.5,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6221022110285",
+      "name": "Regina Vermicelli",
+      "unit_price": 87.5,
+      "calc": "35 EGP / 400g"
+     }
+    ]
+   },
+   "freekeh": {
+    "status": "fresh",
+    "candidate": 150.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6223000660577",
+      "name": "El Doha Freekeh",
+      "unit_price": 150.0,
+      "calc": "75 EGP / 500g"
+     }
+    ]
+   },
+   "lentil_b": {
+    "status": "fresh",
+    "candidate": 140.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6223000660539",
+      "name": "El Doha Brown Lentils",
+      "unit_price": 140.0,
+      "calc": "70 EGP / 500g"
+     }
+    ]
+   },
+   "lentil_y": {
+    "status": "fresh",
+    "candidate": 140.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6223000660522",
+      "name": "El Doha Yellow Lentils",
+      "unit_price": 140.0,
+      "calc": "70 EGP / 500g"
+     }
+    ]
+   },
+   "fava": {
+    "status": "fresh",
+    "candidate": 140.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6223000660546",
+      "name": "AlDoha Egyptian Fava Beans",
+      "unit_price": 140.0,
+      "calc": "70 EGP / 500g"
+     }
+    ]
+   },
+   "fava_split": {
+    "status": "fresh",
+    "candidate": 130.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6223000660553",
+      "name": "ElDoha Crushed Fava Beans",
+      "unit_price": 130.0,
+      "calc": "65 EGP / 500g"
+     }
+    ]
+   },
+   "whitebeans": {
+    "status": "fresh",
+    "candidate": 200.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6223000660508",
+      "name": "El Doha White Beans",
+      "unit_price": 200.0,
+      "calc": "100 EGP / 500g"
+     }
+    ]
+   },
+   "chickpea_can": {
+    "status": "fresh",
+    "candidate": 37.5,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "032894021656",
+      "name": "Americana Chickpeas",
+      "unit_price": 45,
+      "calc": "45 EGP per pack (400g)"
+     },
+     {
+      "sku": "6224000856014",
+      "name": "Foody Boiled Chickpeas",
+      "unit_price": 30,
+      "calc": "30 EGP per pack (400g)"
+     },
+     {
+      "sku": "032894018885",
+      "name": "California Garden Chickpeas",
+      "unit_price": 45,
+      "calc": "45 EGP per pack (400g)"
+     },
+     {
+      "sku": "6224003617025",
+      "name": "Aqua Premium Canned Chickpeas",
+      "unit_price": 28,
+      "calc": "28 EGP per pack (400g)"
+     }
+    ]
+   },
+   "fava_can": {
+    "status": "fresh",
+    "candidate": 27.5,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "032894022011",
+      "name": "Americana Plain Fava Beans",
+      "unit_price": 30,
+      "calc": "30 EGP per pack (400g)"
+     },
+     {
+      "sku": "6224000856526",
+      "name": "Foody Premium Plain Fava Beans",
+      "unit_price": 25,
+      "calc": "25 EGP per pack (400g)"
+     },
+     {
+      "sku": "032894018809",
+      "name": "California Garden Egyptian Fava Beans",
+      "unit_price": 35,
+      "calc": "35 EGP per pack (400g)"
+     },
+     {
+      "sku": "6224003617018",
+      "name": "Aqua Premium Plain Fava Beans",
+      "unit_price": 20,
+      "calc": "20 EGP per pack (400g)"
+     }
+    ]
+   },
+   "semolina": {
+    "status": "fresh",
+    "candidate": 80.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6223001300519",
+      "name": "Five Star Semolina Flour",
+      "unit_price": 80.0,
+      "calc": "80 EGP / 1000g"
+     }
+    ]
+   },
+   "starch": {
+    "status": "fresh",
+    "candidate": 104.17,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6223001030263",
+      "name": "Cook's Corn Flour",
+      "unit_price": 104.17,
+      "calc": "25 EGP / 240g"
+     }
+    ]
+   },
+   "sugar": {
+    "status": "fresh",
+    "candidate": 52.66,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6223000660003",
+      "name": "El Doha White Sugar",
+      "unit_price": 40.0,
+      "calc": "40 EGP / 1000g"
+     },
+     {
+      "sku": "6223000662533",
+      "name": "El Doha Egyptian White Sugar",
+      "unit_price": 65.33,
+      "calc": "49 EGP / 750g"
+     }
+    ]
+   },
+   "breadcrumbs": {
+    "status": "fresh",
+    "candidate": 100.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6223007290203",
+      "name": "Breadway Breadcrumbs",
+      "unit_price": 55.56,
+      "calc": "25 EGP / 450g"
+     },
+     {
+      "sku": "6223000663509",
+      "name": "El Doha Breadcrumbs",
+      "unit_price": 100.0,
+      "calc": "30 EGP / 300g"
+     },
+     {
+      "sku": "6223007290210",
+      "name": "Breadway Breadcrumbs",
+      "unit_price": 125.0,
+      "calc": "25 EGP / 200g"
+     }
+    ]
+   },
+   "yeast": {
+    "status": "fresh",
+    "candidate": 6.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6917790006195",
+      "name": "Angel Instant Dry Yeast",
+      "unit_price": 6,
+      "calc": "6 EGP per pack (10g)"
+     },
+     {
+      "sku": "6223001031130",
+      "name": "Cook's Instant Dry Yeast Sachet",
+      "unit_price": 6,
+      "calc": "6 EGP per pack (16g)"
+     }
+    ]
+   },
+   "oil": {
+    "status": "fresh",
+    "candidate": 125.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6222000506014",
+      "name": "Crystal Sunflower Oil",
+      "unit_price": 125.0,
+      "calc": "125 EGP / 1000ml"
+     },
+     {
+      "sku": "6222000508551",
+      "name": "Crystal Sunflower Oil",
+      "unit_price": 122.73,
+      "calc": "270 EGP / 2200ml"
+     },
+     {
+      "sku": "6222000579896",
+      "name": "Crystal Sunflower Oil",
+      "unit_price": 131.43,
+      "calc": "92 EGP / 700ml"
+     },
+     {
+      "sku": "6223000264348",
+      "name": "Afia Sunflower Oil - 2.2L",
+      "unit_price": 122.73,
+      "calc": "270 EGP / 2200ml"
+     },
+     {
+      "sku": "6223000263747",
+      "name": "Afia Sunflower Oil - 1.6L",
+      "unit_price": 125.0,
+      "calc": "200 EGP / 1600ml"
+     },
+     {
+      "sku": "6222000505314",
+      "name": "Crystal Sunflower Oil",
+      "unit_price": 123.75,
+      "calc": "198 EGP / 1600ml"
+     },
+     {
+      "sku": "6223000265574",
+      "name": "Afia Sunflower Oil",
+      "unit_price": 135.71,
+      "calc": "95 EGP / 700ml"
+     }
+    ]
+   },
+   "bghee": {
+    "status": "fresh",
+    "candidate": 740.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "7011320000000",
+      "name": "Buffalo Ghee (Samna Baladi)",
+      "unit_price": 740.0,
+      "calc": "259 EGP / 350g"
+     }
+    ]
+   },
+   "butter": {
+    "status": "fresh",
+    "candidate": 1250.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "3254550022105",
+      "name": "Isigny Unsalted Butter",
+      "unit_price": 1250.0,
+      "calc": "250 EGP / 200g"
+     },
+     {
+      "sku": "6281007033190",
+      "name": "Almarai Butter Unsalted Premium",
+      "unit_price": 1450.0,
+      "calc": "145 EGP / 100g"
+     },
+     {
+      "sku": "5740900864405",
+      "name": "Lurpak Unsalted Butter",
+      "unit_price": 1212.5,
+      "calc": "485 EGP / 400g"
+     }
+    ]
+   },
+   "milk": {
+    "status": "fresh",
+    "candidate": 63.53,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "0745114566546",
+      "name": "The Milkman Fresh Milk Full Cream",
+      "unit_price": 100.0,
+      "calc": "85 EGP / 850ml"
+     },
+     {
+      "sku": "0745178858427",
+      "name": "Reefy Fresh Full Cream Milk",
+      "unit_price": 70.59,
+      "calc": "60 EGP / 850ml"
+     },
+     {
+      "sku": "6224001105005",
+      "name": "Lamar Full Cream Milk",
+      "unit_price": 60.0,
+      "calc": "60 EGP / 1000ml"
+     },
+     {
+      "sku": "6223000350065",
+      "name": "Juhayna Full Cream Milk",
+      "unit_price": 60.0,
+      "calc": "60 EGP / 1000ml"
+     },
+     {
+      "sku": "6224000432003",
+      "name": "Dina Farms Full Cream Milk",
+      "unit_price": 67.06,
+      "calc": "57 EGP / 850ml"
+     },
+     {
+      "sku": "6223001871101",
+      "name": "Almarai Long-Life Full Cream Milk",
+      "unit_price": 60.0,
+      "calc": "60 EGP / 1000ml"
+     }
+    ]
+   },
+   "cream": {
+    "status": "fresh",
+    "candidate": 300.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6224011536295",
+      "name": "Reefy Cooking Cream",
+      "unit_price": 280.0,
+      "calc": "70 EGP / 250ml"
+     },
+     {
+      "sku": "6224002142016",
+      "name": "Lamar Cooking Cream",
+      "unit_price": 300.0,
+      "calc": "75 EGP / 250ml"
+     },
+     {
+      "sku": "6222014300134",
+      "name": "Juhayna Cooking Cream - Medium",
+      "unit_price": 320.0,
+      "calc": "160 EGP / 500ml"
+     },
+     {
+      "sku": "6224008637196",
+      "name": "Lamar Cooking Cream - Large",
+      "unit_price": 270.0,
+      "calc": "270 EGP / 1000ml"
+     },
+     {
+      "sku": "6222014318016",
+      "name": "Juhayna Cooking Cream - Large",
+      "unit_price": 300.0,
+      "calc": "300 EGP / 1000ml"
+     },
+     {
+      "sku": "6223000356326",
+      "name": "Juhayna Cooking Cream",
+      "unit_price": 375.0,
+      "calc": "75 EGP / 200ml"
+     },
+     {
+      "sku": "6223001876434",
+      "name": "Almarai Cooking Cream - Large",
+      "unit_price": 300.0,
+      "calc": "300 EGP / 1000ml"
+     },
+     {
+      "sku": "6223001873556",
+      "name": "Almarai Cooking Cream - Small",
+      "unit_price": 375.0,
+      "calc": "75 EGP / 200ml"
+     },
+     {
+      "sku": "6223001877936",
+      "name": "Almarai Cooking Cream - Medium",
+      "unit_price": 330.0,
+      "calc": "165 EGP / 500ml"
+     }
+    ]
+   },
+   "yogurt": {
+    "status": "fresh",
+    "candidate": 17,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6223001871903",
+      "name": "Almarai Plain Yogurt",
+      "unit_price": 20,
+      "calc": "20 EGP per pack (170g)"
+     },
+     {
+      "sku": "6223002380947",
+      "name": "Danone Plain Yogurt",
+      "unit_price": 17,
+      "calc": "17 EGP per pack (160g)"
+     },
+     {
+      "sku": "6222014300905",
+      "name": "Juhayna Yogurt Stirred Plain",
+      "unit_price": 15,
+      "calc": "15 EGP per pack (105g)"
+     }
+    ]
+   },
+   "wcheese": {
+    "status": "fresh",
+    "candidate": 322.23,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6223000752876",
+      "name": "Domty White Cheese Istanbul",
+      "unit_price": 355.56,
+      "calc": "160 EGP / 450g"
+     },
+     {
+      "sku": "6223016575193",
+      "name": "Domty White Cheese with Cream",
+      "unit_price": 355.56,
+      "calc": "160 EGP / 450g"
+     },
+     {
+      "sku": "6223007527439",
+      "name": "Almarai Soft White Cheese",
+      "unit_price": 288.89,
+      "calc": "130 EGP / 450g"
+     },
+     {
+      "sku": "6223007527484",
+      "name": "Almarai Istanbul Cheese",
+      "unit_price": 288.89,
+      "calc": "130 EGP / 450g"
+     }
+    ]
+   },
+   "mozz": {
+    "status": "fresh",
+    "candidate": 400.65,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6223000757109",
+      "name": "Domty Mozzarella Cheese Shredded",
+      "unit_price": 372.73,
+      "calc": "205 EGP / 550g"
+     },
+     {
+      "sku": "6223000750070",
+      "name": "Domty Shredded Mozzarella Cheese",
+      "unit_price": 428.57,
+      "calc": "120 EGP / 280g"
+     }
+    ]
+   },
+   "oliveoil": {
+    "status": "fresh",
+    "candidate": 1050.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "7010012000007",
+      "name": "Gourmet Virgin Olive Oil - 1L",
+      "unit_price": 820.0,
+      "calc": "820 EGP / 1000ml"
+     },
+     {
+      "sku": "8410179200804",
+      "name": "Borges Pure Olive Oil Classic",
+      "unit_price": 900.0,
+      "calc": "900 EGP / 1000ml"
+     },
+     {
+      "sku": "6225001044271",
+      "name": "Olifuse Extra Virgin Olive Oil",
+      "unit_price": 1260.0,
+      "calc": "315 EGP / 250ml"
+     },
+     {
+      "sku": "8410179100012",
+      "name": "Borges Extra Virgin Olive Oil",
+      "unit_price": 950.0,
+      "calc": "950 EGP / 1000ml"
+     },
+     {
+      "sku": "5201043112629",
+      "name": "Iliada Extra Virgin Olive Oil Tin",
+      "unit_price": 1000.0,
+      "calc": "1000 EGP / 1000ml"
+     },
+     {
+      "sku": "5201043112612",
+      "name": "Iliada Extra Virgin Olive Oil Glass",
+      "unit_price": 1130.0,
+      "calc": "565 EGP / 500ml"
+     },
+     {
+      "sku": "5201043112476",
+      "name": "Iliada Extra Virgin Olive Oil Glass",
+      "unit_price": 1050.0,
+      "calc": "1050 EGP / 1000ml"
+     },
+     {
+      "sku": "8410179100920",
+      "name": "Borges Balance Extra Virgin Olive Oil",
+      "unit_price": 1060.0,
+      "calc": "530 EGP / 500ml"
+     },
+     {
+      "sku": "8410179100821",
+      "name": "Borges Caracter Extra Virgin Olive Oil",
+      "unit_price": 1060.0,
+      "calc": "530 EGP / 500ml"
+     },
+     {
+      "sku": "8410179100050",
+      "name": "Borges Extra Virgin Olive Oil",
+      "unit_price": 1140.0,
+      "calc": "285 EGP / 250ml"
+     },
+     {
+      "sku": "8410179100043",
+      "name": "Borges Extra Virgin Olive Oil",
+      "unit_price": 998.67,
+      "calc": "749 EGP / 750ml"
+     }
+    ]
+   },
+   "kiri": {
+    "status": "fresh",
+    "candidate": 67.5,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "3073781215311",
+      "name": "Kiri Cheese",
+      "unit_price": 68.25,
+      "calc": "91 EGP / 8 pcs × 6"
+     },
+     {
+      "sku": "3073781215335",
+      "name": "Kiri Cheese",
+      "unit_price": 67.5,
+      "calc": "135 EGP / 12 pcs × 6"
+     },
+     {
+      "sku": "3073781215359",
+      "name": "Kiri Cheese",
+      "unit_price": 62.25,
+      "calc": "249 EGP / 24 pcs × 6"
+     }
+    ]
+   },
+   "whipcream": {
+    "status": "fresh",
+    "candidate": 300.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6224008637288",
+      "name": "Lamar Whipping Cream",
+      "unit_price": 300.0,
+      "calc": "150 EGP / 500ml"
+     },
+     {
+      "sku": "6224002142023",
+      "name": "Lamar Whipping Cream",
+      "unit_price": 300.0,
+      "calc": "75 EGP / 250ml"
+     },
+     {
+      "sku": "6223000305379",
+      "name": "Juhayna Whipping Cream",
+      "unit_price": 480.0,
+      "calc": "240 EGP / 500ml"
+     }
+    ]
+   },
+   "eggs": {
+    "status": "fresh",
+    "candidate": 8.32,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6225000439474",
+      "name": "Zanaty White Eggs - 24 Pieces",
+      "unit_price": 7.88,
+      "calc": "189 EGP / 24 pcs × 1"
+     },
+     {
+      "sku": "6225000439412",
+      "name": "Zanaty Red Eggs - 6 Pieces",
+      "unit_price": 11.17,
+      "calc": "67 EGP / 6 pcs × 1"
+     },
+     {
+      "sku": "6772504684157",
+      "name": "Al Alamya Red Eggs 30 Eggs",
+      "unit_price": 8.13,
+      "calc": "244 EGP / 30 pcs × 1"
+     },
+     {
+      "sku": "6772504684140",
+      "name": "Al Alamya White Eggs 30 Eggs",
+      "unit_price": 7.87,
+      "calc": "236 EGP / 30 pcs × 1"
+     },
+     {
+      "sku": "6225000000193",
+      "name": "Egyptian Growers Fresh Red Eggs 15 Pieces",
+      "unit_price": 7.33,
+      "calc": "110 EGP / 15 pcs × 1"
+     },
+     {
+      "sku": "6225000011946",
+      "name": "Egyptian Growers Fresh Red Eggs - 10 Pieces",
+      "unit_price": 7.9,
+      "calc": "79 EGP / 10 pcs × 1"
+     },
+     {
+      "sku": "6225000439436",
+      "name": "Zanaty Red Eggs - 12 Pieces",
+      "unit_price": 8.75,
+      "calc": "105 EGP / 12 pcs × 1"
+     },
+     {
+      "sku": "6225000439443",
+      "name": "Zanaty White Eggs - 12 Pieces",
+      "unit_price": 8.5,
+      "calc": "102 EGP / 12 pcs × 1"
+     },
+     {
+      "sku": "6225000439429",
+      "name": "Zanaty White Eggs - 6 Pieces",
+      "unit_price": 11.0,
+      "calc": "66 EGP / 6 pcs × 1"
+     },
+     {
+      "sku": "6225000439467",
+      "name": "Zanaty Red Eggs - 24 Pieces",
+      "unit_price": 7.96,
+      "calc": "191 EGP / 24 pcs × 1"
+     },
+     {
+      "sku": "6225000000155",
+      "name": "Egyptian Growers White Eggs - 10 Pieces",
+      "unit_price": 7.8,
+      "calc": "78 EGP / 10 pcs × 1"
+     },
+     {
+      "sku": "6225000000162",
+      "name": "Egyptian Growers White Eggs 15 Pieces",
+      "unit_price": 7.13,
+      "calc": "107 EGP / 15 pcs × 1"
+     },
+     {
+      "sku": "6224002013248",
+      "name": "Al Alamya White Eggs - 6 Pieces",
+      "unit_price": 11.83,
+      "calc": "71 EGP / 6 pcs × 1"
+     },
+     {
+      "sku": "6224002013255",
+      "name": "Al Alamya Red Eggs 6 Pieces",
+      "unit_price": 11.0,
+      "calc": "66 EGP / 6 pcs × 1"
+     },
+     {
+      "sku": "6224002013194",
+      "name": "Al Alamya Red Eggs - 18 PCs",
+      "unit_price": 8.72,
+      "calc": "157 EGP / 18 pcs × 1"
+     },
+     {
+      "sku": "6224002013187",
+      "name": "Al Alamya White Eggs - 18 PCs",
+      "unit_price": 8.61,
+      "calc": "155 EGP / 18 pcs × 1"
+     }
+    ]
+   },
+   "tomato": {
+    "status": "fresh",
+    "candidate": 84.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6028572000000",
+      "name": "Tomatoes",
+      "unit_price": 84.0,
+      "calc": "42 EGP / 500g"
+     }
+    ]
+   },
+   "onion": {
+    "status": "fresh",
+    "candidate": 73.5,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6044146000009",
+      "name": "Golden Onions",
+      "unit_price": 80.0,
+      "calc": "40 EGP / 500g"
+     },
+     {
+      "sku": "6044147000008",
+      "name": "Red Onions",
+      "unit_price": 78.0,
+      "calc": "39 EGP / 500g"
+     },
+     {
+      "sku": "6046340000007",
+      "name": "Golden Onion",
+      "unit_price": 69.0,
+      "calc": "69 EGP / 1000g"
+     },
+     {
+      "sku": "6046350000004",
+      "name": "Red Onion",
+      "unit_price": 65.0,
+      "calc": "65 EGP / 1000g"
+     }
+    ]
+   },
+   "potato": {
+    "status": "fresh",
+    "candidate": 63.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6044261000007",
+      "name": "Potato Bag",
+      "unit_price": 63.0,
+      "calc": "63 EGP / 1000g"
+     }
+    ]
+   },
+   "garlic": {
+    "status": "fresh",
+    "candidate": 276.67,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6027766000000",
+      "name": "Chinese Garlic",
+      "unit_price": 276.67,
+      "calc": "62.25 EGP / 225g"
+     }
+    ]
+   },
+   "hotpepper": {
+    "status": "rejected",
+    "candidate": 118.0,
+    "reason": "implausible"
+   },
+   "zucchini": {
+    "status": "fresh",
+    "candidate": 73.5,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6028574000008",
+      "name": "Zucchini",
+      "unit_price": 78.0,
+      "calc": "39 EGP / 500g"
+     },
+     {
+      "sku": "6046330000000",
+      "name": "Fresh Zucchini",
+      "unit_price": 69.0,
+      "calc": "69 EGP / 1000g"
+     }
+    ]
+   },
+   "carrot": {
+    "status": "fresh",
+    "candidate": 68.5,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6028565000000",
+      "name": "Carrots",
+      "unit_price": 74.0,
+      "calc": "37 EGP / 500g"
+     },
+     {
+      "sku": "6046250000005",
+      "name": "Carrot",
+      "unit_price": 63.0,
+      "calc": "63 EGP / 1000g"
+     }
+    ]
+   },
+   "okra": {
+    "status": "fresh",
+    "candidate": 245.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6044360000007",
+      "name": "Okra",
+      "unit_price": 245.0,
+      "calc": "98 EGP / 400g"
+     }
+    ]
+   },
+   "molokhia_frz": {
+    "status": "fresh",
+    "candidate": 68.75,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6223001331209",
+      "name": "Givrex Frozen Minced Molokhia",
+      "unit_price": 75.0,
+      "calc": "30 EGP / 400g"
+     },
+     {
+      "sku": "6281073150869",
+      "name": "Sunbulah Minced Molokhia",
+      "unit_price": 62.5,
+      "calc": "25 EGP / 400g"
+     }
+    ]
+   },
+   "cucumber": {
+    "status": "fresh",
+    "candidate": 79.5,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6046260000002",
+      "name": "Cucumber",
+      "unit_price": 69.0,
+      "calc": "69 EGP / 1000g"
+     },
+     {
+      "sku": "6028570000002",
+      "name": "Cucumbers",
+      "unit_price": 90.0,
+      "calc": "45 EGP / 500g"
+     }
+    ]
+   },
+   "greenbeans": {
+    "status": "fresh",
+    "candidate": 122.5,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6044252000009",
+      "name": "Green Beans",
+      "unit_price": 122.5,
+      "calc": "49 EGP / 400g"
+     }
+    ]
+   },
+   "peas": {
+    "status": "fresh",
+    "candidate": 175.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6223001331308",
+      "name": "Givrex Frozen Peas",
+      "unit_price": 187.5,
+      "calc": "75 EGP / 400g"
+     },
+     {
+      "sku": "6281073150081",
+      "name": "Sunbulah Green Peas",
+      "unit_price": 162.5,
+      "calc": "65 EGP / 400g"
+     }
+    ]
+   },
+   "cauliflower": {
+    "status": "rejected",
+    "candidate": 190.0,
+    "reason": "implausible"
+   },
+   "mushroom": {
+    "status": "fresh",
+    "candidate": 485.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6046270000009",
+      "name": "Fresh White Mushrooms",
+      "unit_price": 485.0,
+      "calc": "97 EGP / 200g"
+     },
+     {
+      "sku": "6046230000001",
+      "name": "Fresh Brown Mushrooms",
+      "unit_price": 485.0,
+      "calc": "97 EGP / 200g"
+     }
+    ]
+   },
+   "mango": {
+    "status": "fresh",
+    "candidate": 365.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6333002214248",
+      "name": "Mango Fass, Nefertoot",
+      "unit_price": 460.0,
+      "calc": "460 EGP / 1000g"
+     },
+     {
+      "sku": "6333002214521",
+      "name": "Mango Oweis, Nefertoot",
+      "unit_price": 270.0,
+      "calc": "270 EGP / 1000g"
+     }
+    ]
+   },
+   "lettuce": {
+    "status": "fresh",
+    "candidate": 24.5,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6027946000004",
+      "name": "Lettuce Balady",
+      "unit_price": 22.0,
+      "calc": "22 EGP / 1 pcs × 1"
+     },
+     {
+      "sku": "6044820000004",
+      "name": "Iceberg Lettuce",
+      "unit_price": 27.0,
+      "calc": "27 EGP / 1 pcs × 1"
+     }
+    ]
+   },
+   "paste": {
+    "status": "fresh",
+    "candidate": 129.17,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6221033000636",
+      "name": "Heinz Tomato Paste",
+      "unit_price": 125.0,
+      "calc": "45 EGP / 360g"
+     },
+     {
+      "sku": "6221033111110",
+      "name": "Heinz Tomato Paste",
+      "unit_price": 148.15,
+      "calc": "20 EGP / 135g"
+     },
+     {
+      "sku": "7026556666876",
+      "name": "Gourmet Tomato Paste",
+      "unit_price": 133.33,
+      "calc": "40 EGP / 300g"
+     },
+     {
+      "sku": "6223000193761",
+      "name": "Wadi Food Tomato Paste",
+      "unit_price": 123.08,
+      "calc": "40 EGP / 325g"
+     }
+    ]
+   },
+   "vinegar": {
+    "status": "fresh",
+    "candidate": 25.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "7026556666869",
+      "name": "Gourmet Vinegar",
+      "unit_price": 25.0,
+      "calc": "25 EGP / 1000ml"
+     },
+     {
+      "sku": "6221033175914",
+      "name": "Heinz Natural Vinegar.",
+      "unit_price": 25.0,
+      "calc": "25 EGP / 1000ml"
+     }
+    ]
+   },
+   "tahini": {
+    "status": "fresh",
+    "candidate": 343.75,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6044061000009",
+      "name": "Pure Sesame Tahini",
+      "unit_price": 343.75,
+      "calc": "110 EGP / 320g"
+     }
+    ]
+   },
+   "tuna": {
+    "status": "fresh",
+    "candidate": 65.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "032894076694",
+      "name": "Americana Shredded Tuna",
+      "unit_price": 40,
+      "calc": "40 EGP per pack (140g)"
+     },
+     {
+      "sku": "6211101152015",
+      "name": "Tolido Tuna Chunks",
+      "unit_price": 85,
+      "calc": "85 EGP per pack (140g)"
+     },
+     {
+      "sku": "749350088596",
+      "name": "Aqua Shredded Tuna",
+      "unit_price": 36,
+      "calc": "36 EGP per pack (140g)"
+     },
+     {
+      "sku": "6211101112019",
+      "name": "Tolido Tuna Chunks",
+      "unit_price": 100,
+      "calc": "100 EGP per pack (185g)"
+     },
+     {
+      "sku": "6211101154019",
+      "name": "Tolido Tuna One Piece",
+      "unit_price": 110,
+      "calc": "110 EGP per pack (185g)"
+     },
+     {
+      "sku": "0749350088596",
+      "name": "Aqua Premium Shredded Tuna",
+      "unit_price": 45,
+      "calc": "45 EGP per pack (140g)"
+     }
+    ]
+   },
+   "molasses": {
+    "status": "fresh",
+    "candidate": 123.84,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6044062000008",
+      "name": "Molasses",
+      "unit_price": 144.74,
+      "calc": "55 EGP / 380g"
+     },
+     {
+      "sku": "6223000762066",
+      "name": "El Bawadi Molasses",
+      "unit_price": 102.94,
+      "calc": "35 EGP / 340g"
+     }
+    ]
+   },
+   "nuts": {
+    "status": "fresh",
+    "candidate": 1391.66,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "7027663777776",
+      "name": "Mixed Nuts",
+      "unit_price": 1450.0,
+      "calc": "290 EGP / 200g"
+     },
+     {
+      "sku": "5281009568349",
+      "name": "Castania Extra Super Mixed Nuts",
+      "unit_price": 1333.33,
+      "calc": "400 EGP / 300g"
+     }
+    ]
+   },
+   "raisins": {
+    "status": "fresh",
+    "candidate": 440.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "7027662777777",
+      "name": "Egyptian Golden Raisin",
+      "unit_price": 440.0,
+      "calc": "110 EGP / 250g"
+     }
+    ]
+   },
+   "puree": {
+    "status": "fresh",
+    "candidate": 45,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6222014335662",
+      "name": "Juhayna Tomato Puree",
+      "unit_price": 45,
+      "calc": "45 EGP per pack (500g)"
+     }
+    ]
+   },
+   "pommolasses": {
+    "status": "fresh",
+    "candidate": 160,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "5283006161455",
+      "name": "Boulos Pomegranate Molasses",
+      "unit_price": 160,
+      "calc": "160 EGP per pack (350g)"
+     }
+    ]
+   },
+   "pistachio": {
+    "status": "fresh",
+    "candidate": 3000.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "7028777777775",
+      "name": "California Pistachios Peeled",
+      "unit_price": 3000.0,
+      "calc": "600 EGP / 200g"
+     },
+     {
+      "sku": "7027677777779",
+      "name": "Salted Roasted Peeled Pistachios",
+      "unit_price": 3725.0,
+      "calc": "745 EGP / 200g"
+     },
+     {
+      "sku": "7027627777774",
+      "name": "California Roasted & Salted Pistachios",
+      "unit_price": 1800.0,
+      "calc": "360 EGP / 200g"
+     },
+     {
+      "sku": "7026556672471",
+      "name": "Gourmet Salted Roasted Peeled Pistachios",
+      "unit_price": 3733.33,
+      "calc": "560 EGP / 150g"
+     },
+     {
+      "sku": "7026550666674",
+      "name": "Go Nuts! California Roasted & Salted Pistachios",
+      "unit_price": 2100.0,
+      "calc": "210 EGP / 100g"
+     }
+    ]
+   },
+   "sesame": {
+    "status": "fresh",
+    "candidate": 907.69,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "7010970900005",
+      "name": "White Sesame Seeds - Spice Guru",
+      "unit_price": 907.69,
+      "calc": "59 EGP / 65g"
+     }
+    ]
+   },
+   "puff": {
+    "status": "fresh",
+    "candidate": 362.5,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6281073110146",
+      "name": "Sunbulah Puff Pastry Sheets",
+      "unit_price": 362.5,
+      "calc": "145 EGP / 400g"
+     }
+    ]
+   },
+   "ketchup": {
+    "status": "fresh",
+    "candidate": 230.77,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6221033000988",
+      "name": "Heinz Ketchup",
+      "unit_price": 230.77,
+      "calc": "45 EGP / 195g"
+     }
+    ]
+   },
+   "mustard": {
+    "status": "fresh",
+    "candidate": 234.04,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6221033173217",
+      "name": "Heinz Yellow Mustard",
+      "unit_price": 234.04,
+      "calc": "55 EGP / 235g"
+     }
+    ]
+   },
+   "chliver": {
+    "status": "fresh",
+    "candidate": 200.0,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6043053000003",
+      "name": "Fresh Chicken Heart & Liver",
+      "unit_price": 200.0,
+      "calc": "100 EGP / 500g"
+     }
+    ]
+   },
+   "mince": {
+    "status": "fresh",
+    "candidate": 683.33,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6224007376812",
+      "name": "Frozen Prime Beef Mince",
+      "unit_price": 683.33,
+      "calc": "410 EGP / 600g"
+     }
+    ]
+   },
+   "vliver": {
+    "status": "fresh",
+    "candidate": 612.5,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "7026556680179",
+      "name": "Gourmet Wheat-Bran Veal Liver",
+      "unit_price": 612.5,
+      "calc": "245 EGP / 400g"
+     }
+    ]
+   },
+   "panee_frz": {
+    "status": "fresh",
+    "candidate": 406.25,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6224000625498",
+      "name": "Atyab Chicken Pane Crispy",
+      "unit_price": 375.0,
+      "calc": "150 EGP / 400g"
+     },
+     {
+      "sku": "6224000625771",
+      "name": "Atyab Chicken Pane Spicy",
+      "unit_price": 350.0,
+      "calc": "350 EGP / 1000g"
+     },
+     {
+      "sku": "6223002613311",
+      "name": "Shahd Homemade Pane",
+      "unit_price": 437.5,
+      "calc": "350 EGP / 800g"
+     },
+     {
+      "sku": "6223002613328",
+      "name": "Shahd Spicy Homemade Pane",
+      "unit_price": 437.5,
+      "calc": "350 EGP / 800g"
+     }
+    ]
+   },
+   "nuggets": {
+    "status": "fresh",
+    "candidate": 337.5,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6224000625795",
+      "name": "Atyab Chicken Nuggets",
+      "unit_price": 330.0,
+      "calc": "330 EGP / 1000g"
+     },
+     {
+      "sku": "6223002611430",
+      "name": "Shahd Chicken Nuggets",
+      "unit_price": 345.0,
+      "calc": "345 EGP / 1000g"
+     }
+    ]
+   },
+   "strips": {
+    "status": "fresh",
+    "candidate": 412.5,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6223002611492",
+      "name": "Shahd Chicken Strips",
+      "unit_price": 537.5,
+      "calc": "215 EGP / 400g"
+     },
+     {
+      "sku": "6223002611485",
+      "name": "Shahd Chicken Strips",
+      "unit_price": 500.0,
+      "calc": "375 EGP / 750g"
+     },
+     {
+      "sku": "6224001184451",
+      "name": "Atyab Chicken Strips Box",
+      "unit_price": 375.0,
+      "calc": "375 EGP / 1000g"
+     },
+     {
+      "sku": "6223002611669",
+      "name": "Shahd Spicy Chicken Strips",
+      "unit_price": 500.0,
+      "calc": "375 EGP / 750g"
+     },
+     {
+      "sku": "6224007330197",
+      "name": "Atyab Chicken Strips Original",
+      "unit_price": 412.5,
+      "calc": "165 EGP / 400g"
+     },
+     {
+      "sku": "6224007330203",
+      "name": "Atyab Chicken Strips Spicy",
+      "unit_price": 412.5,
+      "calc": "165 EGP / 400g"
+     },
+     {
+      "sku": "6224001184468",
+      "name": "Atyab Chicken Strips Spicy Box",
+      "unit_price": 375.0,
+      "calc": "375 EGP / 1000g"
+     }
+    ]
+   },
+   "fries_frz": {
+    "status": "fresh",
+    "candidate": 113.33,
+    "date": "2026-11-19",
+    "products": [
+     {
+      "sku": "6223001752851",
+      "name": "Farm Frites Crinkle Fries",
+      "unit_price": 85.0,
+      "calc": "85 EGP / 1000g"
+     },
+     {
+      "sku": "6223001754916",
+      "name": "Farm Frites Spoonful Fries",
+      "unit_price": 120.0,
+      "calc": "60 EGP / 500g"
+     },
+     {
+      "sku": "6223001752905",
+      "name": "Farm Frites Steakhouse Fries",
+      "unit_price": 113.33,
+      "calc": "85 EGP / 750g"
+     }
+    ]
+   }
+  }
+ },
+ "meta": {
+  "generator": "hanakol prices/build_prices.py",
+  "counts": {
+   "fresh_market": 24,
+   "fresh_gourmet": 18,
+   "held": 37,
+   "previous": 0,
+   "builtin": 65
+  },
+  "total_ids": 144,
+  "fresh_ids": 42,
+  "rules": {
+   "max_change": 0.4,
+   "confirm_market_jump": {
+    "enabled": true,
+    "min_days_apart": 6,
+    "max_drift": 0.15
+   },
+   "implausible_factor": 8.0,
+   "wholesale_markup": 1.4,
+   "bulletin_max_age_days": 7,
+   "max_previous_age_days": 42,
+   "gourmet_enabled": true,
+   "gourmet_in_default": "only when no market price"
+  },
+  "errors": [],
+  "fetch_log": [
+   {
+    "url": "http://www.oboormarket.org.eg/prices_today.aspx",
+    "ok": true,
+    "bytes": 157409
+   },
+   {
+    "url": "https://www.banker.news/newsmap.xml",
+    "ok": true,
+    "bytes": 201760
+   },
+   {
+    "url": "https://www.banker.news/rss.aspx",
+    "ok": true,
+    "bytes": 21187
+   },
+   {
+    "url": "https://www.banker.news/category/43",
+    "ok": true,
+    "bytes": 54109
+   },
+   {
+    "url": "https://www.banker.news/category/43?page=2",
+    "ok": true,
+    "bytes": 54490
+   },
+   {
+    "url": "https://www.banker.news/156861",
+    "ok": true,
+    "bytes": 74203
+   },
+   {
+    "url": "https://www.banker.news/156856",
+    "ok": true,
+    "bytes": 72093
+   },
+   {
+    "url": "https://www.banker.news/161727",
+    "ok": true,
+    "bytes": 75147
+   },
+   {
+    "url": "https://www.almasryalyoum.com/sitemapxmls/news/news-2026-11.xml",
+    "ok": true,
+    "bytes": 8529146
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4414279",
+    "ok": true,
+    "bytes": 336571
+   },
+   {
+    "url": "https://www.elwatannews.com/news-sitemap.xml",
+    "ok": true,
+    "bytes": 439767
+   },
+   {
+    "url": "https://www.elwatannews.com/news/details/8399636",
+    "ok": true,
+    "bytes": 103189
+   },
+   {
+    "url": "https://www.elwatannews.com/news/details/8399677",
+    "ok": true,
+    "bytes": 104416
+   },
+   {
+    "url": "https://www.almasryalyoum.com/sitemapxmls/news/news-2026-11.xml",
+    "ok": true,
+    "bytes": 8529146
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4414602",
+    "ok": true,
+    "bytes": 321268
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4414399",
+    "ok": true,
+    "bytes": 327272
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4414274",
+    "ok": true,
+    "bytes": 333297
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4414273",
+    "ok": true,
+    "bytes": 330719
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4413331",
+    "ok": true,
+    "bytes": 332726
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4413330",
+    "ok": true,
+    "bytes": 331472
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4412738",
+    "ok": true,
+    "bytes": 316559
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4412660",
+    "ok": true,
+    "bytes": 318728
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4412586",
+    "ok": true,
+    "bytes": 328801
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4412414",
+    "ok": true,
+    "bytes": 330723
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4412413",
+    "ok": true,
+    "bytes": 332635
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4411767",
+    "ok": true,
+    "bytes": 319506
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4411690",
+    "ok": true,
+    "bytes": 318603
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4411541",
+    "ok": true,
+    "bytes": 333194
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4411512",
+    "ok": true,
+    "bytes": 331319
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4411164",
+    "ok": true,
+    "bytes": 322588
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4414604",
+    "ok": true,
+    "bytes": 315894
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4412719",
+    "ok": true,
+    "bytes": 319576
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4412706",
+    "ok": true,
+    "bytes": 330824
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4412656",
+    "ok": true,
+    "bytes": 315839
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4411785",
+    "ok": true,
+    "bytes": 316448
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4411179",
+    "ok": true,
+    "bytes": 326873
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4411119",
+    "ok": true,
+    "bytes": 335066
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4410849",
+    "ok": true,
+    "bytes": 319068
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4410783",
+    "ok": true,
+    "bytes": 316758
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4409931",
+    "ok": true,
+    "bytes": 315846
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4409299",
+    "ok": true,
+    "bytes": 315589
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4409292",
+    "ok": true,
+    "bytes": 316102
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4408419",
+    "ok": true,
+    "bytes": 315697
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4408397",
+    "ok": true,
+    "bytes": 316860
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4407448",
+    "ok": true,
+    "bytes": 315844
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4407422",
+    "ok": true,
+    "bytes": 315692
+   },
+   {
+    "source": "gourmet",
+    "term": "egyptian rice",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "regina pasta",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "el doha pasta",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "orzo",
+    "ok": true,
+    "items": 5
+   },
+   {
+    "source": "gourmet",
+    "term": "vermicelli",
+    "ok": true,
+    "items": 17
+   },
+   {
+    "source": "gourmet",
+    "term": "freekeh",
+    "ok": true,
+    "items": 5
+   },
+   {
+    "source": "gourmet",
+    "term": "brown lentils",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "yellow lentils",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "el doha chickpeas",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "fava beans",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "white beans",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "chickpeas",
+    "ok": true,
+    "items": 26
+   },
+   {
+    "source": "gourmet",
+    "term": "semolina",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "corn starch",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "sugar",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "breadcrumbs",
+    "ok": true,
+    "items": 11
+   },
+   {
+    "source": "gourmet",
+    "term": "instant yeast",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "sunflower oil",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "ghee",
+    "ok": true,
+    "items": 3
+   },
+   {
+    "source": "gourmet",
+    "term": "butter",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "fresh milk",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "cooking cream",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "yogurt",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "white cheese",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "mozzarella",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "olive oil",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "kiri",
+    "ok": true,
+    "items": 18
+   },
+   {
+    "source": "gourmet",
+    "term": "whipping cream",
+    "ok": true,
+    "items": 29
+   },
+   {
+    "source": "gourmet",
+    "term": "milk powder",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "eggs",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "tomatoes",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "onions",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "potatoes",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "garlic",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "hot pepper",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "zucchini",
+    "ok": true,
+    "items": 12
+   },
+   {
+    "source": "gourmet",
+    "term": "carrots",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "okra",
+    "ok": true,
+    "items": 8
+   },
+   {
+    "source": "gourmet",
+    "term": "molokhia",
+    "ok": true,
+    "items": 6
+   },
+   {
+    "source": "gourmet",
+    "term": "cucumber",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "green beans",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "frozen peas",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "cauliflower",
+    "ok": true,
+    "items": 3
+   },
+   {
+    "source": "gourmet",
+    "term": "mushrooms",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "mango",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "lettuce",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "tomato paste",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "white vinegar",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "tahini",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "tuna",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "black molasses",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "mixed nuts",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "raisins",
+    "ok": true,
+    "items": 15
+   },
+   {
+    "source": "gourmet",
+    "term": "tomato puree",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "pomegranate molasses",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "pistachio",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "sesame",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "puff pastry",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "ketchup",
+    "ok": true,
+    "items": 21
+   },
+   {
+    "source": "gourmet",
+    "term": "mustard",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "chicken liver",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "minced beef",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "veal liver",
+    "ok": true,
+    "items": 10
+   },
+   {
+    "source": "gourmet",
+    "term": "frozen chicken pane",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "nuggets",
+    "ok": true,
+    "items": 5
+   },
+   {
+    "source": "gourmet",
+    "term": "chicken strips",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "french fries",
+    "ok": true,
+    "items": 30
+   },
+   {
+    "source": "gourmet",
+    "term": "mixed vegetables",
+    "ok": true,
+    "items": 30
+   }
+  ]
+ }
+}
