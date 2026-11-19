@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-19T23:41:32+02:00",
+ "updated_at": "2026-11-19T23:45:38+02:00",
  "currency": "EGP",
  "default": {
   "rice": 35.19,
@@ -226,22 +226,6 @@
    "ids_priced": 15
   },
   {
-   "id": "banker_veg",
-   "name": "بانكير — أسعار الخضار في سوق العبور (جملة)",
-   "kind": "wholesale",
-   "url": "https://www.banker.news/156861",
-   "date": "2026-10-20",
-   "ids_priced": 0
-  },
-  {
-   "id": "banker_meat",
-   "name": "بانكير — أسعار اللحوم (بوابة الأسعار - مجلس الوزراء، متوسط تجزئة)",
-   "kind": "retail",
-   "url": "https://www.banker.news/156856",
-   "date": "2026-10-20",
-   "ids_priced": 0
-  },
-  {
    "id": "banker_poultry",
    "name": "بانكير — أسعار الفراخ (بوابة الأسعار - مجلس الوزراء، تجزئة)",
    "kind": "retail",
@@ -460,6 +444,13 @@
    "sources": [
     "almasry_cabinet"
    ],
+   "observations": [
+    {
+     "source": "almasry_cabinet",
+     "price": 35.19,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 35.19,
    "date": "2026-11-19"
   },
@@ -470,6 +461,13 @@
    "sources": [
     "almasry_cabinet"
    ],
+   "observations": [
+    {
+     "source": "almasry_cabinet",
+     "price": 27.02,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 27.02,
    "date": "2026-11-19"
   },
@@ -479,6 +477,13 @@
    "unit": "kg",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 87.5,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 87.5,
    "held": {
@@ -497,6 +502,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 87.5,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 87.5,
    "held": {
     "candidate": 87.5,
@@ -514,6 +526,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 150.0,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 150.0,
    "date": "2026-11-19"
   },
@@ -523,6 +542,13 @@
    "unit": "kg",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 140.0,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 140.0,
    "held": {
@@ -540,6 +566,13 @@
    "unit": "kg",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 140.0,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 140.0,
    "held": {
@@ -562,6 +595,13 @@
    "sources": [
     "almasry_cabinet"
    ],
+   "observations": [
+    {
+     "source": "almasry_cabinet",
+     "price": 61.81,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 61.81,
    "date": "2026-11-19"
   },
@@ -572,6 +612,13 @@
    "sources": [
     "almasry_cabinet"
    ],
+   "observations": [
+    {
+     "source": "almasry_cabinet",
+     "price": 61.59,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 61.59,
    "date": "2026-11-19"
   },
@@ -581,6 +628,13 @@
    "unit": "kg",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 200.0,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 200.0,
    "held": {
@@ -599,6 +653,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 37.5,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 37.5,
    "held": {
     "candidate": 37.5,
@@ -616,6 +677,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 27.5,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 27.5,
    "date": "2026-11-19"
   },
@@ -630,6 +698,13 @@
    "sources": [
     "almasry_cabinet"
    ],
+   "observations": [
+    {
+     "source": "almasry_cabinet",
+     "price": 27.53,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 27.53,
    "date": "2026-11-19"
   },
@@ -639,6 +714,13 @@
    "unit": "kg",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 80.0,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 80.0,
    "held": {
@@ -657,6 +739,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 104.17,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 104.17,
    "held": {
     "candidate": 104.17,
@@ -673,6 +762,13 @@
    "unit": "kg",
    "sources": [
     "almasry_cabinet"
+   ],
+   "observations": [
+    {
+     "source": "almasry_cabinet",
+     "price": 35.68,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 35.68,
    "date": "2026-11-19"
@@ -700,6 +796,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 100.0,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 100.0,
    "date": "2026-11-19"
   },
@@ -722,6 +825,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 6.0,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 6.0,
    "date": "2026-11-19"
   },
@@ -731,6 +841,13 @@
    "unit": "l",
    "sources": [
     "almasry_cabinet"
+   ],
+   "observations": [
+    {
+     "source": "almasry_cabinet",
+     "price": 107.78,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 107.78,
    "date": "2026-11-19"
@@ -745,6 +862,13 @@
    "unit": "kg",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 1250.0,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 1250.0,
    "held": {
@@ -763,6 +887,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 63.53,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 63.53,
    "date": "2026-11-19"
   },
@@ -773,6 +904,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 300.0,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 300.0,
    "date": "2026-11-19"
   },
@@ -782,6 +920,13 @@
    "unit": "pc",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 17,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 17,
    "held": {
@@ -799,6 +944,13 @@
    "unit": "kg",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 322.23,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 322.23,
    "held": {
@@ -825,6 +977,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 400.65,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 400.65,
    "date": "2026-11-19"
   },
@@ -834,6 +993,13 @@
    "unit": "kg",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 740.0,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 740.0,
    "held": {
@@ -851,6 +1017,13 @@
    "unit": "l",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 1050.0,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 1050.0,
    "held": {
@@ -877,6 +1050,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 67.5,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 67.5,
    "date": "2026-11-19"
   },
@@ -886,6 +1066,13 @@
    "unit": "l",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 300.0,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 300.0,
    "date": "2026-11-19"
@@ -903,6 +1090,23 @@
     "elwatan_eggs",
     "banker_poultry"
    ],
+   "observations": [
+    {
+     "source": "almasry_cabinet",
+     "price": 4.17,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "elwatan_eggs",
+     "price": 4.17,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "banker_poultry",
+     "price": 4.73,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 4.17,
    "date": "2026-11-19"
   },
@@ -912,8 +1116,24 @@
    "unit": "kg",
    "sources": [
     "obour",
-    "almasry_veg",
     "almasry_veg"
+   ],
+   "observations": [
+    {
+     "source": "obour",
+     "price": 20.25,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 20.0,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 22.5,
+     "date": "2026-11-17"
+    }
    ],
    "candidate": 20.25,
    "held": {
@@ -931,8 +1151,24 @@
    "unit": "kg",
    "sources": [
     "obour",
-    "almasry_veg",
     "almasry_veg"
+   ],
+   "observations": [
+    {
+     "source": "obour",
+     "price": 27.25,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 25.0,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 25.0,
+     "date": "2026-11-17"
+    }
    ],
    "candidate": 25.0,
    "date": "2026-11-19"
@@ -943,8 +1179,24 @@
    "unit": "kg",
    "sources": [
     "obour",
-    "almasry_veg",
     "almasry_veg"
+   ],
+   "observations": [
+    {
+     "source": "obour",
+     "price": 25.25,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 20.0,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 25.0,
+     "date": "2026-11-17"
+    }
    ],
    "candidate": 25.0,
    "date": "2026-11-19"
@@ -956,6 +1208,18 @@
    "sources": [
     "obour",
     "almasry_veg"
+   ],
+   "observations": [
+    {
+     "source": "obour",
+     "price": 38.5,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 15.0,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 26.75,
    "held": {
@@ -973,8 +1237,24 @@
    "unit": "kg",
    "sources": [
     "obour",
-    "almasry_veg",
     "almasry_veg"
+   ],
+   "observations": [
+    {
+     "source": "obour",
+     "price": 15.5,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 25.0,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 20.0,
+     "date": "2026-11-17"
+    }
    ],
    "candidate": 20.0,
    "date": "2026-11-19"
@@ -985,8 +1265,24 @@
    "unit": "kg",
    "sources": [
     "obour",
-    "almasry_veg",
     "almasry_veg"
+   ],
+   "observations": [
+    {
+     "source": "obour",
+     "price": 38.5,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 60.0,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 60.0,
+     "date": "2026-11-17"
+    }
    ],
    "candidate": 60.0,
    "held": {
@@ -1004,8 +1300,24 @@
    "unit": "kg",
    "sources": [
     "obour",
-    "almasry_veg",
     "almasry_veg"
+   ],
+   "observations": [
+    {
+     "source": "obour",
+     "price": 11.25,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 15.0,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 20.0,
+     "date": "2026-11-17"
+    }
    ],
    "candidate": 15.0,
    "date": "2026-11-19"
@@ -1016,8 +1328,24 @@
    "unit": "kg",
    "sources": [
     "obour",
-    "almasry_veg",
     "almasry_veg"
+   ],
+   "observations": [
+    {
+     "source": "obour",
+     "price": 16.75,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 10.0,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 25.0,
+     "date": "2026-11-17"
+    }
    ],
    "candidate": 16.75,
    "date": "2026-11-19"
@@ -1028,8 +1356,24 @@
    "unit": "kg",
    "sources": [
     "obour",
-    "almasry_veg",
     "almasry_veg"
+   ],
+   "observations": [
+    {
+     "source": "obour",
+     "price": 7.0,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 17.5,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 15.0,
+     "date": "2026-11-17"
+    }
    ],
    "candidate": 15.0,
    "held": {
@@ -1047,8 +1391,24 @@
    "unit": "kg",
    "sources": [
     "obour",
-    "almasry_veg",
     "almasry_veg"
+   ],
+   "observations": [
+    {
+     "source": "obour",
+     "price": 12.5,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 15.0,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 30.0,
+     "date": "2026-11-17"
+    }
    ],
    "candidate": 15.0,
    "date": "2026-11-19"
@@ -1060,6 +1420,18 @@
    "sources": [
     "obour",
     "almasry_veg"
+   ],
+   "observations": [
+    {
+     "source": "obour",
+     "price": 63.0,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 70.0,
+     "date": "2026-11-17"
+    }
    ],
    "candidate": 66.5,
    "held": {
@@ -1079,6 +1451,18 @@
     "obour",
     "almasry_veg"
    ],
+   "observations": [
+    {
+     "source": "obour",
+     "price": 15.5,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 30.0,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 22.75,
    "held": {
     "candidate": 22.75,
@@ -1095,8 +1479,24 @@
    "unit": "kg",
    "sources": [
     "obour",
-    "almasry_veg",
     "almasry_veg"
+   ],
+   "observations": [
+    {
+     "source": "obour",
+     "price": 19.0,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 20.0,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 25.0,
+     "date": "2026-11-17"
+    }
    ],
    "candidate": 20.0,
    "date": "2026-11-19"
@@ -1106,8 +1506,19 @@
    "origin": "market",
    "unit": "kg",
    "sources": [
-    "almasry_veg",
     "almasry_veg"
+   ],
+   "observations": [
+    {
+     "source": "almasry_veg",
+     "price": 50.0,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 100.0,
+     "date": "2026-11-17"
+    }
    ],
    "candidate": 75.0,
    "held": {
@@ -1127,6 +1538,18 @@
     "obour",
     "almasry_veg"
    ],
+   "observations": [
+    {
+     "source": "obour",
+     "price": 28.0,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 60.0,
+     "date": "2026-11-17"
+    }
+   ],
    "candidate": 44.0,
    "date": "2026-11-19"
   },
@@ -1136,6 +1559,13 @@
    "unit": "kg",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 175.0,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 175.0,
    "held": {
@@ -1157,6 +1587,13 @@
    "unit": "kg",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 190.0,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 190.0,
    "held": {
@@ -1183,6 +1620,13 @@
    "sources": [
     "obour"
    ],
+   "observations": [
+    {
+     "source": "obour",
+     "price": 14.75,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 14.75,
    "held": {
     "candidate": 14.75,
@@ -1200,6 +1644,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 485.0,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 485.0,
    "held": {
     "candidate": 485.0,
@@ -1215,8 +1666,19 @@
    "origin": "market",
    "unit": "kg",
    "sources": [
-    "almasry_veg",
     "almasry_veg"
+   ],
+   "observations": [
+    {
+     "source": "almasry_veg",
+     "price": 50.0,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_veg",
+     "price": 70.0,
+     "date": "2026-11-17"
+    }
    ],
    "candidate": 60.0,
    "date": "2026-11-19"
@@ -1231,6 +1693,13 @@
    "unit": "pc",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 24.5,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 24.5,
    "held": {
@@ -1257,6 +1726,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 129.17,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 129.17,
    "held": {
     "candidate": 129.17,
@@ -1274,6 +1750,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 25.0,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 25.0,
    "date": "2026-11-19"
   },
@@ -1283,6 +1766,13 @@
    "unit": "kg",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 343.75,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 343.75,
    "held": {
@@ -1313,6 +1803,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 65.0,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 65.0,
    "date": "2026-11-19"
   },
@@ -1322,6 +1819,13 @@
    "unit": "kg",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 123.84,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 123.84,
    "held": {
@@ -1340,6 +1844,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 1391.66,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 1391.66,
    "held": {
     "candidate": 1391.66,
@@ -1356,6 +1867,13 @@
    "unit": "kg",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 440.0,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 440.0,
    "held": {
@@ -1386,6 +1904,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 45,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 45,
    "date": "2026-11-19"
   },
@@ -1395,6 +1920,13 @@
    "unit": "pc",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 160,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 160,
    "held": {
@@ -1413,6 +1945,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 3000.0,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 3000.0,
    "held": {
     "candidate": 3000.0,
@@ -1430,6 +1969,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 907.69,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 907.69,
    "held": {
     "candidate": 907.69,
@@ -1446,6 +1992,13 @@
    "unit": "kg",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 362.5,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 362.5,
    "held": {
@@ -1473,6 +2026,18 @@
     "elwatan_poultry",
     "banker_poultry"
    ],
+   "observations": [
+    {
+     "source": "elwatan_poultry",
+     "price": 77.5,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "banker_poultry",
+     "price": 79.0,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 78.25,
    "date": "2026-11-19"
   },
@@ -1482,6 +2047,13 @@
    "unit": "kg",
    "sources": [
     "elwatan_poultry"
+   ],
+   "observations": [
+    {
+     "source": "elwatan_poultry",
+     "price": 210.0,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 210.0,
    "date": "2026-11-19"
@@ -1496,6 +2068,13 @@
    "unit": "kg",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 200.0,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 200.0,
    "held": {
@@ -1526,6 +2105,13 @@
    "sources": [
     "almasry_meat"
    ],
+   "observations": [
+    {
+     "source": "almasry_meat",
+     "price": 425.0,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 425.0,
    "date": "2026-11-19"
   },
@@ -1535,6 +2121,13 @@
    "unit": "kg",
    "sources": [
     "almasry_meat"
+   ],
+   "observations": [
+    {
+     "source": "almasry_meat",
+     "price": 430.0,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 430.0,
    "date": "2026-11-19"
@@ -1570,6 +2163,13 @@
    "sources": [
     "almasry_meat"
    ],
+   "observations": [
+    {
+     "source": "almasry_meat",
+     "price": 425.0,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 425.0,
    "date": "2026-11-19"
   },
@@ -1580,6 +2180,13 @@
    "sources": [
     "almasry_meat"
    ],
+   "observations": [
+    {
+     "source": "almasry_meat",
+     "price": 430.0,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 430.0,
    "date": "2026-11-19"
   },
@@ -1589,6 +2196,13 @@
    "unit": "kg",
    "sources": [
     "almasry_meat"
+   ],
+   "observations": [
+    {
+     "source": "almasry_meat",
+     "price": 375.0,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 375.0,
    "held": {
@@ -1606,6 +2220,13 @@
    "unit": "kg",
    "sources": [
     "almasry_meat"
+   ],
+   "observations": [
+    {
+     "source": "almasry_meat",
+     "price": 160.0,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 160.0,
    "date": "2026-11-19"
@@ -1677,6 +2298,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 406.25,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 406.25,
    "date": "2026-11-19"
   },
@@ -1687,6 +2315,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 337.5,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 337.5,
    "date": "2026-11-19"
   },
@@ -1696,6 +2331,13 @@
    "unit": "kg",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 412.5,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 412.5,
    "date": "2026-11-19"
@@ -1719,6 +2361,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 113.33,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 113.33,
    "date": "2026-11-19"
   },
@@ -1728,6 +2377,13 @@
    "unit": "kg",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 68.75,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 68.75,
    "date": "2026-11-19"
@@ -1771,6 +2427,13 @@
    "sources": [
     "gourmet"
    ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 230.77,
+     "date": "2026-11-19"
+    }
+   ],
    "candidate": 230.77,
    "held": {
     "candidate": 230.77,
@@ -1787,6 +2450,13 @@
    "unit": "kg",
    "sources": [
     "gourmet"
+   ],
+   "observations": [
+    {
+     "source": "gourmet",
+     "price": 234.04,
+     "date": "2026-11-19"
+    }
    ],
    "candidate": 234.04,
    "date": "2026-11-19"
@@ -1837,12 +2507,6 @@
       "calc": "35 EGP / 400g"
      },
      {
-      "sku": "6221022110025",
-      "name": "Regina Spaghetti Pasta",
-      "unit_price": 87.5,
-      "calc": "35 EGP / 400g"
-     },
-     {
       "sku": "6221022110414",
       "name": "Regina Macaroni Pasta",
       "unit_price": 87.5,
@@ -1851,6 +2515,12 @@
      {
       "sku": "6221022110421",
       "name": "Regina Big Rings Pasta 400g",
+      "unit_price": 87.5,
+      "calc": "35 EGP / 400g"
+     },
+     {
+      "sku": "6221022110025",
+      "name": "Regina Spaghetti Pasta",
       "unit_price": 87.5,
       "calc": "35 EGP / 400g"
      },
@@ -2147,16 +2817,16 @@
       "calc": "125 EGP / 1000ml"
      },
      {
-      "sku": "6222000508551",
-      "name": "Crystal Sunflower Oil",
-      "unit_price": 122.73,
-      "calc": "270 EGP / 2200ml"
-     },
-     {
       "sku": "6222000579896",
       "name": "Crystal Sunflower Oil",
       "unit_price": 131.43,
       "calc": "92 EGP / 700ml"
+     },
+     {
+      "sku": "6222000508551",
+      "name": "Crystal Sunflower Oil",
+      "unit_price": 122.73,
+      "calc": "270 EGP / 2200ml"
      },
      {
       "sku": "6223000264348",
@@ -2277,16 +2947,16 @@
       "calc": "70 EGP / 250ml"
      },
      {
-      "sku": "6224002142016",
-      "name": "Lamar Cooking Cream",
-      "unit_price": 300.0,
-      "calc": "75 EGP / 250ml"
-     },
-     {
       "sku": "6222014300134",
       "name": "Juhayna Cooking Cream - Medium",
       "unit_price": 320.0,
       "calc": "160 EGP / 500ml"
+     },
+     {
+      "sku": "6224002142016",
+      "name": "Lamar Cooking Cream",
+      "unit_price": 300.0,
+      "calc": "75 EGP / 250ml"
      },
      {
       "sku": "6224008637196",
@@ -2972,16 +3642,16 @@
       "calc": "36 EGP per pack (140g)"
      },
      {
-      "sku": "6211101112019",
-      "name": "Tolido Tuna Chunks",
-      "unit_price": 100,
-      "calc": "100 EGP per pack (185g)"
-     },
-     {
       "sku": "6211101154019",
       "name": "Tolido Tuna One Piece",
       "unit_price": 110,
       "calc": "110 EGP per pack (185g)"
+     },
+     {
+      "sku": "6211101112019",
+      "name": "Tolido Tuna Chunks",
+      "unit_price": 100,
+      "calc": "100 EGP per pack (185g)"
      },
      {
       "sku": "0749350088596",
@@ -3347,6 +4017,24 @@
    "gourmet_enabled": true,
    "gourmet_in_default": "only when no market price"
   },
+  "sources_unused": [
+   {
+    "id": "banker_veg",
+    "name": "بانكير — أسعار الخضار في سوق العبور (جملة)",
+    "kind": "wholesale",
+    "url": "https://www.banker.news/156861",
+    "date": "2026-10-20",
+    "ids_priced": 0
+   },
+   {
+    "id": "banker_meat",
+    "name": "بانكير — أسعار اللحوم (بوابة الأسعار - مجلس الوزراء، متوسط تجزئة)",
+    "kind": "retail",
+    "url": "https://www.banker.news/156856",
+    "date": "2026-10-20",
+    "ids_priced": 0
+   }
+  ],
   "errors": [],
   "fetch_log": [
    {
@@ -3367,27 +4055,27 @@
    {
     "url": "https://www.banker.news/category/43",
     "ok": true,
-    "bytes": 54109
+    "bytes": 54079
    },
    {
     "url": "https://www.banker.news/category/43?page=2",
     "ok": true,
-    "bytes": 54490
+    "bytes": 54464
    },
    {
     "url": "https://www.banker.news/156861",
     "ok": true,
-    "bytes": 74203
+    "bytes": 74177
    },
    {
     "url": "https://www.banker.news/156856",
     "ok": true,
-    "bytes": 72093
+    "bytes": 72067
    },
    {
     "url": "https://www.banker.news/161727",
     "ok": true,
-    "bytes": 75147
+    "bytes": 75121
    },
    {
     "url": "https://www.almasryalyoum.com/sitemapxmls/news/news-2026-11.xml",
@@ -3422,7 +4110,7 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4414602",
     "ok": true,
-    "bytes": 321268
+    "bytes": 321250
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4414399",
@@ -3432,7 +4120,7 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4414274",
     "ok": true,
-    "bytes": 333297
+    "bytes": 333291
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4414273",
@@ -3502,7 +4190,7 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4414604",
     "ok": true,
-    "bytes": 315894
+    "bytes": 315893
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4412719",
@@ -3517,7 +4205,7 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4412656",
     "ok": true,
-    "bytes": 315839
+    "bytes": 315840
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4411785",
