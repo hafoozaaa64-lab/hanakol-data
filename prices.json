@@ -1,13 +1,13 @@
 {
  "version": 1,
- "updated_at": "2026-11-19T23:45:38+02:00",
+ "updated_at": "2026-11-19T23:54:51+02:00",
  "currency": "EGP",
  "default": {
   "rice": 35.19,
   "pasta": 27.02,
   "orzo": 50.0,
   "vermicelli": 60.0,
-  "freekeh": 150.0,
+  "freekeh": 120.0,
   "lentil_b": 75.0,
   "lentil_y": 62.0,
   "chickpea": 90.0,
@@ -15,7 +15,7 @@
   "fava_split": 61.59,
   "whitebeans": 110.0,
   "chickpea_can": 22.0,
-  "fava_can": 27.5,
+  "fava_can": 20.0,
   "beans_can": 30.0,
   "flour": 27.53,
   "semolina": 40.0,
@@ -25,27 +25,27 @@
   "shami": 4.0,
   "fino": 3.0,
   "buns": 6.0,
-  "breadcrumbs": 100.0,
+  "breadcrumbs": 80.0,
   "roqaq": 100.0,
   "goulash": 100.0,
   "kunafa": 70.0,
-  "yeast": 6.0,
+  "yeast": 10.0,
   "oil": 107.78,
   "ghee": 180.0,
   "butter": 187.0,
-  "milk": 63.53,
-  "cream": 300.0,
+  "milk": 50.0,
+  "cream": 220.0,
   "yogurt": 12.0,
   "wcheese": 150.0,
   "rumi": 297.0,
   "cheddar": 387.0,
-  "mozz": 400.65,
+  "mozz": 320.0,
   "bghee": 480.0,
   "oliveoil": 420.0,
   "parm": 1100.0,
   "gouda": 420.0,
-  "kiri": 67.5,
-  "whipcream": 300.0,
+  "kiri": 60.0,
+  "whipcream": 340.0,
   "milkpowder": 400.0,
   "eggs": 4.17,
   "tomato": 14.0,
@@ -76,19 +76,19 @@
   "lemon": 1.5,
   "herbs": 5.0,
   "paste": 65.0,
-  "vinegar": 25.0,
+  "vinegar": 20.0,
   "tahini": 200.0,
   "mayo": 55.0,
   "soy": 60.0,
   "olives": 80.0,
-  "tuna": 65.0,
+  "tuna": 75.0,
   "molasses": 70.0,
   "nuts": 600.0,
   "raisins": 200.0,
   "coconut": 250.0,
   "cocoa": 300.0,
   "tomsauce": 30.0,
-  "puree": 45,
+  "puree": 40.0,
   "pommolasses": 70.0,
   "pistachio": 1500.0,
   "sesame": 160.0,
@@ -129,14 +129,14 @@
   "sambousek_frz": 10.0,
   "kobeiba_frz": 17.0,
   "kofta_frz": 400.0,
-  "panee_frz": 406.25,
-  "nuggets": 337.5,
-  "strips": 412.5,
+  "panee_frz": 320.0,
+  "nuggets": 340.0,
+  "strips": 380.0,
   "shish_mar": 300.0,
   "fish_frz": 210.0,
   "shrimp_frz": 500.0,
-  "fries_frz": 113.33,
-  "molokhia_frz": 68.75,
+  "fries_frz": 110.0,
+  "molokhia_frz": 80.0,
   "mixveg_frz": 95.0,
   "hawawshi_frz": 40.0,
   "pizza_frz": 170.0,
@@ -146,7 +146,7 @@
   "beef_bacon": 700.0,
   "grape_juice": 60.0,
   "ketchup": 130.0,
-  "mustard": 234.04
+  "mustard": 225.0
  },
  "stores": {
   "gourmet": {
@@ -472,117 +472,24 @@
    "date": "2026-11-19"
   },
   "orzo": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 87.5,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 87.5,
-   "held": {
-    "candidate": 87.5,
-    "since": "2026-11-19",
-    "reason": "change +75% > ±40% vs 50",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "vermicelli": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 87.5,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 87.5,
-   "held": {
-    "candidate": 87.5,
-    "since": "2026-11-19",
-    "reason": "change +46% > ±40% vs 60",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "freekeh": {
-   "status": "fresh",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 150.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 150.0,
-   "date": "2026-11-19"
+   "status": "builtin",
+   "unit": "kg"
   },
   "lentil_b": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 140.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 140.0,
-   "held": {
-    "candidate": 140.0,
-    "since": "2026-11-19",
-    "reason": "change +87% > ±40% vs 75",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "lentil_y": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 140.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 140.0,
-   "held": {
-    "candidate": 140.0,
-    "since": "2026-11-19",
-    "reason": "change +126% > ±40% vs 62",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "chickpea": {
    "status": "builtin",
@@ -623,69 +530,16 @@
    "date": "2026-11-19"
   },
   "whitebeans": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 200.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 200.0,
-   "held": {
-    "candidate": 200.0,
-    "since": "2026-11-19",
-    "reason": "change +82% > ±40% vs 110",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "chickpea_can": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "pc",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 37.5,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 37.5,
-   "held": {
-    "candidate": 37.5,
-    "since": "2026-11-19",
-    "reason": "change +70% > ±40% vs 22",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "pc"
   },
   "fava_can": {
-   "status": "fresh",
-   "origin": "gourmet",
-   "unit": "pc",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 27.5,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 27.5,
-   "date": "2026-11-19"
+   "status": "builtin",
+   "unit": "pc"
   },
   "beans_can": {
    "status": "builtin",
@@ -709,52 +563,12 @@
    "date": "2026-11-19"
   },
   "semolina": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 80.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 80.0,
-   "held": {
-    "candidate": 80.0,
-    "since": "2026-11-19",
-    "reason": "change +100% > ±40% vs 40",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "starch": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 104.17,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 104.17,
-   "held": {
-    "candidate": 104.17,
-    "since": "2026-11-19",
-    "reason": "change +74% > ±40% vs 60",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "sugar": {
    "status": "fresh",
@@ -790,21 +604,8 @@
    "unit": "pc"
   },
   "breadcrumbs": {
-   "status": "fresh",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 100.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 100.0,
-   "date": "2026-11-19"
+   "status": "builtin",
+   "unit": "kg"
   },
   "roqaq": {
    "status": "builtin",
@@ -819,21 +620,8 @@
    "unit": "kg"
   },
   "yeast": {
-   "status": "fresh",
-   "origin": "gourmet",
-   "unit": "pc",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 6.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 6.0,
-   "date": "2026-11-19"
+   "status": "builtin",
+   "unit": "pc"
   },
   "oil": {
    "status": "fresh",
@@ -857,110 +645,24 @@
    "unit": "kg"
   },
   "butter": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 1250.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 1250.0,
-   "held": {
-    "candidate": 1250.0,
-    "since": "2026-11-19",
-    "reason": "change +568% > ±40% vs 187",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "milk": {
-   "status": "fresh",
-   "origin": "gourmet",
-   "unit": "l",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 63.53,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 63.53,
-   "date": "2026-11-19"
+   "status": "builtin",
+   "unit": "l"
   },
   "cream": {
-   "status": "fresh",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 300.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 300.0,
-   "date": "2026-11-19"
+   "status": "builtin",
+   "unit": "kg"
   },
   "yogurt": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "pc",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 17,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 17,
-   "held": {
-    "candidate": 17,
-    "since": "2026-11-19",
-    "reason": "change +42% > ±40% vs 12",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "pc"
   },
   "wcheese": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 322.23,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 322.23,
-   "held": {
-    "candidate": 322.23,
-    "since": "2026-11-19",
-    "reason": "change +115% > ±40% vs 150",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "rumi": {
    "status": "builtin",
@@ -971,69 +673,16 @@
    "unit": "kg"
   },
   "mozz": {
-   "status": "fresh",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 400.65,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 400.65,
-   "date": "2026-11-19"
+   "status": "builtin",
+   "unit": "kg"
   },
   "bghee": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 740.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 740.0,
-   "held": {
-    "candidate": 740.0,
-    "since": "2026-11-19",
-    "reason": "change +54% > ±40% vs 480",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "oliveoil": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "l",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 1050.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 1050.0,
-   "held": {
-    "candidate": 1050.0,
-    "since": "2026-11-19",
-    "reason": "change +150% > ±40% vs 420",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "l"
   },
   "parm": {
    "status": "builtin",
@@ -1044,38 +693,12 @@
    "unit": "kg"
   },
   "kiri": {
-   "status": "fresh",
-   "origin": "gourmet",
-   "unit": "pc",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 67.5,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 67.5,
-   "date": "2026-11-19"
+   "status": "builtin",
+   "unit": "pc"
   },
   "whipcream": {
-   "status": "fresh",
-   "origin": "gourmet",
-   "unit": "l",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 300.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 300.0,
-   "date": "2026-11-19"
+   "status": "builtin",
+   "unit": "l"
   },
   "milkpowder": {
    "status": "builtin",
@@ -1554,56 +1177,16 @@
    "date": "2026-11-19"
   },
   "peas": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 175.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 175.0,
-   "held": {
-    "candidate": 175.0,
-    "since": "2026-11-19",
-    "reason": "change +119% > ±40% vs 80",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "cabbage": {
    "status": "builtin",
    "unit": "kg"
   },
   "cauliflower": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 190.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 190.0,
-   "held": {
-    "candidate": 190.0,
-    "since": "2026-11-19",
-    "reason": "implausible (>8× away from built-in 15)",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "spinach": {
    "status": "builtin",
@@ -1638,28 +1221,8 @@
    "kept": "builtin"
   },
   "mushroom": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 485.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 485.0,
-   "held": {
-    "candidate": 485.0,
-    "since": "2026-11-19",
-    "reason": "change +142% > ±40% vs 200",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "mango": {
    "status": "fresh",
@@ -1688,28 +1251,8 @@
    "unit": "pc"
   },
   "lettuce": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "pc",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 24.5,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 24.5,
-   "held": {
-    "candidate": 24.5,
-    "since": "2026-11-19",
-    "reason": "change +145% > ±40% vs 10",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "pc"
   },
   "lemon": {
    "status": "builtin",
@@ -1720,69 +1263,16 @@
    "unit": "pc"
   },
   "paste": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 129.17,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 129.17,
-   "held": {
-    "candidate": 129.17,
-    "since": "2026-11-19",
-    "reason": "change +99% > ±40% vs 65",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "vinegar": {
-   "status": "fresh",
-   "origin": "gourmet",
-   "unit": "l",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 25.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 25.0,
-   "date": "2026-11-19"
+   "status": "builtin",
+   "unit": "l"
   },
   "tahini": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 343.75,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 343.75,
-   "held": {
-    "candidate": 343.75,
-    "since": "2026-11-19",
-    "reason": "change +72% > ±40% vs 200",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "mayo": {
    "status": "builtin",
@@ -1797,93 +1287,20 @@
    "unit": "kg"
   },
   "tuna": {
-   "status": "fresh",
-   "origin": "gourmet",
-   "unit": "pc",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 65.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 65.0,
-   "date": "2026-11-19"
+   "status": "builtin",
+   "unit": "pc"
   },
   "molasses": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 123.84,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 123.84,
-   "held": {
-    "candidate": 123.84,
-    "since": "2026-11-19",
-    "reason": "change +77% > ±40% vs 70",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "nuts": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 1391.66,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 1391.66,
-   "held": {
-    "candidate": 1391.66,
-    "since": "2026-11-19",
-    "reason": "change +132% > ±40% vs 600",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "raisins": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 440.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 440.0,
-   "held": {
-    "candidate": 440.0,
-    "since": "2026-11-19",
-    "reason": "change +120% > ±40% vs 200",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "coconut": {
    "status": "builtin",
@@ -1898,117 +1315,24 @@
    "unit": "pc"
   },
   "puree": {
-   "status": "fresh",
-   "origin": "gourmet",
-   "unit": "pc",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 45,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 45,
-   "date": "2026-11-19"
+   "status": "builtin",
+   "unit": "pc"
   },
   "pommolasses": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "pc",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 160,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 160,
-   "held": {
-    "candidate": 160,
-    "since": "2026-11-19",
-    "reason": "change +129% > ±40% vs 70",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "pc"
   },
   "pistachio": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 3000.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 3000.0,
-   "held": {
-    "candidate": 3000.0,
-    "since": "2026-11-19",
-    "reason": "change +100% > ±40% vs 1500",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "sesame": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 907.69,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 907.69,
-   "held": {
-    "candidate": 907.69,
-    "since": "2026-11-19",
-    "reason": "change +467% > ±40% vs 160",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "puff": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 362.5,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 362.5,
-   "held": {
-    "candidate": 362.5,
-    "since": "2026-11-19",
-    "reason": "change +91% > ±40% vs 190",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "spices": {
    "status": "builtin",
@@ -2063,28 +1387,8 @@
    "unit": "kg"
   },
   "chliver": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 200.0,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 200.0,
-   "held": {
-    "candidate": 200.0,
-    "since": "2026-11-19",
-    "reason": "change +43% > ±40% vs 140",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "pigeon": {
    "status": "builtin",
@@ -2292,55 +1596,16 @@
    "unit": "kg"
   },
   "panee_frz": {
-   "status": "fresh",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 406.25,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 406.25,
-   "date": "2026-11-19"
+   "status": "builtin",
+   "unit": "kg"
   },
   "nuggets": {
-   "status": "fresh",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 337.5,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 337.5,
-   "date": "2026-11-19"
+   "status": "builtin",
+   "unit": "kg"
   },
   "strips": {
-   "status": "fresh",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 412.5,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 412.5,
-   "date": "2026-11-19"
+   "status": "builtin",
+   "unit": "kg"
   },
   "shish_mar": {
    "status": "builtin",
@@ -2355,38 +1620,12 @@
    "unit": "kg"
   },
   "fries_frz": {
-   "status": "fresh",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 113.33,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 113.33,
-   "date": "2026-11-19"
+   "status": "builtin",
+   "unit": "kg"
   },
   "molokhia_frz": {
-   "status": "fresh",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 68.75,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 68.75,
-   "date": "2026-11-19"
+   "status": "builtin",
+   "unit": "kg"
   },
   "mixveg_frz": {
    "status": "builtin",
@@ -2421,45 +1660,12 @@
    "unit": "l"
   },
   "ketchup": {
-   "status": "held",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 230.77,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 230.77,
-   "held": {
-    "candidate": 230.77,
-    "since": "2026-11-19",
-    "reason": "change +78% > ±40% vs 130",
-    "origin": "gourmet"
-   },
-   "date": null,
-   "kept": "builtin"
+   "status": "builtin",
+   "unit": "kg"
   },
   "mustard": {
-   "status": "fresh",
-   "origin": "gourmet",
-   "unit": "kg",
-   "sources": [
-    "gourmet"
-   ],
-   "observations": [
-    {
-     "source": "gourmet",
-     "price": 234.04,
-     "date": "2026-11-19"
-    }
-   ],
-   "candidate": 234.04,
-   "date": "2026-11-19"
+   "status": "builtin",
+   "unit": "kg"
   }
  },
  "stores_detail": {
@@ -3996,13 +3202,13 @@
   "generator": "hanakol prices/build_prices.py",
   "counts": {
    "fresh_market": 24,
-   "fresh_gourmet": 18,
-   "held": 37,
+   "fresh_gourmet": 0,
+   "held": 9,
    "previous": 0,
-   "builtin": 65
+   "builtin": 111
   },
   "total_ids": 144,
-  "fresh_ids": 42,
+  "fresh_ids": 24,
   "rules": {
    "max_change": 0.4,
    "confirm_market_jump": {
@@ -4015,7 +3221,7 @@
    "bulletin_max_age_days": 7,
    "max_previous_age_days": 42,
    "gourmet_enabled": true,
-   "gourmet_in_default": "only when no market price"
+   "gourmet_in_default": "never"
   },
   "sources_unused": [
    {
@@ -4050,32 +3256,32 @@
    {
     "url": "https://www.banker.news/rss.aspx",
     "ok": true,
-    "bytes": 21187
+    "bytes": 21318
    },
    {
     "url": "https://www.banker.news/category/43",
     "ok": true,
-    "bytes": 54079
+    "bytes": 54064
    },
    {
     "url": "https://www.banker.news/category/43?page=2",
     "ok": true,
-    "bytes": 54464
+    "bytes": 54503
    },
    {
     "url": "https://www.banker.news/156861",
     "ok": true,
-    "bytes": 74177
+    "bytes": 74161
    },
    {
     "url": "https://www.banker.news/156856",
     "ok": true,
-    "bytes": 72067
+    "bytes": 72051
    },
    {
     "url": "https://www.banker.news/161727",
     "ok": true,
-    "bytes": 75121
+    "bytes": 75097
    },
    {
     "url": "https://www.almasryalyoum.com/sitemapxmls/news/news-2026-11.xml",
@@ -4095,12 +3301,12 @@
    {
     "url": "https://www.elwatannews.com/news/details/8399636",
     "ok": true,
-    "bytes": 103189
+    "bytes": 103131
    },
    {
     "url": "https://www.elwatannews.com/news/details/8399677",
     "ok": true,
-    "bytes": 104416
+    "bytes": 104358
    },
    {
     "url": "https://www.almasryalyoum.com/sitemapxmls/news/news-2026-11.xml",
@@ -4190,7 +3396,7 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4414604",
     "ok": true,
-    "bytes": 315893
+    "bytes": 315876
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4412719",
