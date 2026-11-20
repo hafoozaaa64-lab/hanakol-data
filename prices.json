@@ -1,26 +1,26 @@
 {
  "version": 1,
- "updated_at": "2026-11-20T01:09:58+02:00",
+ "updated_at": "2026-11-20T01:48:21+02:00",
  "currency": "EGP",
  "default": {
-  "rice": 35.2,
-  "pasta": 27.02,
+  "rice": 34.96,
+  "pasta": 28.1,
   "orzo": 58.28,
   "vermicelli": 49.14,
   "freekeh": 133.9,
-  "lentil_b": 112.34,
-  "lentil_y": 62.0,
+  "lentil_b": 68.8,
+  "lentil_y": 68.84,
   "chickpea": 90.0,
-  "fava": 61.81,
-  "fava_split": 61.59,
+  "fava": 61.72,
+  "fava_split": 61.42,
   "whitebeans": 157.46,
-  "chickpea_can": 22.0,
+  "chickpea_can": 39.09,
   "fava_can": 24.05,
   "beans_can": 36.95,
-  "flour": 27.53,
-  "semolina": 40.0,
+  "flour": 27.58,
+  "semolina": 71.47,
   "starch": 60.0,
-  "sugar": 35.68,
+  "sugar": 35.47,
   "bread": 2.0,
   "shami": 4.39,
   "fino": 3.0,
@@ -30,52 +30,52 @@
   "goulash": 94.78,
   "kunafa": 70.0,
   "yeast": 6.36,
-  "oil": 107.78,
-  "ghee": 134.63,
-  "butter": 184.94,
-  "milk": 56.81,
+  "oil": 110.56,
+  "ghee": 112.29,
+  "butter": 188.98,
+  "milk": 47.91,
   "cream": 299.89,
   "yogurt": 14.47,
-  "wcheese": 159.23,
-  "rumi": 297.0,
-  "cheddar": 396.46,
+  "wcheese": 154.63,
+  "rumi": 313.47,
+  "cheddar": 347.18,
   "mozz": 359.32,
   "bghee": 635.4,
-  "oliveoil": 420.0,
+  "oliveoil": 799.95,
   "parm": 1100.0,
-  "gouda": 420.0,
+  "gouda": 509.35,
   "kiri": 79.99,
   "whipcream": 294.72,
   "milkpowder": 426.7,
-  "eggs": 4.17,
-  "tomato": 20.25,
+  "eggs": 4.52,
+  "tomato": 21.25,
   "onion": 25.0,
-  "potato": 25.0,
+  "potato": 25.22,
   "garlic": 50.0,
-  "pepper": 20.0,
-  "colpepper": 42.0,
-  "hotpepper": 15.0,
-  "zucchini": 16.75,
-  "eggplant": 9.0,
-  "carrot": 15.0,
-  "okra": 66.5,
+  "pepper": 22.5,
+  "colpepper": 49.25,
+  "hotpepper": 17.5,
+  "zucchini": 17.5,
+  "eggplant": 16.25,
+  "carrot": 22.5,
+  "okra": 63.0,
   "molokhia": 9.0,
-  "cucumber": 20.0,
+  "cucumber": 22.39,
   "vine": 50.0,
-  "greenbeans": 44.0,
+  "greenbeans": 32.28,
   "peas": 159.95,
   "cabbage": 8.5,
   "cauliflower": 15.0,
-  "spinach": 25.0,
+  "spinach": 23.51,
   "chard": 14.0,
-  "taro": 25.0,
+  "taro": 21.24,
   "mushroom": 140.0,
   "mango": 60.0,
-  "arugula": 2.1,
+  "arugula": 2.41,
   "lettuce": 9.75,
-  "lemon": 1.5,
+  "lemon": 1.14,
   "herbs": 5.0,
-  "paste": 65.0,
+  "paste": 126.68,
   "vinegar": 21.75,
   "tahini": 274.5,
   "mayo": 73.22,
@@ -84,29 +84,29 @@
   "tuna": 66.72,
   "molasses": 90.15,
   "nuts": 1474.14,
-  "raisins": 200.0,
+  "raisins": 370.0,
   "coconut": 250.0,
   "cocoa": 300.0,
   "tomsauce": 42.72,
   "puree": 42.95,
   "pommolasses": 81,
   "pistachio": 1669.01,
-  "sesame": 160.0,
-  "puff": 190.0,
+  "sesame": 162.9,
+  "puff": 319.31,
   "spices": 10.0,
   "flav": 10.0,
-  "chicken": 78.25,
+  "chicken": 79.0,
   "breast": 210.0,
   "thighs": 161.75,
   "chliver": 159.97,
   "pigeon": 70.0,
   "duck": 130.0,
   "rabbit": 120.0,
-  "beef": 425.0,
-  "lamb": 430.0,
-  "veal": 399.0,
+  "beef": 437.5,
+  "lamb": 456.18,
+  "veal": 328.14,
   "fillet": 475.0,
-  "baladi": 137.5,
+  "baladi": 135.0,
   "chops": 649.95,
   "tender": 619.95,
   "mince_p": 500.0,
@@ -117,13 +117,13 @@
   "kaware": 160.0,
   "mombar": 150.0,
   "pastrami": 973.97,
-  "tilapia": 85.0,
-  "mullet": 195.0,
-  "bream": 250.0,
-  "fishfillet": 190.0,
-  "shrimp": 500.0,
+  "tilapia": 94.54,
+  "mullet": 192.5,
+  "bream": 325.0,
+  "fishfillet": 212.25,
+  "shrimp": 506.75,
   "calamari": 370.0,
-  "jumbo": 700.0,
+  "jumbo": 696.46,
   "burger_frz": 30.0,
   "hotdog": 13.0,
   "sambousek_frz": 13.0,
@@ -138,7 +138,7 @@
   "fries_frz": 75.99,
   "molokhia_frz": 51.81,
   "mixveg_frz": 82.06,
-  "hawawshi_frz": 40.0,
+  "hawawshi_frz": 49.95,
   "pizza_frz": 139.05,
   "crepe_ready": 8.0,
   "luncheon": 352.97,
@@ -170,7 +170,7 @@
    "oil": 125.0,
    "bghee": 740.0,
    "butter": 1250.0,
-   "milk": 63.53,
+   "milk": 67.06,
    "cream": 300.0,
    "yogurt": 17,
    "wcheese": 322.23,
@@ -263,6 +263,7 @@
    "goulash": 103.86,
    "grape_juice": 81.22,
    "greenbeans": 57.95,
+   "hawawshi_frz": 49.95,
    "herbs": 17.5,
    "hotdog": 16.05,
    "hotpepper": 106.27,
@@ -492,6 +493,14 @@
    "ids_priced": 4
   },
   {
+   "id": "idsc",
+   "name": "بوابة الأسعار المحلية — مركز المعلومات ودعم اتخاذ القرار بمجلس الوزراء (متوسط تجزئة رسمي)",
+   "kind": "retail",
+   "url": "http://agriprice.gov.eg/",
+   "date": "2026-11-19",
+   "ids_priced": 48
+  },
+  {
    "id": "almasry_veg",
    "name": "المصري اليوم — أسعار الخضروات في أسواق المحافظات (تجزئة)",
    "kind": "retail",
@@ -513,7 +522,7 @@
    "kind": "retail",
    "url": "https://www.almasryalyoum.com/news/details/4414604",
    "date": "2026-11-19",
-   "ids_priced": 8
+   "ids_priced": 9
   },
   {
    "id": "almasry_birds",
@@ -553,7 +562,7 @@
    "kind": "store",
    "url": "https://spinneys-egypt.com/",
    "date": "2026-11-20",
-   "ids_priced": 133
+   "ids_priced": 134
   },
   {
    "id": "metro",
@@ -716,20 +725,27 @@
    "origin": "market",
    "unit": "kg",
    "sources": [
-    "almasry_cabinet"
+    "almasry_cabinet",
+    "idsc"
    ],
    "observations": [
     {
      "source": "almasry_cabinet",
      "price": 35.2,
      "date": "2026-11-20"
+    },
+    {
+     "source": "idsc",
+     "price": 34.72,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 35.2,
+   "candidate": 34.96,
    "date": "2026-11-20",
-   "source": "المصري اليوم",
+   "source": "المصري اليوم + بوابة الأسعار المحلية",
    "source_ids": [
-    "almasry_cabinet"
+    "almasry_cabinet",
+    "idsc"
    ],
    "as_of": "2026-11-20"
   },
@@ -738,20 +754,27 @@
    "origin": "market",
    "unit": "kg",
    "sources": [
-    "almasry_cabinet"
+    "almasry_cabinet",
+    "idsc"
    ],
    "observations": [
     {
      "source": "almasry_cabinet",
      "price": 27.02,
      "date": "2026-11-20"
+    },
+    {
+     "source": "idsc",
+     "price": 29.18,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 27.02,
+   "candidate": 28.1,
    "date": "2026-11-20",
-   "source": "المصري اليوم",
+   "source": "المصري اليوم + بوابة الأسعار المحلية",
    "source_ids": [
-    "almasry_cabinet"
+    "almasry_cabinet",
+    "idsc"
    ],
    "as_of": "2026-11-20"
   },
@@ -830,62 +853,47 @@
   },
   "lentil_b": {
    "status": "fresh",
-   "origin": "supermarket",
+   "origin": "market",
    "unit": "kg",
    "sources": [
-    "metro",
-    "spinneys"
+    "idsc"
    ],
    "observations": [
     {
-     "source": "metro",
-     "price": 119.98,
-     "date": "2026-11-20"
-    },
-    {
-     "source": "spinneys",
-     "price": 104.7,
-     "date": "2026-11-20"
+     "source": "idsc",
+     "price": 68.8,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 112.34,
-   "date": "2026-11-20",
-   "source": "مترو ماركت + سبينيس مصر",
+   "candidate": 68.8,
+   "date": "2026-11-19",
+   "source": "بوابة الأسعار المحلية",
    "source_ids": [
-    "metro",
-    "spinneys"
+    "idsc"
    ],
-   "as_of": "2026-11-20",
-   "note": "change +50% accepted: 2 independent sources agree within 15% (metro, spinneys)"
+   "as_of": "2026-11-19"
   },
   "lentil_y": {
-   "status": "held",
-   "origin": "supermarket",
+   "status": "fresh",
+   "origin": "market",
    "unit": "kg",
    "sources": [
-    "spinneys"
+    "idsc"
    ],
    "observations": [
     {
-     "source": "spinneys",
-     "price": 106.9,
-     "date": "2026-11-20"
+     "source": "idsc",
+     "price": 68.84,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 106.9,
-   "held": {
-    "candidate": 106.9,
-    "since": "2026-11-20",
-    "reason": "change +72% > ±40% vs 62",
-    "origin": "supermarket"
-   },
-   "date": null,
-   "kept": "builtin",
-   "source": "السعر المدمج في التطبيق (built-in)",
+   "candidate": 68.84,
+   "date": "2026-11-19",
+   "source": "بوابة الأسعار المحلية",
    "source_ids": [
-    "builtin"
+    "idsc"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-11-19"
   },
   "chickpea": {
    "status": "held",
@@ -921,20 +929,27 @@
    "origin": "market",
    "unit": "kg",
    "sources": [
-    "almasry_cabinet"
+    "almasry_cabinet",
+    "idsc"
    ],
    "observations": [
     {
      "source": "almasry_cabinet",
      "price": 61.81,
      "date": "2026-11-20"
+    },
+    {
+     "source": "idsc",
+     "price": 61.62,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 61.81,
+   "candidate": 61.72,
    "date": "2026-11-20",
-   "source": "المصري اليوم",
+   "source": "المصري اليوم + بوابة الأسعار المحلية",
    "source_ids": [
-    "almasry_cabinet"
+    "almasry_cabinet",
+    "idsc"
    ],
    "as_of": "2026-11-20"
   },
@@ -943,20 +958,27 @@
    "origin": "market",
    "unit": "kg",
    "sources": [
-    "almasry_cabinet"
+    "almasry_cabinet",
+    "idsc"
    ],
    "observations": [
     {
      "source": "almasry_cabinet",
      "price": 61.59,
      "date": "2026-11-20"
+    },
+    {
+     "source": "idsc",
+     "price": 61.24,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 61.59,
+   "candidate": 61.42,
    "date": "2026-11-20",
-   "source": "المصري اليوم",
+   "source": "المصري اليوم + بوابة الأسعار المحلية",
    "source_ids": [
-    "almasry_cabinet"
+    "almasry_cabinet",
+    "idsc"
    ],
    "as_of": "2026-11-20"
   },
@@ -991,7 +1013,7 @@
    "note": "change +43% accepted: 2 independent sources agree within 10% (metro, spinneys)"
   },
   "chickpea_can": {
-   "status": "held",
+   "status": "fresh",
    "origin": "supermarket",
    "unit": "pc",
    "sources": [
@@ -1011,19 +1033,14 @@
     }
    ],
    "candidate": 39.09,
-   "held": {
-    "candidate": 39.09,
-    "since": "2026-11-20",
-    "reason": "change +78% > ±40% vs 22",
-    "origin": "supermarket"
-   },
-   "date": null,
-   "kept": "builtin",
-   "source": "السعر المدمج في التطبيق (built-in)",
+   "date": "2026-11-20",
+   "source": "مترو ماركت + سبينيس مصر",
    "source_ids": [
-    "builtin"
+    "metro",
+    "spinneys"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-11-20",
+   "note": "change +78% accepted: Gourmet 37.5 ÷ premium factor 1.096 (canned_sauces, 6 overlapping ids) = 34.22, within 12% of the mainstream value"
   },
   "fava_can": {
    "status": "fresh",
@@ -1081,25 +1098,32 @@
    "origin": "market",
    "unit": "kg",
    "sources": [
-    "almasry_cabinet"
+    "almasry_cabinet",
+    "idsc"
    ],
    "observations": [
     {
      "source": "almasry_cabinet",
      "price": 27.53,
      "date": "2026-11-20"
+    },
+    {
+     "source": "idsc",
+     "price": 27.62,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 27.53,
+   "candidate": 27.58,
    "date": "2026-11-20",
-   "source": "المصري اليوم",
+   "source": "المصري اليوم + بوابة الأسعار المحلية",
    "source_ids": [
-    "almasry_cabinet"
+    "almasry_cabinet",
+    "idsc"
    ],
    "as_of": "2026-11-20"
   },
   "semolina": {
-   "status": "held",
+   "status": "fresh",
    "origin": "supermarket",
    "unit": "kg",
    "sources": [
@@ -1119,19 +1143,14 @@
     }
    ],
    "candidate": 71.47,
-   "held": {
-    "candidate": 71.47,
-    "since": "2026-11-20",
-    "reason": "change +79% > ±40% vs 40",
-    "origin": "supermarket"
-   },
-   "date": null,
-   "kept": "builtin",
-   "source": "السعر المدمج في التطبيق (built-in)",
+   "date": "2026-11-20",
+   "source": "مترو ماركت + سبينيس مصر",
    "source_ids": [
-    "builtin"
+    "metro",
+    "spinneys"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-11-20",
+   "note": "change +79% accepted: Gourmet 80 ÷ premium factor 1.31 (dry, 23 overlapping ids) = 61.07, within 15% of the mainstream value"
   },
   "starch": {
    "status": "held",
@@ -1167,20 +1186,27 @@
    "origin": "market",
    "unit": "kg",
    "sources": [
-    "almasry_cabinet"
+    "almasry_cabinet",
+    "idsc"
    ],
    "observations": [
     {
      "source": "almasry_cabinet",
      "price": 35.68,
      "date": "2026-11-20"
+    },
+    {
+     "source": "idsc",
+     "price": 35.25,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 35.68,
+   "candidate": 35.47,
    "date": "2026-11-20",
-   "source": "المصري اليوم",
+   "source": "المصري اليوم + بوابة الأسعار المحلية",
    "source_ids": [
-    "almasry_cabinet"
+    "almasry_cabinet",
+    "idsc"
    ],
    "as_of": "2026-11-20"
   },
@@ -1437,98 +1463,92 @@
    "as_of": "2026-11-20"
   },
   "oil": {
-   "status": "previous",
+   "status": "fresh",
    "origin": "market",
    "unit": "l",
-   "date": "2026-11-19",
    "sources": [
-    "almasry_cabinet"
+    "idsc"
    ],
-   "source": "المصري اليوم",
+   "observations": [
+    {
+     "source": "idsc",
+     "price": 110.56,
+     "date": "2026-11-19"
+    }
+   ],
+   "candidate": 110.56,
+   "date": "2026-11-19",
+   "source": "بوابة الأسعار المحلية",
    "source_ids": [
-    "almasry_cabinet"
+    "idsc"
    ],
    "as_of": "2026-11-19"
   },
   "ghee": {
    "status": "fresh",
-   "origin": "supermarket",
+   "origin": "market",
    "unit": "kg",
    "sources": [
-    "spinneys"
+    "idsc"
    ],
    "observations": [
     {
-     "source": "spinneys",
-     "price": 134.63,
-     "date": "2026-11-20"
+     "source": "idsc",
+     "price": 112.29,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 134.63,
-   "date": "2026-11-20",
-   "source": "سبينيس مصر",
+   "candidate": 112.29,
+   "date": "2026-11-19",
+   "source": "بوابة الأسعار المحلية",
    "source_ids": [
-    "spinneys"
+    "idsc"
    ],
-   "as_of": "2026-11-20"
+   "as_of": "2026-11-19"
   },
   "butter": {
    "status": "fresh",
-   "origin": "supermarket",
+   "origin": "market",
    "unit": "kg",
    "sources": [
-    "metro",
-    "spinneys"
+    "idsc"
    ],
    "observations": [
     {
-     "source": "metro",
-     "price": 175.98,
-     "date": "2026-11-20"
-    },
-    {
-     "source": "spinneys",
-     "price": 193.9,
-     "date": "2026-11-20"
+     "source": "idsc",
+     "price": 188.98,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 184.94,
-   "date": "2026-11-20",
-   "source": "مترو ماركت + سبينيس مصر",
+   "candidate": 188.98,
+   "date": "2026-11-19",
+   "source": "بوابة الأسعار المحلية",
    "source_ids": [
-    "metro",
-    "spinneys"
+    "idsc"
    ],
-   "as_of": "2026-11-20"
+   "as_of": "2026-11-19"
   },
   "milk": {
    "status": "fresh",
-   "origin": "supermarket",
+   "origin": "market",
    "unit": "l",
    "sources": [
-    "metro",
-    "spinneys"
+    "idsc"
    ],
    "observations": [
     {
-     "source": "metro",
-     "price": 56.38,
-     "date": "2026-11-20"
-    },
-    {
-     "source": "spinneys",
-     "price": 57.25,
-     "date": "2026-11-20"
+     "source": "idsc",
+     "price": 47.91,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 56.81,
-   "date": "2026-11-20",
-   "source": "مترو ماركت + سبينيس مصر",
+   "candidate": 47.91,
+   "date": "2026-11-19",
+   "source": "بوابة الأسعار المحلية",
    "source_ids": [
-    "metro",
-    "spinneys"
+    "idsc"
    ],
-   "as_of": "2026-11-20"
+   "as_of": "2026-11-19"
   },
   "cream": {
    "status": "fresh",
@@ -1590,96 +1610,69 @@
   },
   "wcheese": {
    "status": "fresh",
-   "origin": "supermarket",
+   "origin": "market",
    "unit": "kg",
    "sources": [
-    "metro",
-    "spinneys"
+    "idsc"
    ],
    "observations": [
     {
-     "source": "metro",
-     "price": 139.96,
-     "date": "2026-11-20"
-    },
-    {
-     "source": "spinneys",
-     "price": 178.5,
-     "date": "2026-11-20"
+     "source": "idsc",
+     "price": 154.63,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 159.23,
-   "date": "2026-11-20",
-   "source": "مترو ماركت + سبينيس مصر",
+   "candidate": 154.63,
+   "date": "2026-11-19",
+   "source": "بوابة الأسعار المحلية",
    "source_ids": [
-    "metro",
-    "spinneys"
+    "idsc"
    ],
-   "as_of": "2026-11-20"
+   "as_of": "2026-11-19"
   },
   "rumi": {
-   "status": "held",
-   "origin": "supermarket",
+   "status": "fresh",
+   "origin": "market",
    "unit": "kg",
    "sources": [
-    "metro",
-    "spinneys"
+    "idsc"
    ],
    "observations": [
     {
-     "source": "metro",
-     "price": 579.99,
-     "date": "2026-11-20"
-    },
-    {
-     "source": "spinneys",
-     "price": 368.95,
-     "date": "2026-11-20"
+     "source": "idsc",
+     "price": 313.47,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 474.47,
-   "held": {
-    "candidate": 474.47,
-    "since": "2026-11-20",
-    "reason": "change +60% > ±40% vs 297",
-    "origin": "supermarket"
-   },
-   "date": null,
-   "kept": "builtin",
-   "source": "السعر المدمج في التطبيق (built-in)",
+   "candidate": 313.47,
+   "date": "2026-11-19",
+   "source": "بوابة الأسعار المحلية",
    "source_ids": [
-    "builtin"
+    "idsc"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-11-19"
   },
   "cheddar": {
    "status": "fresh",
-   "origin": "supermarket",
+   "origin": "market",
    "unit": "kg",
    "sources": [
-    "metro",
-    "spinneys"
+    "idsc"
    ],
    "observations": [
     {
-     "source": "metro",
-     "price": 398.01,
-     "date": "2026-11-20"
-    },
-    {
-     "source": "spinneys",
-     "price": 394.91,
-     "date": "2026-11-20"
+     "source": "idsc",
+     "price": 347.18,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 396.46,
-   "date": "2026-11-20",
-   "source": "مترو ماركت + سبينيس مصر",
+   "candidate": 347.18,
+   "date": "2026-11-19",
+   "source": "بوابة الأسعار المحلية",
    "source_ids": [
-    "metro",
-    "spinneys"
+    "idsc"
    ],
-   "as_of": "2026-11-20"
+   "as_of": "2026-11-19"
   },
   "mozz": {
    "status": "fresh",
@@ -1711,27 +1704,28 @@
    "as_of": "2026-11-20"
   },
   "bghee": {
-   "status": "fresh",
-   "origin": "supermarket",
+   "status": "held",
+   "origin": "market",
    "unit": "kg",
    "sources": [
-    "metro",
-    "spinneys"
+    "idsc"
    ],
    "observations": [
     {
-     "source": "metro",
-     "price": 645.86,
-     "date": "2026-11-20"
-    },
-    {
-     "source": "spinneys",
-     "price": 624.94,
-     "date": "2026-11-20"
+     "source": "idsc",
+     "price": 379.18,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 635.4,
+   "candidate": 379.18,
+   "held": {
+    "candidate": 379.18,
+    "since": "2026-11-20",
+    "reason": "change -40% > ±40% vs 635.4",
+    "origin": "market"
+   },
    "date": "2026-11-20",
+   "kept": "previous",
    "source": "مترو ماركت + سبينيس مصر",
    "source_ids": [
     "metro",
@@ -1740,7 +1734,7 @@
    "as_of": "2026-11-20"
   },
   "oliveoil": {
-   "status": "held",
+   "status": "fresh",
    "origin": "supermarket",
    "unit": "l",
    "sources": [
@@ -1754,19 +1748,13 @@
     }
    ],
    "candidate": 799.95,
-   "held": {
-    "candidate": 799.95,
-    "since": "2026-11-20",
-    "reason": "change +90% > ±40% vs 420",
-    "origin": "supermarket"
-   },
-   "date": null,
-   "kept": "builtin",
-   "source": "السعر المدمج في التطبيق (built-in)",
+   "date": "2026-11-20",
+   "source": "سبينيس مصر",
    "source_ids": [
-    "builtin"
+    "spinneys"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-11-20",
+   "note": "change +90% accepted: Gourmet 1050 ÷ premium factor 1.27 (dry, 23 overlapping ids) = 826.77, within 3% of the mainstream value"
   },
   "parm": {
    "status": "held",
@@ -1804,39 +1792,26 @@
    "as_of": "2026-10-08"
   },
   "gouda": {
-   "status": "held",
-   "origin": "supermarket",
+   "status": "fresh",
+   "origin": "market",
    "unit": "kg",
    "sources": [
-    "metro",
-    "spinneys"
+    "idsc"
    ],
    "observations": [
     {
-     "source": "metro",
-     "price": 674.99,
-     "date": "2026-11-20"
-    },
-    {
-     "source": "spinneys",
-     "price": 574.95,
-     "date": "2026-11-20"
+     "source": "idsc",
+     "price": 509.35,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 624.97,
-   "held": {
-    "candidate": 624.97,
-    "since": "2026-11-20",
-    "reason": "change +49% > ±40% vs 420",
-    "origin": "supermarket"
-   },
-   "date": null,
-   "kept": "builtin",
-   "source": "السعر المدمج في التطبيق (built-in)",
+   "candidate": 509.35,
+   "date": "2026-11-19",
+   "source": "بوابة الأسعار المحلية",
    "source_ids": [
-    "builtin"
+    "idsc"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-11-19"
   },
   "kiri": {
    "status": "fresh",
@@ -1925,7 +1900,8 @@
    "sources": [
     "almasry_cabinet",
     "elwatan_eggs",
-    "banker_poultry"
+    "banker_poultry",
+    "idsc"
    ],
    "observations": [
     {
@@ -1942,15 +1918,21 @@
      "source": "banker_poultry",
      "price": 4.73,
      "date": "2026-11-19"
+    },
+    {
+     "source": "idsc",
+     "price": 4.86,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 4.17,
+   "candidate": 4.52,
    "date": "2026-11-20",
-   "source": "المصري اليوم + الوطن + بانكير",
+   "source": "المصري اليوم + الوطن + بانكير + بوابة الأسعار المحلية",
    "source_ids": [
     "almasry_cabinet",
     "elwatan_eggs",
-    "banker_poultry"
+    "banker_poultry",
+    "idsc"
    ],
    "as_of": "2026-11-20"
   },
@@ -1960,12 +1942,18 @@
    "unit": "kg",
    "sources": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
    "observations": [
     {
      "source": "obour",
      "price": 20.25,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "idsc",
+     "price": 24.64,
      "date": "2026-11-19"
     },
     {
@@ -1979,15 +1967,15 @@
      "date": "2026-11-17"
     }
    ],
-   "candidate": 20.25,
+   "candidate": 21.25,
    "date": "2026-11-19",
-   "source": "سوق العبور للجملة + المصري اليوم",
+   "source": "سوق العبور للجملة + بوابة الأسعار المحلية + المصري اليوم",
    "source_ids": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
-   "as_of": "2026-11-19",
-   "note": "change +45% accepted: 2 independent sources agree within 5% (almasry_veg, obour)"
+   "as_of": "2026-11-19"
   },
   "onion": {
    "status": "fresh",
@@ -1995,12 +1983,18 @@
    "unit": "kg",
    "sources": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
    "observations": [
     {
      "source": "obour",
      "price": 27.25,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "idsc",
+     "price": 21.86,
      "date": "2026-11-19"
     },
     {
@@ -2016,9 +2010,10 @@
    ],
    "candidate": 25.0,
    "date": "2026-11-19",
-   "source": "سوق العبور للجملة + المصري اليوم",
+   "source": "سوق العبور للجملة + بوابة الأسعار المحلية + المصري اليوم",
    "source_ids": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
    "as_of": "2026-11-19"
@@ -2029,12 +2024,18 @@
    "unit": "kg",
    "sources": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
    "observations": [
     {
      "source": "obour",
      "price": 25.25,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "idsc",
+     "price": 25.22,
      "date": "2026-11-19"
     },
     {
@@ -2048,11 +2049,12 @@
      "date": "2026-11-17"
     }
    ],
-   "candidate": 25.0,
+   "candidate": 25.22,
    "date": "2026-11-19",
-   "source": "سوق العبور للجملة + المصري اليوم",
+   "source": "سوق العبور للجملة + بوابة الأسعار المحلية + المصري اليوم",
    "source_ids": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
    "as_of": "2026-11-19"
@@ -2090,7 +2092,8 @@
    "source_ids": [
     "builtin"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-10-08",
+   "flag": "sources disagree (almasry_veg 15, obour 38.5) — median of the source medians used"
   },
   "pepper": {
    "status": "fresh",
@@ -2098,12 +2101,18 @@
    "unit": "kg",
    "sources": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
    "observations": [
     {
      "source": "obour",
      "price": 15.5,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "idsc",
+     "price": 25.2,
      "date": "2026-11-19"
     },
     {
@@ -2117,17 +2126,19 @@
      "date": "2026-11-17"
     }
    ],
-   "candidate": 20.0,
+   "candidate": 22.5,
    "date": "2026-11-19",
-   "source": "سوق العبور للجملة + المصري اليوم",
+   "source": "سوق العبور للجملة + بوابة الأسعار المحلية + المصري اليوم",
    "source_ids": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-19",
+   "flag": "sources disagree (almasry_veg 22.5, cabinet 25.2, obour 15.5) — median of the source medians used"
   },
   "colpepper": {
-   "status": "held",
+   "status": "fresh",
    "origin": "market",
    "unit": "kg",
    "sources": [
@@ -2151,20 +2162,15 @@
      "date": "2026-11-17"
     }
    ],
-   "candidate": 60.0,
-   "held": {
-    "candidate": 60.0,
-    "since": "2026-11-19",
-    "reason": "change +43% > ±40% vs 42",
-    "origin": "market"
-   },
-   "date": null,
-   "kept": "builtin",
-   "source": "السعر المدمج في التطبيق (built-in)",
+   "candidate": 49.25,
+   "date": "2026-11-19",
+   "source": "سوق العبور للجملة + المصري اليوم",
    "source_ids": [
-    "builtin"
+    "obour",
+    "almasry_veg"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-11-19",
+   "flag": "sources disagree (almasry_veg 60, obour 38.5) — median of the source medians used"
   },
   "hotpepper": {
    "status": "fresh",
@@ -2172,12 +2178,18 @@
    "unit": "kg",
    "sources": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
    "observations": [
     {
      "source": "obour",
      "price": 11.25,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "idsc",
+     "price": 24.33,
      "date": "2026-11-19"
     },
     {
@@ -2191,14 +2203,16 @@
      "date": "2026-11-17"
     }
    ],
-   "candidate": 15.0,
+   "candidate": 17.5,
    "date": "2026-11-19",
-   "source": "سوق العبور للجملة + المصري اليوم",
+   "source": "سوق العبور للجملة + بوابة الأسعار المحلية + المصري اليوم",
    "source_ids": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-19",
+   "flag": "sources disagree (almasry_veg 17.5, cabinet 24.33, obour 11.25) — median of the source medians used"
   },
   "zucchini": {
    "status": "fresh",
@@ -2206,12 +2220,18 @@
    "unit": "kg",
    "sources": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
    "observations": [
     {
      "source": "obour",
      "price": 16.75,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "idsc",
+     "price": 28.34,
      "date": "2026-11-19"
     },
     {
@@ -2225,27 +2245,35 @@
      "date": "2026-11-17"
     }
    ],
-   "candidate": 16.75,
+   "candidate": 17.5,
    "date": "2026-11-19",
-   "source": "سوق العبور للجملة + المصري اليوم",
+   "source": "سوق العبور للجملة + بوابة الأسعار المحلية + المصري اليوم",
    "source_ids": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-19",
+   "flag": "sources disagree (almasry_veg 17.5, cabinet 28.34, obour 16.75) — median of the source medians used"
   },
   "eggplant": {
-   "status": "held",
+   "status": "fresh",
    "origin": "market",
    "unit": "kg",
    "sources": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
    "observations": [
     {
      "source": "obour",
      "price": 7.0,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "idsc",
+     "price": 16.33,
      "date": "2026-11-19"
     },
     {
@@ -2259,20 +2287,17 @@
      "date": "2026-11-17"
     }
    ],
-   "candidate": 15.0,
-   "held": {
-    "candidate": 15.0,
-    "since": "2026-11-19",
-    "reason": "change +67% > ±40% vs 9",
-    "origin": "market"
-   },
-   "date": null,
-   "kept": "builtin",
-   "source": "السعر المدمج في التطبيق (built-in)",
+   "candidate": 16.25,
+   "date": "2026-11-19",
+   "source": "سوق العبور للجملة + بوابة الأسعار المحلية + المصري اليوم",
    "source_ids": [
-    "builtin"
+    "obour",
+    "idsc",
+    "almasry_veg"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-11-19",
+   "note": "change +81% accepted: 2 independent sources agree within 0% (almasry_veg, cabinet)",
+   "flag": "sources disagree (almasry_veg 16.25, cabinet 16.33, obour 7) — median of the source medians used"
   },
   "carrot": {
    "status": "fresh",
@@ -2280,12 +2305,18 @@
    "unit": "kg",
    "sources": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
    "observations": [
     {
      "source": "obour",
      "price": 12.5,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "idsc",
+     "price": 25.04,
      "date": "2026-11-19"
     },
     {
@@ -2299,14 +2330,17 @@
      "date": "2026-11-17"
     }
    ],
-   "candidate": 15.0,
+   "candidate": 22.5,
    "date": "2026-11-19",
-   "source": "سوق العبور للجملة + المصري اليوم",
+   "source": "سوق العبور للجملة + بوابة الأسعار المحلية + المصري اليوم",
    "source_ids": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-19",
+   "note": "change +50% accepted: 2 independent sources agree within 11% (almasry_veg, cabinet)",
+   "flag": "sources disagree (almasry_veg 22.5, cabinet 25.04, obour 12.5) — median of the source medians used"
   },
   "okra": {
    "status": "fresh",
@@ -2314,6 +2348,7 @@
    "unit": "kg",
    "sources": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
    "observations": [
@@ -2323,20 +2358,25 @@
      "date": "2026-11-19"
     },
     {
+     "source": "idsc",
+     "price": 57.27,
+     "date": "2026-11-19"
+    },
+    {
      "source": "almasry_veg",
      "price": 70.0,
      "date": "2026-11-17"
     }
    ],
-   "candidate": 66.5,
+   "candidate": 63.0,
    "date": "2026-11-19",
-   "source": "سوق العبور للجملة + المصري اليوم",
+   "source": "سوق العبور للجملة + بوابة الأسعار المحلية + المصري اليوم",
    "source_ids": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
-   "as_of": "2026-11-19",
-   "note": "change +58% accepted: 2 independent sources agree within 11% (almasry_veg, obour)"
+   "as_of": "2026-11-19"
   },
   "molokhia": {
    "status": "held",
@@ -2344,6 +2384,7 @@
    "unit": "kg",
    "sources": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
    "observations": [
@@ -2353,16 +2394,21 @@
      "date": "2026-11-19"
     },
     {
+     "source": "idsc",
+     "price": 19.41,
+     "date": "2026-11-19"
+    },
+    {
      "source": "almasry_veg",
      "price": 30.0,
      "date": "2026-11-19"
     }
    ],
-   "candidate": 22.75,
+   "candidate": 19.41,
    "held": {
-    "candidate": 22.75,
+    "candidate": 19.41,
     "since": "2026-11-19",
-    "reason": "change +153% > ±40% vs 9",
+    "reason": "change +116% > ±40% vs 9",
     "origin": "market"
    },
    "date": null,
@@ -2371,7 +2417,8 @@
    "source_ids": [
     "builtin"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-10-08",
+   "flag": "sources disagree (almasry_veg 30, cabinet 19.41, obour 15.5) — median of the source medians used"
   },
   "cucumber": {
    "status": "fresh",
@@ -2379,12 +2426,18 @@
    "unit": "kg",
    "sources": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
    "observations": [
     {
      "source": "obour",
      "price": 19.0,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "idsc",
+     "price": 22.39,
      "date": "2026-11-19"
     },
     {
@@ -2398,11 +2451,12 @@
      "date": "2026-11-17"
     }
    ],
-   "candidate": 20.0,
+   "candidate": 22.39,
    "date": "2026-11-19",
-   "source": "سوق العبور للجملة + المصري اليوم",
+   "source": "سوق العبور للجملة + بوابة الأسعار المحلية + المصري اليوم",
    "source_ids": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
    "as_of": "2026-11-19"
@@ -2412,9 +2466,15 @@
    "origin": "market",
    "unit": "kg",
    "sources": [
+    "idsc",
     "almasry_veg"
    ],
    "observations": [
+    {
+     "source": "idsc",
+     "price": 108.36,
+     "date": "2026-11-19"
+    },
     {
      "source": "almasry_veg",
      "price": 50.0,
@@ -2426,11 +2486,11 @@
      "date": "2026-11-17"
     }
    ],
-   "candidate": 75.0,
+   "candidate": 91.68,
    "held": {
-    "candidate": 75.0,
-    "since": "2026-11-19",
-    "reason": "change +50% > ±40% vs 50",
+    "candidate": 91.68,
+    "since": "2026-11-20",
+    "reason": "change +83% > ±40% vs 50",
     "origin": "market"
    },
    "date": null,
@@ -2439,7 +2499,8 @@
    "source_ids": [
     "builtin"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-10-08",
+   "flag": "sources disagree (almasry_veg 75, cabinet 108.36) — median of the source medians used"
   },
   "greenbeans": {
    "status": "fresh",
@@ -2447,6 +2508,7 @@
    "unit": "kg",
    "sources": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
    "observations": [
@@ -2456,19 +2518,26 @@
      "date": "2026-11-19"
     },
     {
+     "source": "idsc",
+     "price": 32.28,
+     "date": "2026-11-19"
+    },
+    {
      "source": "almasry_veg",
      "price": 60.0,
      "date": "2026-11-17"
     }
    ],
-   "candidate": 44.0,
+   "candidate": 32.28,
    "date": "2026-11-19",
-   "source": "سوق العبور للجملة + المصري اليوم",
+   "source": "سوق العبور للجملة + بوابة الأسعار المحلية + المصري اليوم",
    "source_ids": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-19",
+   "flag": "sources disagree (almasry_veg 60, cabinet 32.28, obour 28) — median of the source medians used"
   },
   "peas": {
    "status": "fresh",
@@ -2527,7 +2596,8 @@
     "obour",
     "almasry_veg"
    ],
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-19",
+   "flag": "sources disagree (almasry_veg 10, obour 7) — median of the source medians used"
   },
   "cauliflower": {
    "status": "held",
@@ -2559,13 +2629,26 @@
    "as_of": "2026-10-08"
   },
   "spinach": {
-   "status": "builtin",
+   "status": "fresh",
+   "origin": "market",
    "unit": "kg",
-   "source": "السعر المدمج في التطبيق (built-in)",
-   "source_ids": [
-    "builtin"
+   "sources": [
+    "idsc"
    ],
-   "as_of": "2026-10-08"
+   "observations": [
+    {
+     "source": "idsc",
+     "price": 23.51,
+     "date": "2026-11-19"
+    }
+   ],
+   "candidate": 23.51,
+   "date": "2026-11-19",
+   "source": "بوابة الأسعار المحلية",
+   "source_ids": [
+    "idsc"
+   ],
+   "as_of": "2026-11-19"
   },
   "chard": {
    "status": "fresh",
@@ -2590,33 +2673,34 @@
    "as_of": "2026-11-19"
   },
   "taro": {
-   "status": "held",
+   "status": "fresh",
    "origin": "market",
    "unit": "kg",
    "sources": [
-    "obour"
+    "obour",
+    "idsc"
    ],
    "observations": [
     {
      "source": "obour",
      "price": 14.75,
      "date": "2026-11-19"
+    },
+    {
+     "source": "idsc",
+     "price": 27.74,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 14.75,
-   "held": {
-    "candidate": 14.75,
-    "since": "2026-11-19",
-    "reason": "change -41% > ±40% vs 25",
-    "origin": "market"
-   },
-   "date": null,
-   "kept": "builtin",
-   "source": "السعر المدمج في التطبيق (built-in)",
+   "candidate": 21.24,
+   "date": "2026-11-19",
+   "source": "سوق العبور للجملة + بوابة الأسعار المحلية",
    "source_ids": [
-    "builtin"
+    "obour",
+    "idsc"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-11-19",
+   "flag": "sources disagree (cabinet 27.74, obour 14.75) — median of the source medians used"
   },
   "mushroom": {
    "status": "fresh",
@@ -2672,44 +2756,65 @@
    "origin": "market",
    "unit": "pc",
    "sources": [
-    "obour"
+    "obour",
+    "idsc"
    ],
    "observations": [
     {
      "source": "obour",
      "price": 2.1,
      "date": "2026-11-19"
+    },
+    {
+     "source": "idsc",
+     "price": 2.72,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 2.1,
+   "candidate": 2.41,
    "date": "2026-11-19",
-   "source": "سوق العبور للجملة",
+   "source": "سوق العبور للجملة + بوابة الأسعار المحلية",
    "source_ids": [
-    "obour"
+    "obour",
+    "idsc"
    ],
    "as_of": "2026-11-19"
   },
   "lettuce": {
-   "status": "fresh",
+   "status": "held",
    "origin": "market",
    "unit": "pc",
    "sources": [
-    "obour"
+    "obour",
+    "idsc"
    ],
    "observations": [
     {
      "source": "obour",
      "price": 9.75,
      "date": "2026-11-19"
+    },
+    {
+     "source": "idsc",
+     "price": 18.88,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 9.75,
+   "candidate": 14.31,
+   "held": {
+    "candidate": 14.31,
+    "since": "2026-11-20",
+    "reason": "change +47% > ±40% vs 9.75",
+    "origin": "market"
+   },
    "date": "2026-11-19",
+   "kept": "previous",
    "source": "سوق العبور للجملة",
    "source_ids": [
     "obour"
    ],
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-19",
+   "flag": "sources disagree (cabinet 18.88, obour 9.75) — median of the source medians used"
   },
   "lemon": {
    "status": "fresh",
@@ -2717,12 +2822,18 @@
    "unit": "pc",
    "sources": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
    "observations": [
     {
      "source": "obour",
      "price": 0.67,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "idsc",
+     "price": 1.14,
      "date": "2026-11-19"
     },
     {
@@ -2736,34 +2847,42 @@
      "date": "2026-11-17"
     }
    ],
-   "candidate": 1.5,
+   "candidate": 1.14,
    "date": "2026-11-19",
-   "source": "سوق العبور للجملة + المصري اليوم",
+   "source": "سوق العبور للجملة + بوابة الأسعار المحلية + المصري اليوم",
    "source_ids": [
     "obour",
+    "idsc",
     "almasry_veg"
    ],
-   "as_of": "2026-11-19"
+   "as_of": "2026-11-19",
+   "flag": "sources disagree (almasry_veg 1.5, cabinet 1.14, obour 0.67) — median of the source medians used"
   },
   "herbs": {
    "status": "held",
    "origin": "market",
    "unit": "pc",
    "sources": [
-    "obour"
+    "obour",
+    "idsc"
    ],
    "observations": [
     {
      "source": "obour",
      "price": 2.1,
      "date": "2026-11-19"
+    },
+    {
+     "source": "idsc",
+     "price": 3.32,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 2.1,
+   "candidate": 2.71,
    "held": {
-    "candidate": 2.1,
+    "candidate": 2.71,
     "since": "2026-11-20",
-    "reason": "change -58% > ±40% vs 5",
+    "reason": "change -46% > ±40% vs 5",
     "origin": "market"
    },
    "date": null,
@@ -2772,10 +2891,11 @@
    "source_ids": [
     "builtin"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-10-08",
+   "flag": "sources disagree (cabinet 3.32, obour 2.1) — median of the source medians used"
   },
   "paste": {
-   "status": "held",
+   "status": "fresh",
    "origin": "supermarket",
    "unit": "kg",
    "sources": [
@@ -2795,19 +2915,14 @@
     }
    ],
    "candidate": 126.68,
-   "held": {
-    "candidate": 126.68,
-    "since": "2026-11-20",
-    "reason": "change +95% > ±40% vs 65",
-    "origin": "supermarket"
-   },
-   "date": null,
-   "kept": "builtin",
-   "source": "السعر المدمج في التطبيق (built-in)",
+   "date": "2026-11-20",
+   "source": "مترو ماركت + سبينيس مصر",
    "source_ids": [
-    "builtin"
+    "metro",
+    "spinneys"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-11-20",
+   "note": "change +95% accepted: Gourmet 129.17 ÷ premium factor 1.096 (canned_sauces, 6 overlapping ids) = 117.86, within 7% of the mainstream value"
   },
   "vinegar": {
    "status": "fresh",
@@ -3035,7 +3150,7 @@
    "note": "change +146% accepted: 2 independent sources agree within 6% (metro, spinneys)"
   },
   "raisins": {
-   "status": "held",
+   "status": "fresh",
    "origin": "supermarket",
    "unit": "kg",
    "sources": [
@@ -3049,19 +3164,13 @@
     }
    ],
    "candidate": 370.0,
-   "held": {
-    "candidate": 370.0,
-    "since": "2026-11-20",
-    "reason": "change +85% > ±40% vs 200",
-    "origin": "supermarket"
-   },
-   "date": null,
-   "kept": "builtin",
-   "source": "السعر المدمج في التطبيق (built-in)",
+   "date": "2026-11-20",
+   "source": "سبينيس مصر",
    "source_ids": [
-    "builtin"
+    "spinneys"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-11-20",
+   "note": "change +85% accepted: Gourmet 440 ÷ premium factor 1.31 (dry, 23 overlapping ids) = 335.88, within 9% of the mainstream value"
   },
   "coconut": {
    "status": "held",
@@ -3225,42 +3334,29 @@
    "as_of": "2026-11-20"
   },
   "sesame": {
-   "status": "held",
-   "origin": "supermarket",
+   "status": "fresh",
+   "origin": "market",
    "unit": "kg",
    "sources": [
-    "metro",
-    "spinneys"
+    "idsc"
    ],
    "observations": [
     {
-     "source": "metro",
-     "price": 519.8,
-     "date": "2026-11-20"
-    },
-    {
-     "source": "spinneys",
-     "price": 359.95,
-     "date": "2026-11-20"
+     "source": "idsc",
+     "price": 162.9,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 439.88,
-   "held": {
-    "candidate": 439.88,
-    "since": "2026-11-20",
-    "reason": "change +175% > ±40% vs 160",
-    "origin": "supermarket"
-   },
-   "date": null,
-   "kept": "builtin",
-   "source": "السعر المدمج في التطبيق (built-in)",
+   "candidate": 162.9,
+   "date": "2026-11-19",
+   "source": "بوابة الأسعار المحلية",
    "source_ids": [
-    "builtin"
+    "idsc"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-11-19"
   },
   "puff": {
-   "status": "held",
+   "status": "fresh",
    "origin": "supermarket",
    "unit": "kg",
    "sources": [
@@ -3280,19 +3376,14 @@
     }
    ],
    "candidate": 319.31,
-   "held": {
-    "candidate": 319.31,
-    "since": "2026-11-20",
-    "reason": "change +68% > ±40% vs 190",
-    "origin": "supermarket"
-   },
-   "date": null,
-   "kept": "builtin",
-   "source": "السعر المدمج في التطبيق (built-in)",
+   "date": "2026-11-20",
+   "source": "مترو ماركت + سبينيس مصر",
    "source_ids": [
-    "builtin"
+    "metro",
+    "spinneys"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-11-20",
+   "note": "change +68% accepted: Gourmet 362.5 ÷ premium factor 1.25 (all, 65 overlapping ids) = 290.00, within 9% of the mainstream value"
   },
   "spices": {
    "status": "held",
@@ -3364,7 +3455,8 @@
    "unit": "kg",
    "sources": [
     "elwatan_poultry",
-    "banker_poultry"
+    "banker_poultry",
+    "idsc"
    ],
    "observations": [
     {
@@ -3376,14 +3468,20 @@
      "source": "banker_poultry",
      "price": 79.0,
      "date": "2026-11-19"
+    },
+    {
+     "source": "idsc",
+     "price": 87.26,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 78.25,
+   "candidate": 79.0,
    "date": "2026-11-19",
-   "source": "الوطن + بانكير",
+   "source": "الوطن + بانكير + بوابة الأسعار المحلية",
    "source_ids": [
     "elwatan_poultry",
-    "banker_poultry"
+    "banker_poultry",
+    "idsc"
    ],
    "as_of": "2026-11-19"
   },
@@ -3539,19 +3637,26 @@
    "origin": "market",
    "unit": "kg",
    "sources": [
+    "idsc",
     "almasry_meat"
    ],
    "observations": [
+    {
+     "source": "idsc",
+     "price": 450.0,
+     "date": "2026-11-19"
+    },
     {
      "source": "almasry_meat",
      "price": 425.0,
      "date": "2026-11-19"
     }
    ],
-   "candidate": 425.0,
+   "candidate": 437.5,
    "date": "2026-11-19",
-   "source": "المصري اليوم",
+   "source": "بوابة الأسعار المحلية + المصري اليوم",
    "source_ids": [
+    "idsc",
     "almasry_meat"
    ],
    "as_of": "2026-11-19"
@@ -3561,31 +3666,59 @@
    "origin": "market",
    "unit": "kg",
    "sources": [
+    "idsc",
     "almasry_meat"
    ],
    "observations": [
+    {
+     "source": "idsc",
+     "price": 482.35,
+     "date": "2026-11-19"
+    },
     {
      "source": "almasry_meat",
      "price": 430.0,
      "date": "2026-11-19"
     }
    ],
-   "candidate": 430.0,
+   "candidate": 456.18,
    "date": "2026-11-19",
-   "source": "المصري اليوم",
+   "source": "بوابة الأسعار المحلية + المصري اليوم",
    "source_ids": [
+    "idsc",
     "almasry_meat"
    ],
    "as_of": "2026-11-19"
   },
   "veal": {
-   "status": "builtin",
+   "status": "fresh",
+   "origin": "market",
    "unit": "kg",
-   "source": "السعر المدمج في التطبيق (built-in)",
-   "source_ids": [
-    "builtin"
+   "sources": [
+    "idsc",
+    "almasry_meat"
    ],
-   "as_of": "2026-10-08"
+   "observations": [
+    {
+     "source": "idsc",
+     "price": 406.29,
+     "date": "2026-11-19"
+    },
+    {
+     "source": "almasry_meat",
+     "price": 250.0,
+     "date": "2026-11-19"
+    }
+   ],
+   "candidate": 328.14,
+   "date": "2026-11-19",
+   "source": "بوابة الأسعار المحلية + المصري اليوم",
+   "source_ids": [
+    "idsc",
+    "almasry_meat"
+   ],
+   "as_of": "2026-11-19",
+   "flag": "imported veal price (government outlets) — local veal is usually higher; sources disagree (almasry_meat 250, cabinet 406.29) — median of the source medians used"
   },
   "fillet": {
    "status": "fresh",
@@ -3615,6 +3748,7 @@
    "unit": "kg",
    "sources": [
     "elwatan_poultry",
+    "idsc",
     "almasry_birds"
    ],
    "observations": [
@@ -3624,16 +3758,22 @@
      "date": "2026-11-19"
     },
     {
+     "source": "idsc",
+     "price": 127.72,
+     "date": "2026-11-19"
+    },
+    {
      "source": "almasry_birds",
      "price": 140.0,
      "date": "2026-11-19"
     }
    ],
-   "candidate": 137.5,
+   "candidate": 135.0,
    "date": "2026-11-19",
-   "source": "الوطن + المصري اليوم",
+   "source": "الوطن + بوابة الأسعار المحلية + المصري اليوم",
    "source_ids": [
     "elwatan_poultry",
+    "idsc",
     "almasry_birds"
    ],
    "as_of": "2026-11-19"
@@ -3842,14 +3982,20 @@
    "note": "change +62% accepted: 2 independent sources agree within 1% (metro, spinneys)"
   },
   "tilapia": {
-   "status": "held",
+   "status": "fresh",
    "origin": "market",
    "unit": "kg",
    "sources": [
+    "idsc",
     "elwatan_fish",
     "almasry_fish"
    ],
    "observations": [
+    {
+     "source": "idsc",
+     "price": 94.54,
+     "date": "2026-11-19"
+    },
     {
      "source": "elwatan_fish",
      "price": 71.5,
@@ -3866,20 +4012,16 @@
      "date": "2026-11-14"
     }
    ],
-   "candidate": 130.0,
-   "held": {
-    "candidate": 130.0,
-    "since": "2026-11-20",
-    "reason": "change +53% > ±40% vs 85",
-    "origin": "market"
-   },
-   "date": null,
-   "kept": "builtin",
-   "source": "السعر المدمج في التطبيق (built-in)",
+   "candidate": 94.54,
+   "date": "2026-11-19",
+   "source": "بوابة الأسعار المحلية + الوطن + المصري اليوم",
    "source_ids": [
-    "builtin"
+    "idsc",
+    "elwatan_fish",
+    "almasry_fish"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-11-19",
+   "flag": "sources disagree (almasry_fish 130, cabinet 94.54, obour 71.5) — median of the source medians used"
   },
   "mullet": {
    "status": "fresh",
@@ -3906,7 +4048,7 @@
      "date": "2026-11-14"
     }
    ],
-   "candidate": 195.0,
+   "candidate": 192.5,
    "date": "2026-11-18",
    "source": "الوطن + المصري اليوم",
    "source_ids": [
@@ -3940,58 +4082,52 @@
      "date": "2026-11-14"
     }
    ],
-   "candidate": 250.0,
+   "candidate": 325.0,
    "date": "2026-11-18",
    "source": "الوطن + المصري اليوم",
    "source_ids": [
     "elwatan_fish",
     "almasry_fish"
    ],
-   "as_of": "2026-11-18"
+   "as_of": "2026-11-18",
+   "flag": "sources disagree (almasry_fish 250, obour 400) — median of the source medians used"
   },
   "fishfillet": {
-   "status": "held",
-   "origin": "supermarket",
+   "status": "fresh",
+   "origin": "market",
    "unit": "kg",
    "sources": [
-    "metro",
-    "spinneys"
+    "idsc"
    ],
    "observations": [
     {
-     "source": "metro",
-     "price": 600.99,
-     "date": "2026-11-20"
-    },
-    {
-     "source": "spinneys",
-     "price": 374.95,
-     "date": "2026-11-20"
+     "source": "idsc",
+     "price": 212.25,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 487.97,
-   "held": {
-    "candidate": 487.97,
-    "since": "2026-11-20",
-    "reason": "change +157% > ±40% vs 190",
-    "origin": "supermarket"
-   },
-   "date": null,
-   "kept": "builtin",
-   "source": "السعر المدمج في التطبيق (built-in)",
+   "candidate": 212.25,
+   "date": "2026-11-19",
+   "source": "بوابة الأسعار المحلية",
    "source_ids": [
-    "builtin"
+    "idsc"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-11-19"
   },
   "shrimp": {
    "status": "fresh",
    "origin": "market",
    "unit": "kg",
    "sources": [
+    "idsc",
     "almasry_fish"
    ],
    "observations": [
+    {
+     "source": "idsc",
+     "price": 513.5,
+     "date": "2026-11-19"
+    },
     {
      "source": "almasry_fish",
      "price": 500.0,
@@ -4003,23 +4139,30 @@
      "date": "2026-11-14"
     }
    ],
-   "candidate": 500.0,
-   "date": "2026-11-15",
-   "source": "المصري اليوم",
+   "candidate": 506.75,
+   "date": "2026-11-19",
+   "source": "بوابة الأسعار المحلية + المصري اليوم",
    "source_ids": [
+    "idsc",
     "almasry_fish"
    ],
-   "as_of": "2026-11-15"
+   "as_of": "2026-11-19"
   },
   "calamari": {
    "status": "fresh",
    "origin": "market",
    "unit": "kg",
    "sources": [
+    "idsc",
     "elwatan_fish",
     "almasry_fish"
    ],
    "observations": [
+    {
+     "source": "idsc",
+     "price": 468.0,
+     "date": "2026-11-19"
+    },
     {
      "source": "elwatan_fish",
      "price": 350.0,
@@ -4037,13 +4180,14 @@
     }
    ],
    "candidate": 370.0,
-   "date": "2026-11-18",
-   "source": "الوطن + المصري اليوم",
+   "date": "2026-11-19",
+   "source": "بوابة الأسعار المحلية + الوطن + المصري اليوم",
    "source_ids": [
+    "idsc",
     "elwatan_fish",
     "almasry_fish"
    ],
-   "as_of": "2026-11-18",
+   "as_of": "2026-11-19",
    "note": "change +54% accepted: 2 independent sources agree within 6% (almasry_fish, obour)"
   },
   "jumbo": {
@@ -4051,22 +4195,29 @@
    "origin": "market",
    "unit": "kg",
    "sources": [
+    "idsc",
     "almasry_fish"
    ],
    "observations": [
+    {
+     "source": "idsc",
+     "price": 692.92,
+     "date": "2026-11-19"
+    },
     {
      "source": "almasry_fish",
      "price": 700.0,
      "date": "2026-11-14"
     }
    ],
-   "candidate": 700.0,
-   "date": "2026-11-14",
-   "source": "المصري اليوم",
+   "candidate": 696.46,
+   "date": "2026-11-19",
+   "source": "بوابة الأسعار المحلية + المصري اليوم",
    "source_ids": [
+    "idsc",
     "almasry_fish"
    ],
-   "as_of": "2026-11-14"
+   "as_of": "2026-11-19"
   },
   "burger_frz": {
    "status": "held",
@@ -4452,13 +4603,26 @@
    "as_of": "2026-11-20"
   },
   "hawawshi_frz": {
-   "status": "builtin",
+   "status": "fresh",
+   "origin": "supermarket",
    "unit": "pc",
-   "source": "السعر المدمج في التطبيق (built-in)",
-   "source_ids": [
-    "builtin"
+   "sources": [
+    "spinneys"
    ],
-   "as_of": "2026-10-08"
+   "observations": [
+    {
+     "source": "spinneys",
+     "price": 49.95,
+     "date": "2026-11-20"
+    }
+   ],
+   "candidate": 49.95,
+   "date": "2026-11-20",
+   "source": "سبينيس مصر",
+   "source_ids": [
+    "spinneys"
+   ],
+   "as_of": "2026-11-20"
   },
   "pizza_frz": {
    "status": "fresh",
@@ -4483,8 +4647,51 @@
    "as_of": "2026-11-20"
   },
   "crepe_ready": {
-   "status": "builtin",
+   "status": "held",
+   "origin": "derived",
    "unit": "pc",
+   "sources": [
+    "derived"
+   ],
+   "candidate": 2.85,
+   "observations": [
+    {
+     "source": "derived",
+     "price": 2.85,
+     "date": "2026-11-20"
+    }
+   ],
+   "derived_from": {
+    "flour": {
+     "qty": 0.0125,
+     "price": 27.58,
+     "status": "fresh"
+    },
+    "milk": {
+     "qty": 0.03,
+     "price": 47.91,
+     "status": "fresh"
+    },
+    "eggs": {
+     "qty": 0.2,
+     "price": 4.52,
+     "status": "fresh"
+    },
+    "oil": {
+     "qty": 0.0015,
+     "price": 110.56,
+     "status": "fresh"
+    }
+   },
+   "flag": "derived: one ready crêpe sheet ≈ 12.5 g flour + 30 ml milk + 0.2 egg + 1.5 ml oil (10 sheets from 125 g flour, 2 eggs, 300 ml milk); ingredient cost only, no labour/packaging",
+   "held": {
+    "candidate": 2.85,
+    "since": "2026-11-20",
+    "reason": "change -64% > ±40% vs 8",
+    "origin": "derived"
+   },
+   "kept": "builtin",
+   "date": null,
    "source": "السعر المدمج في التطبيق (built-in)",
    "source_ids": [
     "builtin"
@@ -4687,6 +4894,12 @@
     "date": "2026-11-20",
     "products": [
      {
+      "sku": "6221022110216",
+      "name": "Regina Linguini Pasta",
+      "unit_price": 87.5,
+      "calc": "35 EGP / 400g"
+     },
+     {
       "sku": "6221022110520",
       "name": "Regina Shells Pasta",
       "unit_price": 87.5,
@@ -4705,18 +4918,6 @@
       "calc": "35 EGP / 400g"
      },
      {
-      "sku": "6221022110216",
-      "name": "Regina Linguini Pasta",
-      "unit_price": 87.5,
-      "calc": "35 EGP / 400g"
-     },
-     {
-      "sku": "6221022110414",
-      "name": "Regina Macaroni Pasta",
-      "unit_price": 87.5,
-      "calc": "35 EGP / 400g"
-     },
-     {
       "sku": "6221022110025",
       "name": "Regina Spaghetti Pasta",
       "unit_price": 87.5,
@@ -4725,6 +4926,12 @@
      {
       "sku": "6221022110421",
       "name": "Regina Big Rings Pasta 400g",
+      "unit_price": 87.5,
+      "calc": "35 EGP / 400g"
+     },
+     {
+      "sku": "6221022110414",
+      "name": "Regina Macaroni Pasta",
       "unit_price": 87.5,
       "calc": "35 EGP / 400g"
      },
@@ -4977,16 +5184,16 @@
       "calc": "25 EGP / 450g"
      },
      {
-      "sku": "6223000663509",
-      "name": "El Doha Breadcrumbs",
-      "unit_price": 100.0,
-      "calc": "30 EGP / 300g"
-     },
-     {
       "sku": "6223007290210",
       "name": "Breadway Breadcrumbs",
       "unit_price": 125.0,
       "calc": "25 EGP / 200g"
+     },
+     {
+      "sku": "6223000663509",
+      "name": "El Doha Breadcrumbs",
+      "unit_price": 100.0,
+      "calc": "30 EGP / 300g"
      }
     ]
    },
@@ -5027,12 +5234,6 @@
       "calc": "270 EGP / 2200ml"
      },
      {
-      "sku": "6222000579896",
-      "name": "Crystal Sunflower Oil",
-      "unit_price": 131.43,
-      "calc": "92 EGP / 700ml"
-     },
-     {
       "sku": "6223000264348",
       "name": "Afia Sunflower Oil - 2.2L",
       "unit_price": 122.73,
@@ -5043,6 +5244,12 @@
       "name": "Afia Sunflower Oil - 1.6L",
       "unit_price": 125.0,
       "calc": "200 EGP / 1600ml"
+     },
+     {
+      "sku": "6222000579896",
+      "name": "Crystal Sunflower Oil",
+      "unit_price": 131.43,
+      "calc": "92 EGP / 700ml"
      },
      {
       "sku": "6222000505314",
@@ -5098,7 +5305,7 @@
    },
    "milk": {
     "status": "fresh",
-    "candidate": 63.53,
+    "candidate": 67.06,
     "date": "2026-11-20",
     "products": [
      {
@@ -5130,12 +5337,6 @@
       "name": "Dina Farms Full Cream Milk",
       "unit_price": 67.06,
       "calc": "57 EGP / 850ml"
-     },
-     {
-      "sku": "6223001871101",
-      "name": "Almarai Long-Life Full Cream Milk",
-      "unit_price": 60.0,
-      "calc": "60 EGP / 1000ml"
      }
     ]
    },
@@ -5151,16 +5352,16 @@
       "calc": "70 EGP / 250ml"
      },
      {
-      "sku": "6222014300134",
-      "name": "Juhayna Cooking Cream - Medium",
-      "unit_price": 320.0,
-      "calc": "160 EGP / 500ml"
-     },
-     {
       "sku": "6224002142016",
       "name": "Lamar Cooking Cream",
       "unit_price": 300.0,
       "calc": "75 EGP / 250ml"
+     },
+     {
+      "sku": "6222014300134",
+      "name": "Juhayna Cooking Cream - Medium",
+      "unit_price": 320.0,
+      "calc": "160 EGP / 500ml"
      },
      {
       "sku": "6224008637196",
@@ -5404,18 +5605,6 @@
     "date": "2026-11-20",
     "products": [
      {
-      "sku": "6225000439474",
-      "name": "Zanaty White Eggs - 24 Pieces",
-      "unit_price": 7.88,
-      "calc": "189 EGP / 24 pcs × 1"
-     },
-     {
-      "sku": "6225000439412",
-      "name": "Zanaty Red Eggs - 6 Pieces",
-      "unit_price": 11.17,
-      "calc": "67 EGP / 6 pcs × 1"
-     },
-     {
       "sku": "6772504684157",
       "name": "Al Alamya Red Eggs 30 Eggs",
       "unit_price": 8.13,
@@ -5426,6 +5615,18 @@
       "name": "Al Alamya White Eggs 30 Eggs",
       "unit_price": 7.87,
       "calc": "236 EGP / 30 pcs × 1"
+     },
+     {
+      "sku": "6225000439474",
+      "name": "Zanaty White Eggs - 24 Pieces",
+      "unit_price": 7.88,
+      "calc": "189 EGP / 24 pcs × 1"
+     },
+     {
+      "sku": "6225000439412",
+      "name": "Zanaty Red Eggs - 6 Pieces",
+      "unit_price": 11.17,
+      "calc": "67 EGP / 6 pcs × 1"
      },
      {
       "sku": "6225000000193",
@@ -5482,12 +5683,6 @@
       "calc": "71 EGP / 6 pcs × 1"
      },
      {
-      "sku": "6224002013255",
-      "name": "Al Alamya Red Eggs 6 Pieces",
-      "unit_price": 11.0,
-      "calc": "66 EGP / 6 pcs × 1"
-     },
-     {
       "sku": "6224002013194",
       "name": "Al Alamya Red Eggs - 18 PCs",
       "unit_price": 8.72,
@@ -5498,6 +5693,12 @@
       "name": "Al Alamya White Eggs - 18 PCs",
       "unit_price": 8.61,
       "calc": "155 EGP / 18 pcs × 1"
+     },
+     {
+      "sku": "6224002013255",
+      "name": "Al Alamya Red Eggs 6 Pieces",
+      "unit_price": 11.0,
+      "calc": "66 EGP / 6 pcs × 1"
      }
     ]
    },
@@ -5532,16 +5733,16 @@
       "calc": "39 EGP / 500g"
      },
      {
-      "sku": "6046340000007",
-      "name": "Golden Onion",
-      "unit_price": 69.0,
-      "calc": "69 EGP / 1000g"
-     },
-     {
       "sku": "6046350000004",
       "name": "Red Onion",
       "unit_price": 65.0,
       "calc": "65 EGP / 1000g"
+     },
+     {
+      "sku": "6046340000007",
+      "name": "Golden Onion",
+      "unit_price": 69.0,
+      "calc": "69 EGP / 1000g"
      }
     ]
    },
@@ -5840,16 +6041,16 @@
       "calc": "85 EGP per pack (140g)"
      },
      {
+      "sku": "6211101112019",
+      "name": "Tolido Tuna Chunks",
+      "unit_price": 100,
+      "calc": "100 EGP per pack (185g)"
+     },
+     {
       "sku": "749350088596",
       "name": "Aqua Shredded Tuna",
       "unit_price": 36,
       "calc": "36 EGP per pack (140g)"
-     },
-     {
-      "sku": "6211101154019",
-      "name": "Tolido Tuna One Piece",
-      "unit_price": 110,
-      "calc": "110 EGP per pack (185g)"
      },
      {
       "sku": "0749350088596",
@@ -5858,10 +6059,10 @@
       "calc": "45 EGP per pack (140g)"
      },
      {
-      "sku": "6211101112019",
-      "name": "Tolido Tuna Chunks",
-      "unit_price": 100,
-      "calc": "100 EGP per pack (185g)"
+      "sku": "6211101154019",
+      "name": "Tolido Tuna One Piece",
+      "unit_price": 110,
+      "calc": "110 EGP per pack (185g)"
      }
     ]
    },
@@ -5871,16 +6072,16 @@
     "date": "2026-11-20",
     "products": [
      {
-      "sku": "6223000762066",
-      "name": "El Bawadi Molasses",
-      "unit_price": 102.94,
-      "calc": "35 EGP / 340g"
-     },
-     {
       "sku": "6044062000008",
       "name": "Molasses",
       "unit_price": 144.74,
       "calc": "55 EGP / 380g"
+     },
+     {
+      "sku": "6223000762066",
+      "name": "El Bawadi Molasses",
+      "unit_price": 102.94,
+      "calc": "35 EGP / 340g"
      }
     ]
    },
@@ -5960,16 +6161,16 @@
       "calc": "745 EGP / 200g"
      },
      {
-      "sku": "7026556672471",
-      "name": "Gourmet Salted Roasted Peeled Pistachios",
-      "unit_price": 3733.33,
-      "calc": "560 EGP / 150g"
-     },
-     {
       "sku": "7027627777774",
       "name": "California Roasted & Salted Pistachios",
       "unit_price": 1800.0,
       "calc": "360 EGP / 200g"
+     },
+     {
+      "sku": "7026556672471",
+      "name": "Gourmet Salted Roasted Peeled Pistachios",
+      "unit_price": 3733.33,
+      "calc": "560 EGP / 150g"
      },
      {
       "sku": "7026550666674",
@@ -9118,6 +9319,17 @@
       "unit_price": 97.38,
       "calc": "38.95 EGP / 400g",
       "url": "https://spinneys-egypt.com/en/hafsa-green-beans-400g"
+     }
+    ]
+   },
+   "hawawshi_frz": {
+    "products": [
+     {
+      "sku": "122819",
+      "name": "Hawawshi Balady",
+      "unit_price": 49.95,
+      "calc": "49.95 EGP / 1 pcs × 1",
+      "url": "https://spinneys-egypt.com/en/hawawshi-balady"
      }
     ]
    },
@@ -19285,21 +19497,22 @@
  "meta": {
   "generator": "hanakol prices/build_prices.py",
   "counts": {
-   "fresh_market": 43,
+   "fresh_market": 60,
    "fresh_supermarket": 58,
    "fresh_gourmet": 0,
-   "held": 36,
-   "previous": 1,
-   "builtin": 6
+   "held": 24,
+   "previous": 0,
+   "builtin": 2
   },
   "total_ids": 144,
-  "fresh_ids": 101,
+  "fresh_ids": 118,
   "rules": {
    "max_change": 0.4,
    "confirm_market_jump": {
     "enabled": true,
     "min_days_apart": 6,
-    "max_drift": 0.15
+    "max_drift": 0.15,
+    "_doc": "A held jump becomes fresh when a reading ≥ min_days_apart later is within max_drift of the held candidate. Applies to market AND supermarket candidates (since 20 Nov 2026)."
    },
    "implausible_factor": 8.0,
    "wholesale_markup": 1.4,
@@ -19330,17 +19543,11 @@
     "url": "https://www.banker.news/156856",
     "date": "2026-10-20",
     "ids_priced": 0
-   },
-   {
-    "id": "almasry_fish",
-    "name": "المصري اليوم — أسعار السمك في أسواق المحافظات (تجزئة)",
-    "kind": "retail",
-    "url": "https://www.almasryalyoum.com/news/details/4408565",
-    "date": "2026-11-12",
-    "ids_priced": 0
    }
   ],
-  "errors": [],
+  "errors": [
+   "banker_meatmkt: no usable article/parse found"
+  ],
   "fetch_log": [
    {
     "url": "http://www.oboormarket.org.eg/prices_today.aspx",
@@ -19355,37 +19562,37 @@
    {
     "url": "https://www.banker.news/rss.aspx",
     "ok": true,
-    "bytes": 21627
+    "bytes": 21920
    },
    {
     "url": "https://www.banker.news/category/43",
     "ok": true,
-    "bytes": 54071
+    "bytes": 54105
    },
    {
     "url": "https://www.banker.news/category/43?page=2",
     "ok": true,
-    "bytes": 54516
+    "bytes": 54550
    },
    {
     "url": "https://www.banker.news/156861",
     "ok": true,
-    "bytes": 74144
+    "bytes": 74178
    },
    {
     "url": "https://www.banker.news/156856",
     "ok": true,
-    "bytes": 72034
+    "bytes": 72068
    },
    {
     "url": "https://www.banker.news/161727",
     "ok": true,
-    "bytes": 75088
+    "bytes": 75122
    },
    {
     "url": "https://www.almasryalyoum.com/sitemapxmls/news/news-2026-11.xml",
     "ok": true,
-    "bytes": 8551208
+    "bytes": 8563996
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4415180",
@@ -19395,7 +19602,7 @@
    {
     "url": "https://www.elwatannews.com/news-sitemap.xml",
     "ok": true,
-    "bytes": 439743
+    "bytes": 439716
    },
    {
     "url": "https://www.elwatannews.com/news/details/8399636",
@@ -19413,9 +19620,89 @@
     "bytes": 99799
    },
    {
+    "url": "https://www.banker.news/newsmap.xml",
+    "ok": true,
+    "bytes": 201760
+   },
+   {
+    "url": "https://www.banker.news/rss.aspx",
+    "ok": true,
+    "bytes": 21920
+   },
+   {
+    "url": "https://www.banker.news/category/43",
+    "ok": true,
+    "bytes": 54105
+   },
+   {
+    "url": "https://www.banker.news/category/43?page=2",
+    "ok": true,
+    "bytes": 54550
+   },
+   {
+    "url": "https://www.banker.news/156856",
+    "ok": true,
+    "bytes": 72068
+   },
+   {
+    "url": "https://www.banker.news/156712",
+    "ok": true,
+    "bytes": 72556
+   },
+   {
+    "url": "https://www.banker.news/156578",
+    "ok": true,
+    "bytes": 72946
+   },
+   {
+    "url": "https://www.banker.news/156252",
+    "ok": true,
+    "bytes": 72250
+   },
+   {
+    "url": "http://app.prices.idsc.gov.eg/api/PricesData/GetFocusedGeneralIndicatorWithData",
+    "ok": true,
+    "bytes": 37763
+   },
+   {
+    "url": "http://app.prices.idsc.gov.eg/api/PricesData/GetGeneralIndicatorAllData/11",
+    "ok": true,
+    "bytes": 9128
+   },
+   {
+    "url": "http://app.prices.idsc.gov.eg/api/PricesData/GetGeneralIndicatorAllData/3",
+    "ok": true,
+    "bytes": 29669
+   },
+   {
+    "url": "http://app.prices.idsc.gov.eg/api/PricesData/GetGeneralIndicatorAllData/2",
+    "ok": true,
+    "bytes": 23016
+   },
+   {
+    "url": "http://app.prices.idsc.gov.eg/api/PricesData/GetSubIndicatorDetailsForMainIndicator/877",
+    "ok": true,
+    "bytes": 2985
+   },
+   {
+    "url": "http://app.prices.idsc.gov.eg/api/PricesData/GetSubIndicatorDetailsForMainIndicator/880",
+    "ok": true,
+    "bytes": 828
+   },
+   {
+    "url": "http://app.prices.idsc.gov.eg/api/PricesData/GetSubIndicatorDetailsForMainIndicator/80",
+    "ok": true,
+    "bytes": 2507
+   },
+   {
     "url": "https://www.almasryalyoum.com/sitemapxmls/news/news-2026-11.xml",
     "ok": true,
-    "bytes": 8551208
+    "bytes": 8563996
+   },
+   {
+    "url": "https://www.almasryalyoum.com/news/details/4415200",
+    "ok": true,
+    "bytes": 331267
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4414602",
@@ -19425,12 +19712,12 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4414399",
     "ok": true,
-    "bytes": 327290
+    "bytes": 327272
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4414274",
     "ok": true,
-    "bytes": 333297
+    "bytes": 333291
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4414273",
@@ -19450,7 +19737,7 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4412738",
     "ok": true,
-    "bytes": 316565
+    "bytes": 316559
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4412660",
@@ -19480,7 +19767,7 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4411690",
     "ok": true,
-    "bytes": 318604
+    "bytes": 318603
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4411541",
@@ -19490,17 +19777,12 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4411512",
     "ok": true,
-    "bytes": 331321
-   },
-   {
-    "url": "https://www.almasryalyoum.com/news/details/4411164",
-    "ok": true,
-    "bytes": 322588
+    "bytes": 331319
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4414604",
     "ok": true,
-    "bytes": 315893
+    "bytes": 315876
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4412719",
@@ -19515,7 +19797,7 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4412656",
     "ok": true,
-    "bytes": 315845
+    "bytes": 315840
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4411785",
@@ -19588,14 +19870,19 @@
     "bytes": 321019
    },
    {
+    "url": "https://www.almasryalyoum.com/news/details/4415201",
+    "ok": true,
+    "bytes": 332174
+   },
+   {
     "url": "https://www.almasryalyoum.com/news/details/4414519",
     "ok": true,
-    "bytes": 325770
+    "bytes": 325751
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4414277",
     "ok": true,
-    "bytes": 328068
+    "bytes": 328051
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4413716",
@@ -19605,12 +19892,12 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4413332",
     "ok": true,
-    "bytes": 328079
+    "bytes": 328072
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4412750",
     "ok": true,
-    "bytes": 319870
+    "bytes": 319864
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4412480",
@@ -19661,11 +19948,6 @@
     "url": "https://www.almasryalyoum.com/news/details/4409024",
     "ok": true,
     "bytes": 332401
-   },
-   {
-    "url": "https://www.almasryalyoum.com/news/details/4408565",
-    "ok": true,
-    "bytes": 325996
    },
    {
     "source": "gourmet",
@@ -22633,15 +22915,27 @@
    },
    {
     "source": "spinneys",
-    "term": "hawawshi",
+    "term": "hawawshi balady",
     "ok": true,
-    "items": 25
+    "items": 40
+   },
+   {
+    "source": "spinneys",
+    "term": "حواوشي",
+    "ok": true,
+    "items": 12
    },
    {
     "source": "metro",
-    "term": "hawawshi",
+    "term": "hawawshi balady",
     "ok": true,
-    "items": 2
+    "items": 0
+   },
+   {
+    "source": "metro",
+    "term": "حواوشي",
+    "ok": true,
+    "items": 0
    },
    {
     "source": "spinneys",
