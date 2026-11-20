@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated_at": "2026-11-20T01:48:21+02:00",
+ "updated_at": "2026-11-20T02:08:27+02:00",
  "currency": "EGP",
  "default": {
   "rice": 34.96,
@@ -102,21 +102,21 @@
   "pigeon": 70.0,
   "duck": 130.0,
   "rabbit": 120.0,
-  "beef": 437.5,
-  "lamb": 456.18,
-  "veal": 328.14,
+  "beef": 443.0,
+  "lamb": 482.35,
+  "veal": 406.29,
   "fillet": 475.0,
   "baladi": 135.0,
-  "chops": 649.95,
-  "tender": 619.95,
+  "chops": 575.0,
+  "tender": 600.0,
   "mince_p": 500.0,
-  "vliver": 425.0,
-  "mince": 430.0,
-  "sausage": 375.0,
+  "vliver": 462.5,
+  "mince": 405.0,
+  "sausage": 312.5,
   "liver": 160.0,
   "kaware": 160.0,
-  "mombar": 150.0,
-  "pastrami": 973.97,
+  "mombar": 175.0,
+  "pastrami": 868.5,
   "tilapia": 94.54,
   "mullet": 192.5,
   "bream": 325.0,
@@ -491,6 +491,14 @@
    "url": "https://www.elwatannews.com/news/details/8399014",
    "date": "2026-11-18",
    "ids_priced": 4
+  },
+  {
+   "id": "banker_meatmkt",
+   "name": "بانكير — أسعار اللحوم البلدي والمستوردة والأحشاء (أسواق)",
+   "kind": "retail",
+   "url": "https://www.banker.news/161605",
+   "date": "2026-11-19",
+   "ids_priced": 10
   },
   {
    "id": "idsc",
@@ -3638,6 +3646,7 @@
    "unit": "kg",
    "sources": [
     "idsc",
+    "banker_meatmkt",
     "almasry_meat"
    ],
    "observations": [
@@ -3647,16 +3656,22 @@
      "date": "2026-11-19"
     },
     {
+     "source": "banker_meatmkt",
+     "price": 443.0,
+     "date": "2026-11-19"
+    },
+    {
      "source": "almasry_meat",
      "price": 425.0,
      "date": "2026-11-19"
     }
    ],
-   "candidate": 437.5,
+   "candidate": 443.0,
    "date": "2026-11-19",
-   "source": "بوابة الأسعار المحلية + المصري اليوم",
+   "source": "بوابة الأسعار المحلية + بانكير + المصري اليوم",
    "source_ids": [
     "idsc",
+    "banker_meatmkt",
     "almasry_meat"
    ],
    "as_of": "2026-11-19"
@@ -3667,6 +3682,7 @@
    "unit": "kg",
    "sources": [
     "idsc",
+    "banker_meatmkt",
     "almasry_meat"
    ],
    "observations": [
@@ -3676,16 +3692,22 @@
      "date": "2026-11-19"
     },
     {
+     "source": "banker_meatmkt",
+     "price": 485.0,
+     "date": "2026-11-19"
+    },
+    {
      "source": "almasry_meat",
      "price": 430.0,
      "date": "2026-11-19"
     }
    ],
-   "candidate": 456.18,
+   "candidate": 482.35,
    "date": "2026-11-19",
-   "source": "بوابة الأسعار المحلية + المصري اليوم",
+   "source": "بوابة الأسعار المحلية + بانكير + المصري اليوم",
    "source_ids": [
     "idsc",
+    "banker_meatmkt",
     "almasry_meat"
    ],
    "as_of": "2026-11-19"
@@ -3696,6 +3718,7 @@
    "unit": "kg",
    "sources": [
     "idsc",
+    "banker_meatmkt",
     "almasry_meat"
    ],
    "observations": [
@@ -3705,20 +3728,26 @@
      "date": "2026-11-19"
     },
     {
+     "source": "banker_meatmkt",
+     "price": 497.0,
+     "date": "2026-11-19"
+    },
+    {
      "source": "almasry_meat",
      "price": 250.0,
      "date": "2026-11-19"
     }
    ],
-   "candidate": 328.14,
+   "candidate": 406.29,
    "date": "2026-11-19",
-   "source": "بوابة الأسعار المحلية + المصري اليوم",
+   "source": "بوابة الأسعار المحلية + بانكير + المصري اليوم",
    "source_ids": [
     "idsc",
+    "banker_meatmkt",
     "almasry_meat"
    ],
    "as_of": "2026-11-19",
-   "flag": "imported veal price (government outlets) — local veal is usually higher; sources disagree (almasry_meat 250, cabinet 406.29) — median of the source medians used"
+   "flag": "imported veal price (government outlets) — local veal is usually higher; sources disagree (almasry_meat 250, banker_market 497, cabinet 406.29) — median of the source medians used"
   },
   "fillet": {
    "status": "fresh",
@@ -3780,47 +3809,47 @@
   },
   "chops": {
    "status": "fresh",
-   "origin": "supermarket",
+   "origin": "market",
    "unit": "kg",
    "sources": [
-    "spinneys"
+    "banker_meatmkt"
    ],
    "observations": [
     {
-     "source": "spinneys",
-     "price": 649.95,
-     "date": "2026-11-20"
+     "source": "banker_meatmkt",
+     "price": 575.0,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 649.95,
-   "date": "2026-11-20",
-   "source": "سبينيس مصر",
+   "candidate": 575.0,
+   "date": "2026-11-19",
+   "source": "بانكير",
    "source_ids": [
-    "spinneys"
+    "banker_meatmkt"
    ],
-   "as_of": "2026-11-20"
+   "as_of": "2026-11-19"
   },
   "tender": {
    "status": "fresh",
-   "origin": "supermarket",
+   "origin": "market",
    "unit": "kg",
    "sources": [
-    "spinneys"
+    "banker_meatmkt"
    ],
    "observations": [
     {
-     "source": "spinneys",
-     "price": 619.95,
-     "date": "2026-11-20"
+     "source": "banker_meatmkt",
+     "price": 600.0,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 619.95,
-   "date": "2026-11-20",
-   "source": "سبينيس مصر",
+   "candidate": 600.0,
+   "date": "2026-11-19",
+   "source": "بانكير",
    "source_ids": [
-    "spinneys"
+    "banker_meatmkt"
    ],
-   "as_of": "2026-11-20"
+   "as_of": "2026-11-19"
   },
   "mince_p": {
    "status": "fresh",
@@ -3849,19 +3878,26 @@
    "origin": "market",
    "unit": "kg",
    "sources": [
+    "banker_meatmkt",
     "almasry_meat"
    ],
    "observations": [
+    {
+     "source": "banker_meatmkt",
+     "price": 500.0,
+     "date": "2026-11-19"
+    },
     {
      "source": "almasry_meat",
      "price": 425.0,
      "date": "2026-11-19"
     }
    ],
-   "candidate": 425.0,
+   "candidate": 462.5,
    "date": "2026-11-19",
-   "source": "المصري اليوم",
+   "source": "بانكير + المصري اليوم",
    "source_ids": [
+    "banker_meatmkt",
     "almasry_meat"
    ],
    "as_of": "2026-11-19"
@@ -3871,19 +3907,26 @@
    "origin": "market",
    "unit": "kg",
    "sources": [
+    "banker_meatmkt",
     "almasry_meat"
    ],
    "observations": [
+    {
+     "source": "banker_meatmkt",
+     "price": 380.0,
+     "date": "2026-11-19"
+    },
     {
      "source": "almasry_meat",
      "price": 430.0,
      "date": "2026-11-19"
     }
    ],
-   "candidate": 430.0,
+   "candidate": 405.0,
    "date": "2026-11-19",
-   "source": "المصري اليوم",
+   "source": "بانكير + المصري اليوم",
    "source_ids": [
+    "banker_meatmkt",
     "almasry_meat"
    ],
    "as_of": "2026-11-19"
@@ -3893,23 +3936,30 @@
    "origin": "market",
    "unit": "kg",
    "sources": [
+    "banker_meatmkt",
     "almasry_meat"
    ],
    "observations": [
+    {
+     "source": "banker_meatmkt",
+     "price": 250.0,
+     "date": "2026-11-19"
+    },
     {
      "source": "almasry_meat",
      "price": 375.0,
      "date": "2026-11-19"
     }
    ],
-   "candidate": 375.0,
+   "candidate": 312.5,
    "date": "2026-11-19",
-   "source": "المصري اليوم",
+   "source": "بانكير + المصري اليوم",
    "source_ids": [
+    "banker_meatmkt",
     "almasry_meat"
    ],
    "as_of": "2026-11-19",
-   "note": "change +44% accepted: 2 independent sources agree within 8% (almasry_meat, spinneys)"
+   "flag": "sources disagree (almasry_meat 375, banker_market 250) — median of the source medians used"
   },
   "liver": {
    "status": "fresh",
@@ -3940,46 +3990,61 @@
    "source_ids": [
     "builtin"
    ],
-   "as_of": "2026-10-08"
+   "as_of": "2026-10-08",
+   "alt_unit_price": {
+    "unit": "pc",
+    "price": 300.0,
+    "source": "بانكير",
+    "source_ids": [
+     "banker_meatmkt"
+    ],
+    "as_of": "2026-11-19",
+    "note": "not used in default: app unit is kg"
+   }
   },
   "mombar": {
-   "status": "builtin",
-   "unit": "kg",
-   "source": "السعر المدمج في التطبيق (built-in)",
-   "source_ids": [
-    "builtin"
-   ],
-   "as_of": "2026-10-08"
-  },
-  "pastrami": {
    "status": "fresh",
-   "origin": "supermarket",
+   "origin": "market",
    "unit": "kg",
    "sources": [
-    "metro",
-    "spinneys"
+    "banker_meatmkt"
    ],
    "observations": [
     {
-     "source": "metro",
-     "price": 967.99,
-     "date": "2026-11-20"
-    },
-    {
-     "source": "spinneys",
-     "price": 979.95,
-     "date": "2026-11-20"
+     "source": "banker_meatmkt",
+     "price": 175.0,
+     "date": "2026-11-19"
     }
    ],
-   "candidate": 973.97,
-   "date": "2026-11-20",
-   "source": "مترو ماركت + سبينيس مصر",
+   "candidate": 175.0,
+   "date": "2026-11-19",
+   "source": "بانكير",
    "source_ids": [
-    "metro",
-    "spinneys"
+    "banker_meatmkt"
    ],
-   "as_of": "2026-11-20",
-   "note": "change +62% accepted: 2 independent sources agree within 1% (metro, spinneys)"
+   "as_of": "2026-11-19"
+  },
+  "pastrami": {
+   "status": "fresh",
+   "origin": "market",
+   "unit": "kg",
+   "sources": [
+    "banker_meatmkt"
+   ],
+   "observations": [
+    {
+     "source": "banker_meatmkt",
+     "price": 868.5,
+     "date": "2026-11-19"
+    }
+   ],
+   "candidate": 868.5,
+   "date": "2026-11-19",
+   "source": "بانكير",
+   "source_ids": [
+    "banker_meatmkt"
+   ],
+   "as_of": "2026-11-19"
   },
   "tilapia": {
    "status": "fresh",
@@ -5665,16 +5730,16 @@
       "calc": "191 EGP / 24 pcs × 1"
      },
      {
-      "sku": "6225000000162",
-      "name": "Egyptian Growers White Eggs 15 Pieces",
-      "unit_price": 7.13,
-      "calc": "107 EGP / 15 pcs × 1"
-     },
-     {
       "sku": "6225000000155",
       "name": "Egyptian Growers White Eggs - 10 Pieces",
       "unit_price": 7.8,
       "calc": "78 EGP / 10 pcs × 1"
+     },
+     {
+      "sku": "6225000000162",
+      "name": "Egyptian Growers White Eggs 15 Pieces",
+      "unit_price": 7.13,
+      "calc": "107 EGP / 15 pcs × 1"
      },
      {
       "sku": "6224002013248",
@@ -5733,16 +5798,16 @@
       "calc": "39 EGP / 500g"
      },
      {
-      "sku": "6046350000004",
-      "name": "Red Onion",
-      "unit_price": 65.0,
-      "calc": "65 EGP / 1000g"
-     },
-     {
       "sku": "6046340000007",
       "name": "Golden Onion",
       "unit_price": 69.0,
       "calc": "69 EGP / 1000g"
+     },
+     {
+      "sku": "6046350000004",
+      "name": "Red Onion",
+      "unit_price": 65.0,
+      "calc": "65 EGP / 1000g"
      }
     ]
    },
@@ -19497,15 +19562,15 @@
  "meta": {
   "generator": "hanakol prices/build_prices.py",
   "counts": {
-   "fresh_market": 60,
-   "fresh_supermarket": 58,
+   "fresh_market": 64,
+   "fresh_supermarket": 55,
    "fresh_gourmet": 0,
    "held": 24,
    "previous": 0,
-   "builtin": 2
+   "builtin": 1
   },
   "total_ids": 144,
-  "fresh_ids": 118,
+  "fresh_ids": 119,
   "rules": {
    "max_change": 0.4,
    "confirm_market_jump": {
@@ -19532,22 +19597,20 @@
     "id": "banker_veg",
     "name": "بانكير — أسعار الخضار في سوق العبور (جملة)",
     "kind": "wholesale",
-    "url": "https://www.banker.news/156861",
-    "date": "2026-10-20",
+    "url": "https://www.banker.news/161609",
+    "date": "2026-11-19",
     "ids_priced": 0
    },
    {
     "id": "banker_meat",
     "name": "بانكير — أسعار اللحوم (بوابة الأسعار - مجلس الوزراء، متوسط تجزئة)",
     "kind": "retail",
-    "url": "https://www.banker.news/156856",
-    "date": "2026-10-20",
+    "url": "https://www.banker.news/161605",
+    "date": "2026-11-19",
     "ids_priced": 0
    }
   ],
-  "errors": [
-   "banker_meatmkt: no usable article/parse found"
-  ],
+  "errors": [],
   "fetch_log": [
    {
     "url": "http://www.oboormarket.org.eg/prices_today.aspx",
@@ -19562,37 +19625,57 @@
    {
     "url": "https://www.banker.news/rss.aspx",
     "ok": true,
-    "bytes": 21920
+    "bytes": 22025
    },
    {
     "url": "https://www.banker.news/category/43",
     "ok": true,
-    "bytes": 54105
+    "bytes": 54083
    },
    {
     "url": "https://www.banker.news/category/43?page=2",
     "ok": true,
-    "bytes": 54550
+    "bytes": 54528
    },
    {
-    "url": "https://www.banker.news/156861",
+    "url": "https://www.banker.news/category/45",
     "ok": true,
-    "bytes": 74178
+    "bytes": 54168
    },
    {
-    "url": "https://www.banker.news/156856",
+    "url": "https://www.banker.news/category/45?page=2",
     "ok": true,
-    "bytes": 72068
+    "bytes": 54436
+   },
+   {
+    "url": "https://www.banker.news/category/45?page=3",
+    "ok": true,
+    "bytes": 54243
+   },
+   {
+    "url": "https://www.banker.news/category/45?page=4",
+    "ok": true,
+    "bytes": 54460
+   },
+   {
+    "url": "https://www.banker.news/161609",
+    "ok": true,
+    "bytes": 72097
+   },
+   {
+    "url": "https://www.banker.news/161605",
+    "ok": true,
+    "bytes": 72910
    },
    {
     "url": "https://www.banker.news/161727",
     "ok": true,
-    "bytes": 75122
+    "bytes": 75100
    },
    {
     "url": "https://www.almasryalyoum.com/sitemapxmls/news/news-2026-11.xml",
     "ok": true,
-    "bytes": 8563996
+    "bytes": 8570375
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4415180",
@@ -19607,17 +19690,17 @@
    {
     "url": "https://www.elwatannews.com/news/details/8399636",
     "ok": true,
-    "bytes": 103131
+    "bytes": 103151
    },
    {
     "url": "https://www.elwatannews.com/news/details/8399677",
     "ok": true,
-    "bytes": 104358
+    "bytes": 104378
    },
    {
     "url": "https://www.elwatannews.com/news/details/8399014",
     "ok": true,
-    "bytes": 99799
+    "bytes": 99819
    },
    {
     "url": "https://www.banker.news/newsmap.xml",
@@ -19627,37 +19710,42 @@
    {
     "url": "https://www.banker.news/rss.aspx",
     "ok": true,
-    "bytes": 21920
+    "bytes": 22025
    },
    {
     "url": "https://www.banker.news/category/43",
     "ok": true,
-    "bytes": 54105
+    "bytes": 54083
    },
    {
     "url": "https://www.banker.news/category/43?page=2",
     "ok": true,
-    "bytes": 54550
+    "bytes": 54528
    },
    {
-    "url": "https://www.banker.news/156856",
+    "url": "https://www.banker.news/category/45",
     "ok": true,
-    "bytes": 72068
+    "bytes": 54168
    },
    {
-    "url": "https://www.banker.news/156712",
+    "url": "https://www.banker.news/category/45?page=2",
     "ok": true,
-    "bytes": 72556
+    "bytes": 54436
    },
    {
-    "url": "https://www.banker.news/156578",
+    "url": "https://www.banker.news/category/45?page=3",
     "ok": true,
-    "bytes": 72946
+    "bytes": 54243
    },
    {
-    "url": "https://www.banker.news/156252",
+    "url": "https://www.banker.news/category/45?page=4",
     "ok": true,
-    "bytes": 72250
+    "bytes": 54460
+   },
+   {
+    "url": "https://www.banker.news/161605",
+    "ok": true,
+    "bytes": 72910
    },
    {
     "url": "http://app.prices.idsc.gov.eg/api/PricesData/GetFocusedGeneralIndicatorWithData",
@@ -19697,7 +19785,7 @@
    {
     "url": "https://www.almasryalyoum.com/sitemapxmls/news/news-2026-11.xml",
     "ok": true,
-    "bytes": 8563996
+    "bytes": 8570375
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4415200",
@@ -19782,7 +19870,7 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4414604",
     "ok": true,
-    "bytes": 315876
+    "bytes": 315893
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4412719",
@@ -19887,7 +19975,7 @@
    {
     "url": "https://www.almasryalyoum.com/news/details/4413716",
     "ok": true,
-    "bytes": 318859
+    "bytes": 318877
    },
    {
     "url": "https://www.almasryalyoum.com/news/details/4413332",
